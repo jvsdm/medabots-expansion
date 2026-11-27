@@ -8,12 +8,6 @@ An expansion of **Medabots - Rokusho Version (USA)** for the Game Boy Advance, b
 - Optional packs: the **60 Medabots of Shingata Medarot** and the **Medabots of Medarot Navi** (with Medachange), in random battles.
 - Medalink rematches, Metabee and Rokusho from the start, the 7 Medals that were exclusive to the Metabee version, and fixes (garbled text when examining counters and furniture).
 
-> **AI disclaimer: this project was made with heavy AI use.** Most of the code, the reverse engineering of the game, the expansion built on the game's decompilation and some of the testing were done by an AI assistant, directed and reviewed by jvsdm.
->
-> No art was made with AI. Some of the dialog was translated or inserted using AI.
->
-> If that is a deal-breaker for you, this release is not for you, and that's fine. Take inspiration on what makes sense for you and build something fully human.
-
 ## Just want to play?
 
 Download the patch from the [latest release](https://github.com/jvsdm/medabots-expansion/releases/latest) and apply it with [Floating IPS](https://www.romhacking.net/utilities/1040/), Lunar IPS or [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) to a clean **Medabots - Rokusho Version (USA)** ROM (CRC32 `E144DED2`). Start a new game. The patch contains no ROM: you need your own copy of the game.
@@ -83,3 +77,11 @@ Thanks also to the Medabots fan community and the Medarot wiki, used as referenc
 ## Reporting bugs
 
 Open an [issue](https://github.com/jvsdm/medabots-expansion/issues). Say which level (or the patch) you used, where you were in the story, what you did and what happened, and add a screenshot if you can.
+
+## AI disclaimer
+
+> **AI disclaimer: this project was made with heavy AI use.** Most of the code, the reverse engineering of the game, the expansion built on the game's decompilation and some of the testing were done by an AI assistant, directed and reviewed by jvsdm.
+>
+> No art was made with AI. Some of the dialog was translated or inserted using AI.
+>
+> If that is a deal-breaker for you, this release is not for you, and that's fine. Take inspiration on what makes sense for you and build something fully human.
