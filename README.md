@@ -6,7 +6,7 @@ An expansion of **Medabots - Rokusho Version (USA)** for the Game Boy Advance, b
 - **All 30 Medals in a single game**, including the ones that used to depend on a choice (Cat / "?", Penguin / Alien, Nae's Medal room).
 - **Every Medabot obtainable** in one playthrough.
 - Optional packs: the **60 Medabots of Shingata Medarot** and the **Medabots of Medarot Navi** (with Medachange), in random battles.
-- Medalink rematches, Metabee and Rokusho from the start, the 7 Medals that were exclusive to the Metabee version, and fixes (garbled text when examining counters and furniture).
+- Medalink rematches, Metabee and Rokusho from the start, and the 7 Medals that were exclusive to the Metabee version.
 
 ## Just want to play?
 
