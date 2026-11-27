@@ -59,7 +59,7 @@ To make an IPS patch of your build: `python tools/make_ips.py criar roms/<your U
 
 ## 5. Decomp mode in the WPF editor
 
-In the [WPF editor](https://github.com/jvsdm/Medabots-Romhacking-Toolkit/releases), use **File > Open Decomp Project...** and pick this repository's folder. **Build ROM** runs `tools/decomp_build.py` and opens the new ROM.
+In the WPF editor (from the [latest release](https://github.com/jvsdm/medabots-expansion/releases/latest)), use **File > Open Decomp Project...** and pick this repository's folder. **Build ROM** runs `tools/decomp_build.py` and opens the new ROM.
 
 ## Problems
 

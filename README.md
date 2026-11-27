@@ -1,6 +1,12 @@
 # Medabots Rokusho Expansion
 
-An expansion of **Medabots - Rokusho Version (USA)** for the Game Boy Advance, built from the game's C decompilation. It adds the Japanese version's extra content, all 30 Medals in a single game, every Medabot obtainable, and optional packs with the Medabots of Shingata Medarot and Medarot Navi.
+An expansion of **Medabots - Rokusho Version (USA)** for the Game Boy Advance, built from the game's C decompilation.
+
+- Content from **Medarot 2 Core** (the Japanese version): postgame challengers with level 90-100 teams, the Koishimaru battle (he fights with copies of your own team), Ninja Park working again, sprites and NPCs that match the Japanese version.
+- **All 30 Medals in a single game**, including the ones that used to depend on a choice (Cat / "?", Penguin / Alien, Nae's Medal room).
+- **Every Medabot obtainable** in one playthrough.
+- Optional packs: the **60 Medabots of Shingata Medarot** and the **Medabots of Medarot Navi** (with Medachange), in random battles.
+- Medalink rematches, Metabee and Rokusho from the start, the 7 Medals that were exclusive to the Metabee version, and fixes (garbled text when examining counters and furniture).
 
 > **AI disclaimer: this project was made with heavy AI use.** Most of the code, the reverse engineering of the game, the expansion built on the game's decompilation and some of the testing were done by an AI assistant, directed and reviewed by jvsdm.
 >
@@ -8,23 +14,27 @@ An expansion of **Medabots - Rokusho Version (USA)** for the Game Boy Advance, b
 >
 > If that is a deal-breaker for you, this release is not for you, and that's fine. Take inspiration on what makes sense for you and build something fully human.
 
-**Just want to play?** Download the IPS patch from the [releases](https://github.com/jvsdm/Medabots-Romhacking-Toolkit/releases) and apply it to your own US Rokusho ROM. You don't need anything from this repository.
+## Just want to play?
 
-This repository is for building the game yourself, editing it, or using the **Decomp mode** of the [WPF editor](https://github.com/jvsdm/Medabots-Romhacking-Toolkit).
+Download the patch from the [latest release](https://github.com/jvsdm/medabots-expansion/releases/latest) and apply it with [Floating IPS](https://www.romhacking.net/utilities/1040/), Lunar IPS or [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/) to a clean **Medabots - Rokusho Version (USA)** ROM (CRC32 `E144DED2`). Start a new game. The patch contains no ROM: you need your own copy of the game.
 
-## No game data in here
+This is a **beta**: every new part was tested on its own in an emulator, but nobody has played it from start to finish yet. Saves can break between betas.
 
-This repository has only the project's own work: tools, new dialog, new battles, map and script changes, and the list of what changes. Everything that belongs to the games (maps, event scripts, graphics, animations, text) is read from **your own ROMs** when you set up and build. You need to own the games.
+## Build it yourself, or edit it
 
-## Levels
+This repository has only the project's own work: tools, new dialog, new battles, the changes to maps and event scripts, and the Shingata and Navi Medabot settings. Everything that belongs to the games (maps, event scripts, graphics, animations, text) is read from **your own ROMs** when you set up and build.
 
-You choose how much to build with the ROMs you have. Put them in `roms/` (any file name; they are found by SHA-1).
+The same release has the **WPF editor** (Windows). Its **Decomp mode** opens this folder: edit Medabots, maps, events and dialog, and press **Build ROM**.
+
+### Levels
+
+Choose how much to build with the ROMs you have. Put them in `roms/` (any file name; they are found by SHA-1).
 
 | Level | ROMs | What you get |
 |---|---|---|
-| `core` | Medabots - Rokusho Version (USA)<br>Medarot 2 Core - Kuwagata Version (Japan) | Japanese version events (postgame challengers, Koishimaru, Ninja Park, matching sprites and NPCs), new events, all 30 Medals in one game, all 120 base Medabots obtainable |
-| `shingata` | `core` + Shingata Medarot - Kabuto Version (Japan) | + the 60 Medabots of Shingata Medarot in random battles |
-| `navi` | `shingata` + Medarot Navi - Kuwagata Version (Japan) | + the Medabots of Medarot Navi, with Medachange (the full expansion, same as the IPS patch) |
+| `core` | Medabots - Rokusho Version (USA)<br>Medarot 2 Core - Kuwagata Version (Japan) | Japanese version content, new events, all 30 Medals, all 120 base Medabots obtainable |
+| `shingata` | `core` + Shingata Medarot - Kabuto Version (Japan) | + the 60 Shingata Medarot Medabots |
+| `navi` | `shingata` + Medarot Navi - Kuwagata Version (Japan) | + the Medarot Navi Medabots with Medachange (same as the patch) |
 
 | ROM | SHA-1 |
 |---|---|
@@ -35,34 +45,41 @@ You choose how much to build with the ROMs you have. Put them in `roms/` (any fi
 
 Check yours with `python tools/roms.py`.
 
-## Quick start
+### Quick start
 
-See [INSTALL.md](INSTALL.md) for the full steps. In short:
+Full steps in [INSTALL.md](INSTALL.md). In short:
 
 ```sh
 pip install -r requirements.txt
-python tools/setup.py                        # once: downloads the decomp, builds agbcc, extracts your ROM's data
-python tools/decomp_build.py --level core    # or shingata / navi
+python tools/setup.py                        # once: downloads the decomp, builds agbcc, extracts your ROMs' data
+python tools/decomp_build.py --level core    # or shingata / navi; without --level, the highest your ROMs allow
 ```
 
 The ROM is written to `build/scratch/decomp_hpNN/medabots_rokusho.gba`.
 
-## How it is organized
+### How it is organized
 
-- `tools/`: the build (`decomp_build.py`), setup (`setup.py`), ROM finder (`roms.py`), the data split (`project_data.py`) and the tools the WPF editor calls.
+- `tools/`: the build (`decomp_build.py`), setup (`setup.py`), the ROM finder (`roms.py`), the split between game data and project data (`project_data.py`), and the tools the WPF editor calls.
 - `overlay/`: the project's changes to the game's maps and event scripts. Changed files are stored as line edits checked against the original's SHA-1; new files are stored whole.
-- `data/story/`: new dialog, battles, characters, shops. `data/anim/`: skeleton and animation edits. `data/bots/`, `data/navi/`: the Shingata and Navi Medabots (names, stats and settings).
-- The game data (`data/maps`, `data/events`, `data/anim/seq`, `data/anim/poses`, `data/bots/000-119`) is generated by `tools/setup.py` and is not versioned.
+- `data/story/`: new dialog, battles, characters and shops. `data/anim/`: skeleton and animation edits. `data/bots/`, `data/navi/`: the Shingata and Navi Medabots (names, stats and settings).
+- Game data (`data/maps`, `data/events`, `data/anim/seq`, `data/anim/poses`, `data/bots/000-119`) is generated by `tools/setup.py` and is not versioned.
+
+## Known limits
+
+- Up to 337 Medabots: the save (8 KB EEPROM) holds the inventory of no more. Moving the save to Flash is planned.
+- Medaforce going up or down in the Medachange form is not done yet.
+- Some Medarot Navi techniques with no equivalent in this game were approximated.
+- New dialog is in English.
 
 ## Credits
 
 This work stands on two projects, and a lot of it would not exist without them:
 
-- **[STulling/Medabots-Romhacking-Toolkit](https://github.com/STulling/Medabots-Romhacking-Toolkit)** by **Simon Tulling**: the original toolkit and editor. The WPF editor used with this project is a fork of it.
+- **[STulling/Medabots-Romhacking-Toolkit](https://github.com/STulling/Medabots-Romhacking-Toolkit)** by **Simon Tulling**: the original toolkit and editor. The WPF editor used with this project is a [fork of it](https://github.com/jvsdm/Medabots-Romhacking-Toolkit).
 - **[rommerhacks/medabots-rokusho](https://github.com/rommerhacks/medabots-rokusho)** by the **rommer-gba contributors** (MIT License): the full C decompilation of Medabots - Rokusho Version (USA). This project builds on it through the fork [jvsdm/medabots-rokusho](https://github.com/jvsdm/medabots-rokusho) (branch `expansion`).
 
 Thanks also to the Medabots fan community and the Medarot wiki, used as reference for names, parts and Medals.
 
 ## Reporting bugs
 
-Use the [Issues of the toolkit repository](https://github.com/jvsdm/Medabots-Romhacking-Toolkit/issues). Say which level you built, where you were in the story, what you did and what happened.
+Open an [issue](https://github.com/jvsdm/medabots-expansion/issues). Say which level (or the patch) you used, where you were in the story, what you did and what happened, and add a screenshot if you can.
