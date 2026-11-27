@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 139,
+ "slug": "anzudo_beetle",
+ "name": "Anzudo Beetle",
+ "name_full": "Anzudo Beetle",
+ "name_jp": "アンズドビートル",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 139,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "KBT-91BX",
+   "name_jp": "エンドワルツ",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 2,
+    "female": 0,
+    "armor": 45,
+    "success": 34,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "scope"
+  },
+  "right_arm": {
+   "name": "KBT-92BX",
+   "name_jp": "ラストコンサート",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 49,
+    "speciality": 3,
+    "female": 0,
+    "armor": 10,
+    "success": 13,
+    "power": 63,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 14,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KBT-93BX",
+   "name_jp": "エンドリサイタル",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 49,
+    "speciality": 3,
+    "female": 0,
+    "armor": 10,
+    "success": 10,
+    "power": 70,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 14,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KBT-94BX",
+   "name_jp": "ミュージカル",
+   "stats": {
+    "medal_compat": 21,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 33,
+    "evasion": 27,
+    "defense": 42,
+    "proximity": 5,
+    "remoteness": 21,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

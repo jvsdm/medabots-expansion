@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 19,
+ "slug": "uraban",
+ "name": "Uraban",
+ "name_full": "Uraban",
+ "name_jp": "ウラバン",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 19,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "BAN-11NF",
+   "name_jp": "リーダーシップ",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 29,
+    "speciality": 4,
+    "female": 0,
+    "armor": 70,
+    "success": 28,
+    "power": 45,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "BAN-12NF",
+   "name_jp": "グループオブ",
+   "stats": {
+    "medal_compat": 24,
+    "technique": 54,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 20,
+    "power": 61,
+    "chain_reaction": 0,
+    "uses_or_charge": 17,
+    "radiation": 23,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "BAN-13NF",
+   "name_jp": "ジュブナイル",
+   "stats": {
+    "medal_compat": 24,
+    "technique": 54,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 17,
+    "power": 52,
+    "chain_reaction": 0,
+    "uses_or_charge": 17,
+    "radiation": 23,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "BAN-14NF",
+   "name_jp": "デリキュエント",
+   "stats": {
+    "medal_compat": 24,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 93,
+    "propulsion": 6,
+    "evasion": 0,
+    "defense": 61,
+    "proximity": 10,
+    "remoteness": 9,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

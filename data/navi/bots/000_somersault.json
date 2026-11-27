@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 0,
+ "slug": "somersault",
+ "name": "Somersault",
+ "name_full": "Somersault",
+ "name_jp": "サマーソルト",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 0,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "RDF-11NF",
+   "name_jp": "フリグリー",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 20,
+    "power": 30,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "RDF-12NF",
+   "name_jp": "ストレーナー",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 18,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 15,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "RDF-13NF",
+   "name_jp": "スキーマー",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 18,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 14,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "RDF-14NF",
+   "name_jp": "テーラー",
+   "stats": {
+    "medal_compat": 8,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 25,
+    "propulsion": 48,
+    "evasion": 27,
+    "defense": 49,
+    "proximity": 8,
+    "remoteness": 20,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

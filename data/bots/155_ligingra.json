@@ -1,0 +1,114 @@
+{
+ "bot_id": 155,
+ "name": "LIGINGRA",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 34 (STG-0 リギングラ).",
+ "palette_family": 0,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 34,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "MODERORISUTATT",
+   "name_jp": "モデロリスタット",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 11,
+    "speciality": 4,
+    "female": 0,
+    "armor": 50,
+    "success": 11,
+    "power": 38,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 57,
+    "buy_price": 36,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "RETTOTIGURE",
+   "name_jp": "レットティグレ",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 1,
+    "female": 0,
+    "armor": 30,
+    "success": 8,
+    "power": 28,
+    "chain_reaction": 1,
+    "uses_or_charge": 10,
+    "radiation": 18,
+    "u10": 24,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "NISUTOROTIGURE",
+   "name_jp": "ニストロティグレ",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "success": 16,
+    "power": 19,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 14,
+    "u10": 24,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "RAGANTIGURE",
+   "name_jp": "ラガンティグレ",
+   "stats": {
+    "medal_compat": 6,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 43,
+    "evasion": 22,
+    "defense": 36,
+    "proximity": 19,
+    "remoteness": 12,
+    "u10": 57,
+    "buy_price": 21,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

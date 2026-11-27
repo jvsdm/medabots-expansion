@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 10,
+ "slug": "rose_bouquet",
+ "name": "Rose Bouquet",
+ "name_full": "Rose Bouquet",
+ "name_jp": "ローズブーケ",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 10,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "ROS-01NF",
+   "name_jp": "ローズグローリー",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 7,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 13,
+    "power": 44,
+    "chain_reaction": 1,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ROS-02NF",
+   "name_jp": "ローズブルーム",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 65,
+    "success": 24,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "ROS-03NF",
+   "name_jp": "ローズアーウト",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 18,
+    "power": 10,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 13,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "ROS-04NF",
+   "name_jp": "ローズガーデン",
+   "stats": {
+    "medal_compat": 12,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 25,
+    "propulsion": 53,
+    "evasion": 32,
+    "defense": 37,
+    "proximity": 11,
+    "remoteness": 18,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

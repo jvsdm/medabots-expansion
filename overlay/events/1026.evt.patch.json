@@ -1,0 +1,23 @@
+{
+ "base_sha1": "f1654aba255a9e452fc2d4de6b69c97378a891e3",
+ "ops": [
+  [
+   288,
+   289,
+   [
+    "Set_Event_Variable event_id=137, value=4",
+    "Set_Event_Variable event_id=138, value=3"
+   ]
+  ],
+  [
+   291,
+   291,
+   [
+    "Set_Event_Variable event_id=444, value=1",
+    "Set_Event_Variable event_id=543, value=1",
+    "Set_Event_Variable event_id=162, value=1",
+    "Add_Event_Permanently event_id=2293"
+   ]
+  ]
+ ]
+}

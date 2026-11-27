@@ -1,0 +1,15 @@
+# Lista de bots da expansao (tools/decomp_expand.py --bot-list; pc/research/EXPANSAO_MODULAR.md).
+# Os bots 0..119 do jogo sempre entram. Daqui saem os ids 120.. : primeiro os do bloco binario
+# (shingata; montado na hora por tools/build.py a partir da ROM do Shingata), depois os do Navi,
+# cada um na ordem original da fonte.
+#   pacote/nome    inclui um bot          pacote/*    inclui o pacote inteiro
+#   -pacote/nome   tira um bot            # ...       comentario
+# Pacotes:
+#   shingata  os 60 do Shingata Medarot (data/bots/121-180; stats e nomes nos JSON, graficos da ROM do Shingata)
+#   navi      bots do Medarot Navi (data/navi/bots/*.json; nome em minusculas com _, ex.: navi/pupa_beetle);
+#             os que ja existem no jogo ou no bloco binario ficam de fora sozinhos
+#   m9, binario  testes antigos (Sagehorn, Granbeetle da expansao binaria): fora da lista padrao
+# Mecanicas (Medachange, efeitos dos Drives) sao chaves separadas: --no-medachange / --no-navi-effects.
+
+shingata/*
+navi/*

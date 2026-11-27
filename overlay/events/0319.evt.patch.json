@@ -1,0 +1,40 @@
+{
+ "base_sha1": "90b0e2c94f7186778a4edda73278686fcd6fc5fb",
+ "ops": [
+  [
+   17,
+   19,
+   [
+    "Switch_Event_Counter @L_0030, @L_004B, @L_0076",
+    "L_0030:"
+   ]
+  ],
+  [
+   29,
+   30,
+   [
+    "L_004B:",
+    "; 2a vez: a BEAR. Ja tem a JELLYFISH (2a medalha do bau da Queen): o Ikki estranha (\"Huh? Again?\"). Nao tem: o",
+    "; Sasuke da a dica do bau",
+    "Jump_If_Not_Has_Medal medal_id=3, jump=@L_005B",
+    "Show_Message_A bank=16, id=3",
+    "Hop_Actor tracked_object_slot=0",
+    "Show_Message_A bank=16, id=4",
+    "Relative_Long_Jump jump=@L_0061",
+    "L_005B:",
+    "Hop_Actor tracked_object_slot=0",
+    "Show_Message_A bank=16, id=5",
+    "L_0061:",
+    "Get_Medal medal=4",
+    "Play_Sound sound_id=34",
+    "Show_Effect effect_id=1, x=2, y=25",
+    "Unload_Actor packed_actor_id=0",
+    "Reset_Overworld_UI_Render_State",
+    "Move_Player step1=north+1, step2=unused, step3=unused, step4=unused",
+    "Set_Event_Variable event_id=319, value=2",
+    "End",
+    "L_0076:"
+   ]
+  ]
+ ]
+}

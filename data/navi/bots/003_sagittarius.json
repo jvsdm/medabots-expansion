@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 3,
+ "slug": "sagittarius",
+ "name": "Sagittarius",
+ "name_full": "Sagittarius",
+ "name_jp": "サジタリウス",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 3,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "SGT-01NF",
+   "name_jp": "リーダー",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 13,
+    "power": 30,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "vacuum"
+  },
+  "right_arm": {
+   "name": "SGT-02NF",
+   "name_jp": "ガイド",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 23,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "SGT-03NF",
+   "name_jp": "コーチ",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 18,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "SGT-04NF",
+   "name_jp": "リベリティ",
+   "stats": {
+    "medal_compat": 25,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 25,
+    "propulsion": 52,
+    "evasion": 27,
+    "defense": 49,
+    "proximity": 8,
+    "remoteness": 15,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

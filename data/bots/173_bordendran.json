@@ -1,0 +1,114 @@
+{
+ "bot_id": 173,
+ "name": "BORDENDRAN",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 52 (MOG-0 ボーデンドラン).",
+ "palette_family": 1,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 52,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "GUROKOERUKA",
+   "name_jp": "グロコエルカ",
+   "stats": {
+    "medal_compat": 18,
+    "technique": 37,
+    "speciality": 6,
+    "female": 0,
+    "armor": 75,
+    "success": 14,
+    "power": 30,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 42,
+    "buy_price": 16,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "BAERUANDA",
+   "name_jp": "バエルアンダー",
+   "stats": {
+    "medal_compat": 10,
+    "technique": 21,
+    "speciality": 5,
+    "female": 0,
+    "armor": 55,
+    "success": 28,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 13,
+    "u10": 42,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "ZONADEKUSU",
+   "name_jp": "ゾーナデクス",
+   "stats": {
+    "medal_compat": 10,
+    "technique": 21,
+    "speciality": 5,
+    "female": 0,
+    "armor": 55,
+    "success": 14,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 16,
+    "u10": 42,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "PUROGURESSO",
+   "name_jp": "プログレッソ",
+   "stats": {
+    "medal_compat": 10,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 110,
+    "propulsion": 6,
+    "evasion": 12,
+    "defense": 28,
+    "proximity": 8,
+    "remoteness": 15,
+    "u10": 42,
+    "buy_price": 10,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

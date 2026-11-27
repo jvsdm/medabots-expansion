@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 97,
+ "slug": "skin_leak",
+ "name": "Skin Leak",
+ "name_full": "Skin Leak",
+ "name_jp": "スキンリーク",
+ "leg_type": "Tank",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 97,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "TIC-01NF",
+   "name_jp": "プアー",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 70,
+    "success": 21,
+    "power": 26,
+    "chain_reaction": 0,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "force_plant"
+  },
+  "right_arm": {
+   "name": "TIC-02NF",
+   "name_jp": "オイルカップ",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 17,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 34,
+    "power": 13,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 16,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "TIC-03NF",
+   "name_jp": "オイルクロース",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 17,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 26,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 15,
+    "radiation": 13,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "TIC-04NF",
+   "name_jp": "ジェネラルチック",
+   "stats": {
+    "medal_compat": 8,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 120,
+    "propulsion": 0,
+    "evasion": 12,
+    "defense": 24,
+    "proximity": 4,
+    "remoteness": 15,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

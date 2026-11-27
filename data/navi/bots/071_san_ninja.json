@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 71,
+ "slug": "san_ninja",
+ "name": "San-Ninja",
+ "name_full": "San-Ninja",
+ "name_jp": "サンニンジャ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 71,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "NNG-31NF",
+   "name_jp": "ブラックフード",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 33,
+    "speciality": 5,
+    "female": 0,
+    "armor": 35,
+    "success": 11,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 3,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "NNG-32NF",
+   "name_jp": "ライトレーン",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 18,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 14,
+    "power": 13,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 14,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "NNG-33NF",
+   "name_jp": "レフトレーン",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 18,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 8,
+    "power": 23,
+    "chain_reaction": 1,
+    "uses_or_charge": 13,
+    "radiation": 11,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "NNG-34NF",
+   "name_jp": "ストローサンダル",
+   "stats": {
+    "medal_compat": 8,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 23,
+    "evasion": 22,
+    "defense": 25,
+    "proximity": 10,
+    "remoteness": 6,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 106,
+   "propulsion": 6,
+   "evasion": 78,
+   "defense": 61,
+   "proximity": 26,
+   "remoteness": 23
+  },
+  "legs_navi": {
+   "propulsion": 2,
+   "evasion": 74,
+   "defense": 55,
+   "proximity": 59,
+   "remoteness": 39
+  },
+  "drives": {
+   "A": {
+    "technique": 37,
+    "speciality": 6,
+    "success": 34,
+    "power": 0,
+    "effect": "none",
+    "navi": {
+     "action": 39,
+     "success": 38,
+     "power": 0
+    },
+    "medal_compat": 18
+   },
+   "B": {
+    "technique": 0,
+    "speciality": 0,
+    "success": 68,
+    "power": 11,
+    "effect": "none",
+    "navi": {
+     "action": 0,
+     "success": 94,
+     "power": 8
+    },
+    "medal_compat": 0
+   },
+   "C": {
+    "technique": 1,
+    "speciality": 1,
+    "success": 5,
+    "power": 92,
+    "effect": "none",
+    "navi": {
+     "action": 1,
+     "success": 2,
+     "power": 93
+    },
+    "medal_compat": 0
+   }
+  }
+ }
+}

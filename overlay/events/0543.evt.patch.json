@@ -1,0 +1,28 @@
+{
+ "base_sha1": "17e0808b1a90a28ed019611ad8e641143b0d0297",
+ "ops": [
+  [
+   0,
+   1,
+   [
+    "; roteiro 543 (banco 6, inicio 0x0632)  (+ luta do pós-jogo da versão japonesa)",
+    "Switch_Event_Counter @L_0003, @L_000B",
+    "L_0003:"
+   ]
+  ],
+  [
+   5,
+   5,
+   [
+    "L_000B:",
+    "NPC_Reset_Animation",
+    "Show_Message_A bank=16, id=32",
+    "Start_Battle battle=249, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Show_Message_A bank=16, id=33",
+    "Rotate_Event_NPC dir=north",
+    "Set_Event_Variable event_id=543, value=0",
+    "End"
+   ]
+  ]
+ ]
+}

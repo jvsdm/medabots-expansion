@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 8,
+ "slug": "twoseater",
+ "name": "Twoseater",
+ "name_full": "Twoseater",
+ "name_jp": "ツーシーター",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 8,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "TST-01NF",
+   "name_jp": "スプラング",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 33,
+    "speciality": 5,
+    "female": 0,
+    "armor": 15,
+    "success": 24,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "TST-02NF",
+   "name_jp": "ピッター",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 19,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 23,
+    "power": 16,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 13,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "TST-03NF",
+   "name_jp": "パッター",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 19,
+    "speciality": 1,
+    "female": 0,
+    "armor": 40,
+    "success": 18,
+    "power": 23,
+    "chain_reaction": 1,
+    "uses_or_charge": 12,
+    "radiation": 11,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "TST-04NF",
+   "name_jp": "デミュール",
+   "stats": {
+    "medal_compat": 9,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 15,
+    "propulsion": 46,
+    "evasion": 38,
+    "defense": 49,
+    "proximity": 13,
+    "remoteness": 18,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

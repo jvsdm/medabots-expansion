@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 121,
+ "slug": "god_emperor",
+ "name": "God Emperor",
+ "name_full": "God Emperor",
+ "name_jp": "ゴッドエンペラー",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 121,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "WEA-11BH",
+   "name_jp": "デスブレイク",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 8,
+    "speciality": 2,
+    "female": 0,
+    "armor": 50,
+    "success": 30,
+    "power": 32,
+    "chain_reaction": 1,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "WEA-12BH",
+   "name_jp": "デスミサイル",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 6,
+    "speciality": 2,
+    "female": 0,
+    "armor": 50,
+    "success": 14,
+    "power": 32,
+    "chain_reaction": 1,
+    "uses_or_charge": 20,
+    "radiation": 18,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "WEA-13BH",
+   "name_jp": "デスレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 3,
+    "female": 0,
+    "armor": 50,
+    "success": 6,
+    "power": 45,
+    "chain_reaction": 1,
+    "uses_or_charge": 23,
+    "radiation": 23,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "WEA-14BH",
+   "name_jp": "デスクローラー",
+   "stats": {
+    "medal_compat": 3,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 23,
+    "evasion": 32,
+    "defense": 37,
+    "proximity": 13,
+    "remoteness": 11,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

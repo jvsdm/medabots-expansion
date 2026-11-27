@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 15,
+ "slug": "solid_cottage",
+ "name": "Solid Cottage",
+ "name_full": "Solid Cottage",
+ "name_jp": "ソリットコテージ",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 15,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "HUS-01NF",
+   "name_jp": "テレビジョン",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 5,
+    "speciality": 2,
+    "female": 0,
+    "armor": 48,
+    "success": 14,
+    "power": 40,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "HUS-02NF",
+   "name_jp": "ウェイカップ",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 44,
+    "speciality": 7,
+    "female": 0,
+    "armor": 30,
+    "success": 20,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 15,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "HUS-03NF",
+   "name_jp": "バスターブ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 17,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "HUS-04NF",
+   "name_jp": "ベーシス",
+   "stats": {
+    "medal_compat": 20,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 80,
+    "propulsion": 10,
+    "evasion": 6,
+    "defense": 49,
+    "proximity": 10,
+    "remoteness": 12,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

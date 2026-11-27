@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 26,
+ "slug": "lala",
+ "name": "Lala",
+ "name_full": "Lala",
+ "name_jp": "ララ",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 26,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "FDL-01NF",
+   "name_jp": "クリンチャー",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 43,
+    "speciality": 7,
+    "female": 0,
+    "armor": 55,
+    "success": 29,
+    "power": 8,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FDL-02NF",
+   "name_jp": "クレバー",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 46,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 30,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 8,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "FDL-03NF",
+   "name_jp": "スマート",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 47,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 26,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 8,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "FDL-04NF",
+   "name_jp": "オーメン",
+   "stats": {
+    "medal_compat": 20,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 80,
+    "propulsion": 0,
+    "evasion": 12,
+    "defense": 44,
+    "proximity": 11,
+    "remoteness": 17,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

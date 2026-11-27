@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 48,
+ "slug": "duckbill",
+ "name": "Duckbill",
+ "name_full": "Duckbill",
+ "name_jp": "ダックビル",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 48,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "DKB-01NF",
+   "name_jp": "サックル",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 8,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 43,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "DKB-02NF",
+   "name_jp": "マッシブシュート",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 15,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 18,
+    "radiation": 18,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "DKB-03NF",
+   "name_jp": "ソリッドシュート",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 6,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 15,
+    "power": 16,
+    "chain_reaction": 1,
+    "uses_or_charge": 14,
+    "radiation": 16,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "DKB-04NF",
+   "name_jp": "リアリング",
+   "stats": {
+    "medal_compat": 2,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 33,
+    "evasion": 17,
+    "defense": 37,
+    "proximity": 10,
+    "remoteness": 15,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

@@ -1,0 +1,50 @@
+{
+ "base_sha1": "1ae725f44d55339e6dae8f307062989d9330e1a8",
+ "ops": [
+  [
+   0,
+   1,
+   [
+    "; roteiro 168 (banco 6, inicio 0x017F)  (+ medalha Cat no pos-jogo para quem nao fez a rota da Erika)"
+   ]
+  ],
+  [
+   21,
+   21,
+   [
+    "Jump_If_Not_Has_Medal medal_id=26, jump=@SemCat",
+    "Revanche:"
+   ]
+  ],
+  [
+   25,
+   25,
+   [
+    "; pos-jogo sem a Cat: rota da Karin (afinidade da Karin >= 26, como no final 1026) e ja com a \"?\": cena 16/45, luta",
+    "; 103; vencendo, a Cat. Nenhuma rota: cena 16/50 e a Cat sem luta. Rota da Erika pendente: revanche de sempre.",
+    "SemCat:",
+    "Jump_If_Affinity_Below who=0, value=26, jump=@NaoErika",
+    "VoltaRevanche:",
+    "Relative_Long_Jump jump=@Revanche",
+    "NaoErika:",
+    "Jump_If_Affinity_Below who=1, value=26, jump=@Nenhuma",
+    "Jump_If_Not_Has_Medal medal_id=27, jump=@VoltaRevanche2",
+    "Show_Message_A bank=16, id=45",
+    "Start_Battle battle=103, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Jump_If_Previous_Scene_Command_Failed jump=@Fim",
+    "Show_Message_A bank=16, id=46",
+    "Get_Medal medal=26",
+    "Show_Message_A bank=16, id=47",
+    "Fim:",
+    "End",
+    "VoltaRevanche2:",
+    "Relative_Long_Jump jump=@Revanche",
+    "Nenhuma:",
+    "Show_Message_A bank=16, id=50",
+    "Get_Medal medal=26",
+    "Show_Message_A bank=16, id=51",
+    "End"
+   ]
+  ]
+ ]
+}

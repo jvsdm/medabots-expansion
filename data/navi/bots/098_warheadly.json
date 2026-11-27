@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 98,
+ "slug": "warheadly",
+ "name": "Warheadly",
+ "name_full": "Warheadly",
+ "name_jp": "ウォーヘッドリィ",
+ "leg_type": "Tank",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 98,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "PCP-01NF",
+   "name_jp": "ニードルジレンマ",
+   "stats": {
+    "medal_compat": 11,
+    "technique": 24,
+    "speciality": 7,
+    "female": 0,
+    "armor": 75,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "PCP-02NF",
+   "name_jp": "ナパームレイン",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 7,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 0,
+    "power": 26,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 18,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "PCP-03NF",
+   "name_jp": "ナパームシャワー",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 7,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 0,
+    "power": 45,
+    "chain_reaction": 1,
+    "uses_or_charge": 20,
+    "radiation": 20,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "PCP-04NF",
+   "name_jp": "ドローアップ",
+   "stats": {
+    "medal_compat": 3,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 130,
+    "propulsion": 8,
+    "evasion": 8,
+    "defense": 25,
+    "proximity": 0,
+    "remoteness": 18,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

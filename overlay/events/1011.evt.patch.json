@@ -1,0 +1,30 @@
+{
+ "base_sha1": "938251a3e732f270dee7c611fa5cfa60f340584c",
+ "ops": [
+  [
+   25,
+   26,
+   [
+    "Start_Battle battle=124, battle_mode_flags=0x00, post_battle_mode_flags=0x00"
+   ]
+  ],
+  [
+   29,
+   29,
+   [
+    "Set_Event_Variable event_id=2289, value=1",
+    "Set_Event_Variable event_id=2290, value=1",
+    "Set_Event_Variable event_id=2291, value=1",
+    "Set_Event_Variable event_id=2292, value=1"
+   ]
+  ],
+  [
+   30,
+   30,
+   [
+    "Remove_Event_Permanently event_id=1011",
+    "Remove_Current_Event_Now"
+   ]
+  ]
+ ]
+}

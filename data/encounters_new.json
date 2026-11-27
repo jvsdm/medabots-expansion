@@ -1,0 +1,2302 @@
+{
+ "_doc": "encounters_plan.py - Encontros fixos dos bots novos (Shingata, Navi...), distribuidos pelas areas por semelhanca. Gerado por tools/encounters_plan.py; pode editar a mao (bot, from_group = grupo do jogo copiado, record = inimigo trocado, areas). Campos opcionais: levels = nivel da medalha de cada inimigo, min_phase = fase da historia a partir da qual o grupo entra no sorteio, manual = o planejador mantem a entrada.",
+ "percent": 40,
+ "groups": [
+  {
+   "bot": "shingata/strangelo",
+   "base": 12,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 244,
+   "record": 0,
+   "areas": [
+    95
+   ]
+  },
+  {
+   "bot": "shingata/cervo",
+   "base": 73,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 92,
+   "record": 1,
+   "areas": [
+    162,
+    164
+   ]
+  },
+  {
+   "bot": "shingata/deabeille",
+   "base": 109,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 57,
+   "record": 0,
+   "areas": [
+    73,
+    83
+   ]
+  },
+  {
+   "bot": "shingata/rossonaritz",
+   "base": 12,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 244,
+   "record": 0,
+   "areas": [
+    95
+   ]
+  },
+  {
+   "bot": "shingata/archaeopti",
+   "base": 10,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 35,
+   "record": 1,
+   "areas": [
+    57,
+    76
+   ]
+  },
+  {
+   "bot": "shingata/jatofase",
+   "base": 0,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    34,
+    36
+   ]
+  },
+  {
+   "bot": "shingata/peloscar",
+   "base": 4,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 46,
+   "record": 0,
+   "areas": [
+    37,
+    38
+   ]
+  },
+  {
+   "bot": "shingata/alto_sonido",
+   "base": 0,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    39,
+    68
+   ]
+  },
+  {
+   "bot": "shingata/barrow",
+   "base": 18,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 52,
+   "record": 2,
+   "areas": [
+    167,
+    162
+   ]
+  },
+  {
+   "bot": "shingata/capo_pasqua",
+   "base": 18,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 90,
+   "record": 2,
+   "areas": [
+    164,
+    167
+   ]
+  },
+  {
+   "bot": "shingata/magisch_flow",
+   "base": 25,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 242,
+   "record": 0,
+   "areas": [
+    128
+   ]
+  },
+  {
+   "bot": "shingata/becfee",
+   "base": 25,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 242,
+   "record": 0,
+   "areas": [
+    128
+   ]
+  },
+  {
+   "bot": "shingata/mauna_draga",
+   "base": 19,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 52,
+   "record": 1,
+   "areas": [
+    167,
+    84
+   ]
+  },
+  {
+   "bot": "shingata/bascurata",
+   "base": 19,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 52,
+   "record": 1,
+   "areas": [
+    167,
+    168
+   ]
+  },
+  {
+   "bot": "shingata/duo_kaiser",
+   "base": 33,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 62,
+   "record": 2,
+   "areas": [
+    82,
+    83
+   ]
+  },
+  {
+   "bot": "shingata/predicador",
+   "base": 41,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 90,
+   "record": 1,
+   "areas": [
+    162,
+    164
+   ]
+  },
+  {
+   "bot": "shingata/ragno",
+   "base": 28,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    57,
+    168
+   ]
+  },
+  {
+   "bot": "shingata/venenora",
+   "base": 35,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 53,
+   "record": 0,
+   "areas": [
+    168,
+    169
+   ]
+  },
+  {
+   "bot": "shingata/maciocorpo",
+   "base": 29,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 39,
+   "record": 0,
+   "areas": [
+    33,
+    40
+   ]
+  },
+  {
+   "bot": "shingata/valentorero",
+   "base": 41,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 90,
+   "record": 1,
+   "areas": [
+    162,
+    164
+   ]
+  },
+  {
+   "bot": "shingata/primefloi",
+   "base": 31,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 53,
+   "record": 2,
+   "areas": [
+    168,
+    33
+   ]
+  },
+  {
+   "bot": "shingata/mordewal",
+   "base": 111,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 45,
+   "record": 0,
+   "areas": [
+    31,
+    44
+   ]
+  },
+  {
+   "bot": "shingata/beet",
+   "base": 74,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 92,
+   "record": 2,
+   "areas": [
+    162,
+    164
+   ]
+  },
+  {
+   "bot": "shingata/peredome",
+   "base": 59,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 238,
+   "record": 0,
+   "areas": [
+    173,
+    174
+   ]
+  },
+  {
+   "bot": "shingata/kampf_maid",
+   "base": 60,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "shingata/scartaxe",
+   "base": 61,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 155,
+   "record": 0,
+   "areas": [
+    1,
+    2
+   ]
+  },
+  {
+   "bot": "shingata/lunaconey",
+   "base": 66,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 2,
+   "areas": [
+    169,
+    170
+   ]
+  },
+  {
+   "bot": "shingata/haarknot",
+   "base": 60,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "shingata/chainbull",
+   "base": 44,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 0,
+   "areas": [
+    169,
+    76
+   ]
+  },
+  {
+   "bot": "shingata/hierotravas",
+   "base": 73,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 92,
+   "record": 1,
+   "areas": [
+    162,
+    164
+   ]
+  },
+  {
+   "bot": "shingata/medi_espio",
+   "base": 71,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 240,
+   "record": 0,
+   "areas": [
+    173,
+    174
+   ]
+  },
+  {
+   "bot": "shingata/montrabi",
+   "base": 62,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    169,
+    170
+   ]
+  },
+  {
+   "bot": "shingata/meilin_robe",
+   "base": 69,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 48,
+   "record": 0,
+   "areas": [
+    46,
+    101
+   ]
+  },
+  {
+   "bot": "shingata/baorixy",
+   "base": 54,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 214,
+   "record": 0,
+   "areas": [
+    85,
+    101
+   ]
+  },
+  {
+   "bot": "shingata/ligingra",
+   "base": 30,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 181,
+   "record": 0,
+   "areas": [
+    36,
+    37
+   ]
+  },
+  {
+   "bot": "shingata/unafi",
+   "base": 60,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "shingata/famille",
+   "base": 62,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    169,
+    76
+   ]
+  },
+  {
+   "bot": "shingata/rinel",
+   "base": 60,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "shingata/kratzklinie",
+   "base": 74,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 92,
+   "record": 2,
+   "areas": [
+    162,
+    164
+   ]
+  },
+  {
+   "bot": "shingata/dioza",
+   "base": 75,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 242,
+   "record": 1,
+   "areas": [
+    128,
+    173
+   ]
+  },
+  {
+   "bot": "shingata/matura",
+   "base": 80,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 40,
+   "record": 1,
+   "areas": [
+    136,
+    137
+   ]
+  },
+  {
+   "bot": "shingata/toadeth",
+   "base": 92,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 241,
+   "record": 0,
+   "areas": [
+    85
+   ]
+  },
+  {
+   "bot": "shingata/picorabble",
+   "base": 89,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 33,
+   "record": 0,
+   "areas": [
+    62,
+    95
+   ]
+  },
+  {
+   "bot": "shingata/solates",
+   "base": 87,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 0,
+   "areas": [
+    170,
+    184
+   ]
+  },
+  {
+   "bot": "shingata/marbus",
+   "base": 12,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 244,
+   "record": 0,
+   "areas": [
+    95
+   ]
+  },
+  {
+   "bot": "shingata/adsoldat",
+   "base": 89,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 33,
+   "record": 0,
+   "areas": [
+    62,
+    95
+   ]
+  },
+  {
+   "bot": "shingata/agradable",
+   "base": 88,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 73,
+   "record": 0,
+   "areas": [
+    82,
+    170
+   ]
+  },
+  {
+   "bot": "shingata/duken",
+   "base": 92,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 241,
+   "record": 0,
+   "areas": [
+    85
+   ]
+  },
+  {
+   "bot": "shingata/prodorado",
+   "base": 98,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 56,
+   "record": 0,
+   "areas": [
+    184,
+    142
+   ]
+  },
+  {
+   "bot": "shingata/beiza_heart",
+   "base": 102,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 58,
+   "record": 2,
+   "areas": [
+    73,
+    76
+   ]
+  },
+  {
+   "bot": "shingata/nezadroi",
+   "base": 103,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 35,
+   "record": 2,
+   "areas": [
+    57,
+    184
+   ]
+  },
+  {
+   "bot": "shingata/graletch",
+   "base": 95,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 214,
+   "record": 2,
+   "areas": [
+    101,
+    85
+   ]
+  },
+  {
+   "bot": "shingata/bordendran",
+   "base": 104,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 56,
+   "record": 2,
+   "areas": [
+    184,
+    185
+   ]
+  },
+  {
+   "bot": "shingata/dakshoo",
+   "base": 97,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 49,
+   "record": 1,
+   "areas": [
+    136,
+    137
+   ]
+  },
+  {
+   "bot": "shingata/phibios",
+   "base": 112,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 63,
+   "record": 1,
+   "areas": [
+    80,
+    84
+   ]
+  },
+  {
+   "bot": "shingata/pelagressor",
+   "base": 116,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 39,
+   "record": 1,
+   "areas": [
+    42,
+    43
+   ]
+  },
+  {
+   "bot": "shingata/ariphaset",
+   "base": 118,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 236,
+   "record": 1,
+   "areas": [
+    151,
+    136
+   ]
+  },
+  {
+   "bot": "shingata/paflek",
+   "base": 114,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 236,
+   "record": 0,
+   "areas": [
+    151,
+    162
+   ]
+  },
+  {
+   "bot": "shingata/mairegne",
+   "base": 117,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 47,
+   "record": 1,
+   "areas": [
+    102,
+    111
+   ]
+  },
+  {
+   "bot": "shingata/lazhu",
+   "base": 114,
+   "why": "semelhanca 8/8 (perna, medalha, tecnicas)",
+   "from_group": 236,
+   "record": 0,
+   "areas": [
+    151,
+    164
+   ]
+  },
+  {
+   "bot": "navi/somersault",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    190,
+    191
+   ]
+  },
+  {
+   "bot": "navi/umbrebat",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    34,
+    38
+   ]
+  },
+  {
+   "bot": "navi/fearer",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    39,
+    68
+   ]
+  },
+  {
+   "bot": "navi/sagittarius",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 70,
+   "record": 0,
+   "areas": [
+    80,
+    190
+   ]
+  },
+  {
+   "bot": "navi/cut_sparrow",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    191,
+    34
+   ]
+  },
+  {
+   "bot": "navi/tri_ptera",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    36,
+    37
+   ]
+  },
+  {
+   "bot": "navi/silent_reef",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    38,
+    39
+   ]
+  },
+  {
+   "bot": "navi/viggaria",
+   "base": 12,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 244,
+   "record": 0,
+   "areas": [
+    95
+   ]
+  },
+  {
+   "bot": "navi/twoseater",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    68,
+    80
+   ]
+  },
+  {
+   "bot": "navi/humtune",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    190,
+    191
+   ]
+  },
+  {
+   "bot": "navi/rose_bouquet",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    34,
+    36
+   ]
+  },
+  {
+   "bot": "navi/sweet_nectar",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    37,
+    38
+   ]
+  },
+  {
+   "bot": "navi/longleg",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    39,
+    68
+   ]
+  },
+  {
+   "bot": "navi/blazer_multi",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 70,
+   "record": 0,
+   "areas": [
+    80,
+    190
+   ]
+  },
+  {
+   "bot": "navi/misty_tail",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    191,
+    34
+   ]
+  },
+  {
+   "bot": "navi/solid_cottage",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 52,
+   "record": 0,
+   "areas": [
+    167,
+    3
+   ]
+  },
+  {
+   "bot": "navi/element_mark",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 52,
+   "record": 0,
+   "areas": [
+    167,
+    4
+   ]
+  },
+  {
+   "bot": "navi/p_plant",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 52,
+   "record": 0,
+   "areas": [
+    167,
+    5
+   ]
+  },
+  {
+   "bot": "navi/flying_of",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 52,
+   "record": 0,
+   "areas": [
+    167,
+    6
+   ]
+  },
+  {
+   "bot": "navi/uraban",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    8,
+    9
+   ]
+  },
+  {
+   "bot": "navi/awake_me",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    10,
+    11
+   ]
+  },
+  {
+   "bot": "navi/pupa_beetle",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    12,
+    13
+   ]
+  },
+  {
+   "bot": "navi/pupa_stag",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    14,
+    112
+   ]
+  },
+  {
+   "bot": "navi/mistral",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    1,
+    2
+   ]
+  },
+  {
+   "bot": "navi/lamplight",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    3,
+    4
+   ]
+  },
+  {
+   "bot": "navi/rosebud",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    5,
+    6
+   ]
+  },
+  {
+   "bot": "navi/lala",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    8,
+    9
+   ]
+  },
+  {
+   "bot": "navi/aquarius",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    10,
+    11
+   ]
+  },
+  {
+   "bot": "navi/libra",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    12,
+    13
+   ]
+  },
+  {
+   "bot": "navi/giraffe_chief",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    57,
+    168
+   ]
+  },
+  {
+   "bot": "navi/zero_suicide",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    14,
+    102
+   ]
+  },
+  {
+   "bot": "navi/cheeper",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    57,
+    168
+   ]
+  },
+  {
+   "bot": "navi/la_a_gedama",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 47,
+   "record": 0,
+   "areas": [
+    111,
+    112
+   ]
+  },
+  {
+   "bot": "navi/sidewise",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    57,
+    168
+   ]
+  },
+  {
+   "bot": "navi/imagine_kaiser",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    1,
+    2
+   ]
+  },
+  {
+   "bot": "navi/sickle_cutter",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    57,
+    168
+   ]
+  },
+  {
+   "bot": "navi/millipade",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    57,
+    68
+   ]
+  },
+  {
+   "bot": "navi/aries",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    190,
+    191
+   ]
+  },
+  {
+   "bot": "navi/cancer",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    68,
+    169
+   ]
+  },
+  {
+   "bot": "navi/leo",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    3,
+    4
+   ]
+  },
+  {
+   "bot": "navi/scythe_cutter",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    190,
+    191
+   ]
+  },
+  {
+   "bot": "navi/mono_cruziana",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    5,
+    6
+   ]
+  },
+  {
+   "bot": "navi/flowercharge",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    8,
+    9
+   ]
+  },
+  {
+   "bot": "navi/scorpio",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    10,
+    11
+   ]
+  },
+  {
+   "bot": "navi/capricorn",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    68,
+    169
+   ]
+  },
+  {
+   "bot": "navi/hophop",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    12,
+    13
+   ]
+  },
+  {
+   "bot": "navi/gaiscythe",
+   "base": 35,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 53,
+   "record": 0,
+   "areas": [
+    169,
+    170
+   ]
+  },
+  {
+   "bot": "navi/yellow_crick",
+   "base": 69,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 48,
+   "record": 0,
+   "areas": [
+    46,
+    101
+   ]
+  },
+  {
+   "bot": "navi/duckbill",
+   "base": 60,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "navi/windclap",
+   "base": 60,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "navi/claydoll",
+   "base": 62,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    76,
+    170
+   ]
+  },
+  {
+   "bot": "navi/medakeeper",
+   "base": 23,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 243,
+   "record": 1,
+   "areas": [
+    101
+   ]
+  },
+  {
+   "bot": "navi/ashton",
+   "base": 62,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    76,
+    81
+   ]
+  },
+  {
+   "bot": "navi/bahamut",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    14,
+    84
+   ]
+  },
+  {
+   "bot": "navi/vulture",
+   "base": 62,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    76,
+    170
+   ]
+  },
+  {
+   "bot": "navi/sweet",
+   "base": 10,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 51,
+   "record": 0,
+   "areas": [
+    166,
+    187
+   ]
+  },
+  {
+   "bot": "navi/sea_otter",
+   "base": 54,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 214,
+   "record": 0,
+   "areas": [
+    128,
+    85
+   ]
+  },
+  {
+   "bot": "navi/dreitheist",
+   "base": 111,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 45,
+   "record": 0,
+   "areas": [
+    188,
+    189
+   ]
+  },
+  {
+   "bot": "navi/sonic_stag",
+   "base": 60,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 72,
+   "record": 0,
+   "areas": [
+    81
+   ]
+  },
+  {
+   "bot": "navi/pegasus_rider",
+   "base": 59,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 238,
+   "record": 0,
+   "areas": [
+    174,
+    173
+   ]
+  },
+  {
+   "bot": "navi/beelzebubbler",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 47,
+   "record": 0,
+   "areas": [
+    102,
+    111
+   ]
+  },
+  {
+   "bot": "navi/taurus",
+   "base": 30,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 181,
+   "record": 0,
+   "areas": [
+    36,
+    37
+   ]
+  },
+  {
+   "bot": "navi/silvarion",
+   "base": 62,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    76,
+    170
+   ]
+  },
+  {
+   "bot": "navi/granbeetle",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/super_exp",
+   "base": 69,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 48,
+   "record": 0,
+   "areas": [
+    46,
+    101
+   ]
+  },
+  {
+   "bot": "navi/dreiguous",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 47,
+   "record": 0,
+   "areas": [
+    112,
+    1
+   ]
+  },
+  {
+   "bot": "navi/luminous_stag",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    2,
+    3
+   ]
+  },
+  {
+   "bot": "navi/domestic",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    4,
+    5
+   ]
+  },
+  {
+   "bot": "navi/goldoran",
+   "base": 62,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    184,
+    185
+   ]
+  },
+  {
+   "bot": "navi/kaiser_beetle",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    6,
+    8
+   ]
+  },
+  {
+   "bot": "navi/di_tyranno",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    9,
+    10
+   ]
+  },
+  {
+   "bot": "navi/san_ninja",
+   "base": 75,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 242,
+   "record": 1,
+   "areas": [
+    128,
+    173
+   ]
+  },
+  {
+   "bot": "navi/blacklester",
+   "base": 72,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 229,
+   "record": 1,
+   "areas": [
+    173
+   ]
+  },
+  {
+   "bot": "navi/la_a_burage",
+   "base": 97,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 49,
+   "record": 1,
+   "areas": [
+    137,
+    136
+   ]
+  },
+  {
+   "bot": "navi/lady_outer",
+   "base": 23,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 243,
+   "record": 1,
+   "areas": [
+    101
+   ]
+  },
+  {
+   "bot": "navi/ptolemy",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/blazermate",
+   "base": 69,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 48,
+   "record": 0,
+   "areas": [
+    46,
+    101
+   ]
+  },
+  {
+   "bot": "navi/medamaid",
+   "base": 29,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 39,
+   "record": 0,
+   "areas": [
+    40,
+    42
+   ]
+  },
+  {
+   "bot": "navi/circred",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    11,
+    12
+   ]
+  },
+  {
+   "bot": "navi/passionate",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    13,
+    14
+   ]
+  },
+  {
+   "bot": "navi/ptolemic",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 52,
+   "record": 0,
+   "areas": [
+    84,
+    102
+   ]
+  },
+  {
+   "bot": "navi/noel",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 47,
+   "record": 0,
+   "areas": [
+    111,
+    112
+   ]
+  },
+  {
+   "bot": "navi/navi_commu",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    1,
+    2
+   ]
+  },
+  {
+   "bot": "navi/ophinichus",
+   "base": 69,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 48,
+   "record": 0,
+   "areas": [
+    46,
+    173
+   ]
+  },
+  {
+   "bot": "navi/flackline",
+   "base": 92,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 241,
+   "record": 0,
+   "areas": [
+    85
+   ]
+  },
+  {
+   "bot": "navi/black_tapir",
+   "base": 89,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 33,
+   "record": 0,
+   "areas": [
+    62,
+    95
+   ]
+  },
+  {
+   "bot": "navi/tetsuwan_pandam",
+   "base": 62,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    184,
+    185
+   ]
+  },
+  {
+   "bot": "navi/fatty_pig",
+   "base": 91,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 2,
+   "areas": [
+    73,
+    82
+   ]
+  },
+  {
+   "bot": "navi/gemini",
+   "base": 92,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 241,
+   "record": 0,
+   "areas": [
+    85
+   ]
+  },
+  {
+   "bot": "navi/landracer",
+   "base": 90,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 30,
+   "record": 1,
+   "areas": [
+    102,
+    111
+   ]
+  },
+  {
+   "bot": "navi/home_carry",
+   "base": 0,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    38,
+    39
+   ]
+  },
+  {
+   "bot": "navi/nuts_cracker",
+   "base": 92,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 241,
+   "record": 0,
+   "areas": [
+    85
+   ]
+  },
+  {
+   "bot": "navi/dip",
+   "base": 89,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 33,
+   "record": 0,
+   "areas": [
+    62,
+    95
+   ]
+  },
+  {
+   "bot": "navi/virgo",
+   "base": 91,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 2,
+   "areas": [
+    73,
+    82
+   ]
+  },
+  {
+   "bot": "navi/conical",
+   "base": 29,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 39,
+   "record": 0,
+   "areas": [
+    43,
+    33
+   ]
+  },
+  {
+   "bot": "navi/discratch",
+   "base": 91,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 2,
+   "areas": [
+    73,
+    82
+   ]
+  },
+  {
+   "bot": "navi/bug_stink",
+   "base": 95,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 214,
+   "record": 2,
+   "areas": [
+    128,
+    46
+   ]
+  },
+  {
+   "bot": "navi/skin_leak",
+   "base": 111,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 45,
+   "record": 0,
+   "areas": [
+    31,
+    44
+   ]
+  },
+  {
+   "bot": "navi/warheadly",
+   "base": 98,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 56,
+   "record": 0,
+   "areas": [
+    184,
+    142
+   ]
+  },
+  {
+   "bot": "navi/drimogera",
+   "base": 104,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 56,
+   "record": 2,
+   "areas": [
+    184,
+    185
+   ]
+  },
+  {
+   "bot": "navi/bug_shield",
+   "base": 95,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 214,
+   "record": 2,
+   "areas": [
+    128,
+    46
+   ]
+  },
+  {
+   "bot": "navi/dumpster",
+   "base": 103,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 170,
+   "record": 1,
+   "areas": [
+    142,
+    185
+   ]
+  },
+  {
+   "bot": "navi/raccoon",
+   "base": 94,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 62,
+   "record": 0,
+   "areas": [
+    83,
+    80
+   ]
+  },
+  {
+   "bot": "navi/island_croco",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    34,
+    36
+   ]
+  },
+  {
+   "bot": "navi/killerwhale",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    37,
+    38
+   ]
+  },
+  {
+   "bot": "navi/mirror_stick",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    39,
+    80
+   ]
+  },
+  {
+   "bot": "navi/ikaten",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    34,
+    36
+   ]
+  },
+  {
+   "bot": "navi/kanehachi_mk3",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    37,
+    38
+   ]
+  },
+  {
+   "bot": "navi/all_head",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    39,
+    80
+   ]
+  },
+  {
+   "bot": "navi/quar_brachio",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    190,
+    191
+   ]
+  },
+  {
+   "bot": "navi/acroseals",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    34,
+    36
+   ]
+  },
+  {
+   "bot": "navi/larva",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    37,
+    38
+   ]
+  },
+  {
+   "bot": "navi/fish_home",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    39,
+    68
+   ]
+  },
+  {
+   "bot": "navi/marine_healer",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 70,
+   "record": 0,
+   "areas": [
+    80,
+    190
+   ]
+  },
+  {
+   "bot": "navi/cradle",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    191,
+    40
+   ]
+  },
+  {
+   "bot": "navi/bottom_glisten",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    42,
+    43
+   ]
+  },
+  {
+   "bot": "navi/pisces",
+   "base": 0,
+   "why": "Navi: bot base do desenho",
+   "from_group": 46,
+   "record": 1,
+   "areas": [
+    40,
+    42
+   ]
+  },
+  {
+   "bot": "navi/dondoguu",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    3,
+    4
+   ]
+  },
+  {
+   "bot": "navi/betty_bear",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    5,
+    6
+   ]
+  },
+  {
+   "bot": "navi/searchrat",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    8,
+    9
+   ]
+  },
+  {
+   "bot": "navi/trap_spider",
+   "base": 28,
+   "why": "Navi: bot base do desenho",
+   "from_group": 35,
+   "record": 0,
+   "areas": [
+    128
+   ]
+  },
+  {
+   "bot": "navi/god_emperor",
+   "base": 13,
+   "why": "Navi: bot base do desenho",
+   "from_group": 245,
+   "record": 0,
+   "areas": [
+    10,
+    11
+   ]
+  },
+  {
+   "bot": "navi/cosmo_alien",
+   "base": 72,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 229,
+   "record": 1,
+   "areas": [
+    173
+   ]
+  },
+  {
+   "bot": "navi/kantaros",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/mach_massive",
+   "base": 62,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    185
+   ]
+  },
+  {
+   "bot": "navi/arcbeetle",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/masked_kuwagata",
+   "base": 87,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 0,
+   "areas": [
+    73,
+    82
+   ]
+  },
+  {
+   "bot": "navi/masked_kabuto",
+   "base": 69,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 48,
+   "record": 0,
+   "areas": [
+    46
+   ]
+  },
+  {
+   "bot": "navi/dorcus",
+   "base": 62,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    185
+   ]
+  },
+  {
+   "bot": "navi/excise",
+   "base": 62,
+   "why": "semelhanca 6/8 (perna, medalha, tecnicas)",
+   "from_group": 54,
+   "record": 1,
+   "areas": [
+    185
+   ]
+  },
+  {
+   "bot": "navi/straywolf",
+   "base": 59,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 238,
+   "record": 0,
+   "areas": [
+    174
+   ]
+  },
+  {
+   "bot": "navi/saikachis",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/unitris",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/brownbison",
+   "base": 71,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 240,
+   "record": 0,
+   "areas": [
+    174
+   ]
+  },
+  {
+   "bot": "navi/tyrrellbeetle",
+   "base": 59,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 238,
+   "record": 0,
+   "areas": [
+    174
+   ]
+  },
+  {
+   "bot": "navi/arcbeetle_dash",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/anzudo_beetle",
+   "base": 112,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 62,
+   "record": 1,
+   "areas": [
+    83,
+    84
+   ]
+  },
+  {
+   "bot": "navi/cameo_stag",
+   "base": 71,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 240,
+   "record": 0,
+   "areas": [
+    174
+   ]
+  },
+  {
+   "bot": "navi/sailor_multi",
+   "base": 76,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 239,
+   "record": 0,
+   "areas": [
+    96
+   ]
+  },
+  {
+   "bot": "navi/bravenurse",
+   "base": 71,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 240,
+   "record": 0,
+   "areas": [
+    174
+   ]
+  },
+  {
+   "bot": "navi/magentacat",
+   "base": 54,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 87,
+   "record": 0,
+   "areas": [
+    62
+   ]
+  },
+  {
+   "bot": "navi/bunnyheart",
+   "base": 91,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 2,
+   "areas": [
+    73,
+    82
+   ]
+  },
+  {
+   "bot": "navi/darkpanther",
+   "base": 54,
+   "why": "semelhanca 5/8 (perna, medalha, tecnicas)",
+   "from_group": 87,
+   "record": 0,
+   "areas": [
+    62
+   ]
+  },
+  {
+   "bot": "navi/blossomail",
+   "base": 112,
+   "why": "semelhanca 4/8 (perna, medalha, tecnicas)",
+   "from_group": 62,
+   "record": 1,
+   "areas": [
+    83,
+    84
+   ]
+  },
+  {
+   "bot": "navi/rollstar",
+   "base": 87,
+   "why": "semelhanca 7/8 (perna, medalha, tecnicas)",
+   "from_group": 55,
+   "record": 0,
+   "areas": [
+    73,
+    82
+   ]
+  },
+  {
+   "bot": "navi/yellowturtle",
+   "base": 94,
+   "why": "semelhanca 3/8 (perna, medalha, tecnicas)",
+   "from_group": 62,
+   "record": 0,
+   "areas": [
+    83,
+    84
+   ]
+  },
+  {
+   "bot": "core/specter",
+   "base": null,
+   "why": "pos-jogo (Elemental Series, Medabots Corporation da Nae): exclusivo da Kuwagata J, sem luta na U",
+   "from_group": 40,
+   "record": 0,
+   "areas": [
+    136,
+    137
+   ],
+   "levels": [
+    60,
+    55,
+    50
+   ],
+   "min_phase": 9,
+   "manual": true
+  },
+  {
+   "bot": "core/toybox",
+   "base": null,
+   "why": "pos-jogo (Elemental Series, Medabots Corporation da Nae): exclusivo da Kuwagata J, sem luta na U",
+   "from_group": 40,
+   "record": 0,
+   "areas": [
+    136,
+    137
+   ],
+   "levels": [
+    60,
+    55,
+    50
+   ],
+   "min_phase": 9,
+   "manual": true
+  },
+  {
+   "bot": "core/sabotina",
+   "base": null,
+   "why": "pos-jogo (Elemental Series, Medabots Corporation da Nae): exclusivo da Kuwagata J, sem luta na U",
+   "from_group": 49,
+   "record": 0,
+   "areas": [
+    136,
+    137
+   ],
+   "levels": [
+    60,
+    55,
+    50
+   ],
+   "min_phase": 9,
+   "manual": true
+  },
+  {
+   "bot": "core/aquacrown",
+   "base": null,
+   "why": "pos-jogo (Elemental Series, Medabots Corporation da Nae): exclusivo da Kuwagata J, sem luta na U",
+   "from_group": 49,
+   "record": 0,
+   "areas": [
+    136,
+    137
+   ],
+   "levels": [
+    60,
+    55,
+    50
+   ],
+   "min_phase": 9,
+   "manual": true
+  }
+ ]
+}

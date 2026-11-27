@@ -1,0 +1,26 @@
+{
+ "base_sha1": "c220ab986501f15a3c151cde2caa6c3d2cac735c",
+ "ops": [
+  [
+   0,
+   1,
+   [
+    "; roteiro 162 (banco 5, inicio 0x0F93)  (+ luta do pós-jogo da versão japonesa)",
+    "Switch_Event_Counter @L_0003, @L_000E",
+    "L_0003:"
+   ]
+  ],
+  [
+   5,
+   5,
+   [
+    "L_000E:",
+    "Show_Message_A bank=16, id=30",
+    "Start_Battle battle=250, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Show_Message_A bank=16, id=31",
+    "Set_Event_Variable event_id=162, value=0",
+    "End"
+   ]
+  ]
+ ]
+}

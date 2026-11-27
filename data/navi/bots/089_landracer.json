@@ -1,0 +1,165 @@
+{
+ "pack": "navi",
+ "navi_id": 89,
+ "slug": "landracer",
+ "name": "Landracer",
+ "name_full": "Landracer",
+ "name_jp": "ランドレーサー",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 89,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "FM1-01NF",
+   "name_jp": "ウィンドシールド",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "success": 30,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FM1-02NF",
+   "name_jp": "エグザストファン",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 0,
+    "power": 10,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 1,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "booster"
+  },
+  "left_arm": {
+   "name": "FM1-03NF",
+   "name_jp": "エグザストバルブ",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 0,
+    "power": 10,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 1,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "booster"
+  },
+  "legs": {
+   "name": "FM1-04NF",
+   "name_jp": "カットアウト",
+   "stats": {
+    "medal_compat": 17,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 41,
+    "evasion": 12,
+    "defense": 24,
+    "proximity": 8,
+    "remoteness": 5,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 104,
+   "propulsion": 53,
+   "evasion": 32,
+   "defense": 42,
+   "proximity": 19,
+   "remoteness": 18
+  },
+  "legs_navi": {
+   "propulsion": 86,
+   "evasion": 32,
+   "defense": 40,
+   "proximity": 24,
+   "remoteness": 22
+  },
+  "drives": {
+   "A": {
+    "technique": 1,
+    "speciality": 1,
+    "success": 34,
+    "power": 38,
+    "effect": "none",
+    "navi": {
+     "action": 1,
+     "success": 68,
+     "power": 32
+    },
+    "medal_compat": 0
+   },
+   "B": {
+    "technique": 36,
+    "speciality": 6,
+    "success": 0,
+    "power": 13,
+    "effect": "booster",
+    "navi": {
+     "action": 3,
+     "success": 0,
+     "power": 10
+    },
+    "medal_compat": 17
+   },
+   "C": {
+    "technique": 36,
+    "speciality": 6,
+    "success": 0,
+    "power": 16,
+    "effect": "booster",
+    "navi": {
+     "action": 3,
+     "success": 0,
+     "power": 16
+    },
+    "medal_compat": 17
+   }
+  }
+ }
+}

@@ -1,0 +1,8046 @@
+[
+ {
+  "navi_id": 0,
+  "name_jp": "サマーソルト",
+  "parts": {
+   "head": {
+    "model": "RDFー11NF",
+    "name_jp": "フリグリー",
+    "data": [
+     0,
+     0,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "RDFー12NF",
+    "name_jp": "ストレーナー",
+    "data": [
+     8,
+     0,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "RDFー13NF",
+    "name_jp": "スキーマー",
+    "data": [
+     8,
+     0,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "RDFー14NF",
+    "name_jp": "テーラー",
+    "data": [
+     0,
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "RDF",
+  "medapedia": 1,
+  "model_full": "RDF-1NF",
+  "name": "Somersault",
+  "motif": "Dragonfly",
+  "leg_type": "Flying",
+  "gender": "M"
+ },
+ {
+  "navi_id": 1,
+  "name_jp": "アンブルバット",
+  "parts": {
+   "head": {
+    "model": "BATー11NX",
+    "name_jp": "アンブルヘッド",
+    "data": [
+     4,
+     0,
+     35,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BATー12NX",
+    "name_jp": "アンブルハンド",
+    "data": [
+     3,
+     0,
+     35,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BATー13NX",
+    "name_jp": "アンブルアーム",
+    "data": [
+     3,
+     0,
+     35,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BATー14NX",
+    "name_jp": "アンブルレッグ",
+    "data": [
+     4,
+     0,
+     35,
+     0
+    ]
+   }
+  },
+  "model": "BAT",
+  "medapedia": 2,
+  "model_full": "BAT-1NX",
+  "name": "Umbrebat",
+  "motif": "Bat",
+  "leg_type": "Flying",
+  "gender": "M"
+ },
+ {
+  "navi_id": 2,
+  "name_jp": "フィーラー",
+  "parts": {
+   "head": {
+    "model": "NMRー01NF",
+    "name_jp": "ジェスターカップ",
+    "data": [
+     2,
+     0,
+     23,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "NMRー02NF",
+    "name_jp": "ドリームランス",
+    "data": [
+     8,
+     0,
+     23,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "NMRー03NF",
+    "name_jp": "ドリームスピア",
+    "data": [
+     8,
+     0,
+     23,
+     0
+    ]
+   },
+   "legs": {
+    "model": "NMRー04NF",
+    "name_jp": "ドリームライク",
+    "data": [
+     2,
+     0,
+     23,
+     0
+    ]
+   }
+  },
+  "model": "NMR",
+  "medapedia": 3,
+  "model_full": "NMR-0NF",
+  "name": "Fearer",
+  "motif": "Nightmare",
+  "leg_type": "Flying",
+  "gender": "M"
+ },
+ {
+  "navi_id": 3,
+  "name_jp": "サジタリウス",
+  "parts": {
+   "head": {
+    "model": "SGTー01NF",
+    "name_jp": "リーダー",
+    "data": [
+     0,
+     0,
+     7,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SGTー02NF",
+    "name_jp": "ガイド",
+    "data": [
+     7,
+     0,
+     7,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SGTー03NF",
+    "name_jp": "コーチ",
+    "data": [
+     7,
+     0,
+     7,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SGTー04NF",
+    "name_jp": "リベリティ",
+    "data": [
+     0,
+     0,
+     7,
+     0
+    ]
+   }
+  },
+  "model": "SGT",
+  "medapedia": 4,
+  "model_full": "SGT-0NF",
+  "name": "Sagittarius",
+  "motif": "Sagittarius",
+  "leg_type": "Flying",
+  "gender": "M"
+ },
+ {
+  "navi_id": 4,
+  "name_jp": "カットスパロー",
+  "parts": {
+   "head": {
+    "model": "SPRー01NF",
+    "name_jp": "トングー",
+    "data": [
+     36,
+     1,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SPRー02NF",
+    "name_jp": "ウィッカー",
+    "data": [
+     36,
+     1,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SPRー03NF",
+    "name_jp": "バンブー",
+    "data": [
+     36,
+     1,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SPRー04NF",
+    "name_jp": "テレポール",
+    "data": [
+     36,
+     1,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "SPR",
+  "medapedia": 5,
+  "model_full": "SPR-0NF",
+  "name": "Cut Sparrow",
+  "motif": "Sparrow",
+  "leg_type": "Flying",
+  "gender": "M"
+ },
+ {
+  "navi_id": 5,
+  "name_jp": "トリプテラ",
+  "parts": {
+   "head": {
+    "model": "WGDー01NF",
+    "name_jp": "ハードメタル",
+    "data": [
+     38,
+     2,
+     35,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "WGDー02NF",
+    "name_jp": "レセプトメタル",
+    "data": [
+     39,
+     2,
+     35,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "WGDー03NF",
+    "name_jp": "アブソーブメタル",
+    "data": [
+     39,
+     2,
+     35,
+     0
+    ]
+   },
+   "legs": {
+    "model": "WGDー04NF",
+    "name_jp": "ソリッドメタル",
+    "data": [
+     38,
+     2,
+     35,
+     0
+    ]
+   }
+  },
+  "model": "WGD",
+  "medapedia": 6,
+  "model_full": "WGD-0NF",
+  "name": "Tri-Ptera",
+  "motif": "Pteranodon",
+  "leg_type": "Flying",
+  "gender": "M"
+ },
+ {
+  "navi_id": 6,
+  "name_jp": "サイレントリーフ",
+  "parts": {
+   "head": {
+    "model": "ERHー01NF",
+    "name_jp": "ロングレンジ",
+    "data": [
+     16,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ERHー02NF",
+    "name_jp": "オブスキュア",
+    "data": [
+     19,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ERHー03NF",
+    "name_jp": "エネマス",
+    "data": [
+     19,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ERHー04NF",
+    "name_jp": "スタビリティ",
+    "data": [
+     16,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "ERH",
+  "medapedia": 7,
+  "model_full": "ERH-0NF",
+  "name": "Silent Reef",
+  "motif": "Reef heron",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 7,
+  "name_jp": "ヴィッガリア",
+  "parts": {
+   "head": {
+    "model": "BGGー01NF",
+    "name_jp": "アフレント",
+    "data": [
+     23,
+     0,
+     15,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BGGー02NF",
+    "name_jp": "イルネス",
+    "data": [
+     23,
+     0,
+     15,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BGGー03NF",
+    "name_jp": "シックネス",
+    "data": [
+     23,
+     0,
+     15,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BGGー04NF",
+    "name_jp": "ディシーズ",
+    "data": [
+     23,
+     0,
+     15,
+     0
+    ]
+   }
+  },
+  "model": "BGG",
+  "medapedia": 8,
+  "model_full": "BGG-0NF",
+  "name": "Viggaria",
+  "motif": "Budgie",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 8,
+  "name_jp": "ツーシーター",
+  "parts": {
+   "head": {
+    "model": "TSTー01NF",
+    "name_jp": "スプラング",
+    "data": [
+     20,
+     0,
+     8,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TSTー02NF",
+    "name_jp": "ピッター",
+    "data": [
+     18,
+     0,
+     8,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TSTー03NF",
+    "name_jp": "パッター",
+    "data": [
+     18,
+     0,
+     8,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TSTー04NF",
+    "name_jp": "デミュール",
+    "data": [
+     20,
+     0,
+     8,
+     0
+    ]
+   }
+  },
+  "model": "TST",
+  "medapedia": 9,
+  "model_full": "TST-0NF",
+  "name": "Twoseater",
+  "motif": "Toaster",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 9,
+  "name_jp": "ハムチューン",
+  "parts": {
+   "head": {
+    "model": "HMBー01NF",
+    "name_jp": "ハニーコーン",
+    "data": [
+     16,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "HMBー02NF",
+    "name_jp": "フラッパー",
+    "data": [
+     20,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "HMBー03NF",
+    "name_jp": "フラッター",
+    "data": [
+     20,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "HMBー04NF",
+    "name_jp": "ビーハイブ",
+    "data": [
+     16,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "HMB",
+  "medapedia": 10,
+  "model_full": "HMB-0NF",
+  "name": "Humtune",
+  "motif": "Hummingbird",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 10,
+  "name_jp": "ローズブーケ",
+  "parts": {
+   "head": {
+    "model": "ROSー01NF",
+    "name_jp": "ローズグローリー",
+    "data": [
+     17,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ROSー02NF",
+    "name_jp": "ローズブルーム",
+    "data": [
+     19,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ROSー03NF",
+    "name_jp": "ローズアーウト",
+    "data": [
+     19,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ROSー04NF",
+    "name_jp": "ローズガーデン",
+    "data": [
+     17,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "ROS",
+  "medapedia": 11,
+  "model_full": "ROS-0NF",
+  "name": "Rose Bouquet",
+  "motif": "Rose",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 11,
+  "name_jp": "スイートネクター",
+  "parts": {
+   "head": {
+    "model": "HBEー11NF",
+    "name_jp": "アロマシロップ",
+    "data": [
+     20,
+     0,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "HBEー12NF",
+    "name_jp": "ギャザーハニー",
+    "data": [
+     20,
+     0,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "HBEー13NF",
+    "name_jp": "コレクトハニー",
+    "data": [
+     20,
+     0,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "HBEー14NF",
+    "name_jp": "ストライプ",
+    "data": [
+     20,
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "HBE",
+  "medapedia": 12,
+  "model_full": "HBE-1NF",
+  "name": "Sweet Nectar",
+  "motif": "Honeybee",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 12,
+  "name_jp": "ロングレッグ",
+  "parts": {
+   "head": {
+    "model": "MSQー01NF",
+    "name_jp": "アセンブラ",
+    "data": [
+     20,
+     3,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MSQー02NF",
+    "name_jp": "インジェクション",
+    "data": [
+     24,
+     3,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MSQー03NF",
+    "name_jp": "ディテクション",
+    "data": [
+     19,
+     3,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MSQー04NF",
+    "name_jp": "スムージ",
+    "data": [
+     20,
+     3,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "MSQ",
+  "medapedia": 13,
+  "model_full": "MSQ-0NF",
+  "name": "Longleg",
+  "motif": "Mosquito",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 13,
+  "name_jp": "ブレザーマルチ",
+  "parts": {
+   "head": {
+    "model": "BLZー21NF",
+    "name_jp": "セーター",
+    "data": [
+     19,
+     30,
+     5,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BLZー22NF",
+    "name_jp": "アルパ",
+    "data": [
+     21,
+     30,
+     5,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BLZー23NF",
+    "name_jp": "ノイエ",
+    "data": [
+     21,
+     30,
+     5,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BLZー24NF",
+    "name_jp": "ユニフォーム",
+    "data": [
+     19,
+     30,
+     5,
+     0
+    ]
+   }
+  },
+  "model": "BLZ",
+  "medapedia": 14,
+  "model_full": "BLZ-2NF",
+  "name": "Blazer-Multi",
+  "motif": "Blazer",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 14,
+  "name_jp": "ミスティテイル",
+  "parts": {
+   "head": {
+    "model": "SWTー01NF",
+    "name_jp": "エクローション",
+    "data": [
+     22,
+     4,
+     4,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SWTー02NF",
+    "name_jp": "アソシエイト",
+    "data": [
+     22,
+     4,
+     4,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SWTー03NF",
+    "name_jp": "アプロウチ",
+    "data": [
+     22,
+     4,
+     4,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SWTー04NF",
+    "name_jp": "エメルジェンス",
+    "data": [
+     22,
+     4,
+     4,
+     0
+    ]
+   }
+  },
+  "model": "SWT",
+  "medapedia": 15,
+  "model_full": "SWT-0NF",
+  "name": "Misty Tail",
+  "motif": "Swallowtail",
+  "leg_type": "Flying",
+  "gender": "F"
+ },
+ {
+  "navi_id": 15,
+  "name_jp": "ソリットコテージ",
+  "parts": {
+   "head": {
+    "model": "HUSー01NF",
+    "name_jp": "テレビジョン",
+    "data": [
+     1,
+     0,
+     13,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "HUSー02NF",
+    "name_jp": "ウェイカップ",
+    "data": [
+     8,
+     0,
+     13,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "HUSー03NF",
+    "name_jp": "バスターブ",
+    "data": [
+     7,
+     0,
+     13,
+     0
+    ]
+   },
+   "legs": {
+    "model": "HUSー04NF",
+    "name_jp": "ベーシス",
+    "data": [
+     1,
+     0,
+     13,
+     0
+    ]
+   }
+  },
+  "model": "HUS",
+  "medapedia": 16,
+  "model_full": "HUS-0NF",
+  "name": "Solid Cottage",
+  "motif": "House",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 16,
+  "name_jp": "エレメントマーク",
+  "parts": {
+   "head": {
+    "model": "EMTー01NF",
+    "name_jp": "カーボン",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "EMTー02NF",
+    "name_jp": "ハイドロゲンR",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "EMTー03NF",
+    "name_jp": "ハイドロゲンL",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   },
+   "legs": {
+    "model": "EMTー04NF",
+    "name_jp": "オキシジェン",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   }
+  },
+  "model": "EMT",
+  "medapedia": 17,
+  "model_full": "EMT-0NF",
+  "name": "Element Mark",
+  "motif": "Element",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 17,
+  "name_jp": "ピープラント",
+  "parts": {
+   "head": {
+    "model": "IVAー01NF",
+    "name_jp": "カムニャー",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "IVAー02NF",
+    "name_jp": "スピン",
+    "data": [
+     4,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "IVAー03NF",
+    "name_jp": "ターン",
+    "data": [
+     4,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "IVAー04NF",
+    "name_jp": "フレグラント",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "IVA",
+  "medapedia": 18,
+  "model_full": "IVA-0NF",
+  "name": "P-Plant",
+  "motif": "Pitcher plant",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 18,
+  "name_jp": "フライング・オブ",
+  "parts": {
+   "head": {
+    "model": "TCNー01NF",
+    "name_jp": "サンカクヘッド",
+    "data": [
+     5,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TCNー02NF",
+    "name_jp": "スプレッドボディ",
+    "data": [
+     1,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TCNー03NF",
+    "name_jp": "フラットボディ",
+    "data": [
+     1,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TCNー04NF",
+    "name_jp": "ショートテール",
+    "data": [
+     5,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "TCN",
+  "medapedia": 19,
+  "model_full": "TCN-0NF",
+  "name": "Flying Of",
+  "motif": "Tsuchinoko",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 19,
+  "name_jp": "ウラバン",
+  "parts": {
+   "head": {
+    "model": "BANー11NF",
+    "name_jp": "リーダーシップ",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BANー12NF",
+    "name_jp": "グループオブ",
+    "data": [
+     6,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BANー13NF",
+    "name_jp": "ジュブナイル",
+    "data": [
+     6,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BANー14NF",
+    "name_jp": "デリキュエント",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "BAN",
+  "medapedia": 20,
+  "model_full": "BAN-1NF",
+  "name": "Uraban",
+  "motif": "Banchou",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 20,
+  "name_jp": "アウェイクミー",
+  "parts": {
+   "head": {
+    "model": "OWLー01NF",
+    "name_jp": "グッドスタディ",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "OWLー02NF",
+    "name_jp": "インスペクト",
+    "data": [
+     7,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "OWLー03NF",
+    "name_jp": "プローブ",
+    "data": [
+     8,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "OWLー04NF",
+    "name_jp": "ルーズリー",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "OWL",
+  "medapedia": 21,
+  "model_full": "OWL-0NF",
+  "name": "Awake Me",
+  "motif": "Owl",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 21,
+  "name_jp": "プーパビートル",
+  "parts": {
+   "head": {
+    "model": "KBTー01NF",
+    "name_jp": "プチミサイル",
+    "data": [
+     32,
+     6,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー02NF",
+    "name_jp": "プチライフル",
+    "data": [
+     32,
+     6,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー03NF",
+    "name_jp": "プチマシンガン",
+    "data": [
+     32,
+     6,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー04NF",
+    "name_jp": "プチオチツコー",
+    "data": [
+     32,
+     6,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 22,
+  "model_full": "KBT-0NF",
+  "name": "Pupa Beetle",
+  "motif": "Rhino beetle",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 22,
+  "name_jp": "プーパスタッグ",
+  "parts": {
+   "head": {
+    "model": "KWGー01NF",
+    "name_jp": "プチアンテナ",
+    "data": [
+     32,
+     7,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー02NF",
+    "name_jp": "プチソード",
+    "data": [
+     32,
+     7,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー03NF",
+    "name_jp": "プチハンマー",
+    "data": [
+     32,
+     7,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー04NF",
+    "name_jp": "プチタタカッター",
+    "data": [
+     32,
+     7,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 23,
+  "model_full": "KWG-0NF",
+  "name": "Pupa Stag",
+  "motif": "Stag beetle",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 23,
+  "name_jp": "ミストラル",
+  "parts": {
+   "head": {
+    "model": "MSTー01NF",
+    "name_jp": "コンデンス",
+    "data": [
+     37,
+     5,
+     22,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MSTー02NF",
+    "name_jp": "ヘイズ",
+    "data": [
+     37,
+     5,
+     22,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MSTー03NF",
+    "name_jp": "フォグ",
+    "data": [
+     37,
+     5,
+     22,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MSTー04NF",
+    "name_jp": "ファーティリー",
+    "data": [
+     37,
+     5,
+     22,
+     0
+    ]
+   }
+  },
+  "model": "MST",
+  "medapedia": 24,
+  "model_full": "MST-0NF",
+  "name": "Mistral",
+  "motif": "Mistral",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 24,
+  "name_jp": "ランプライト",
+  "parts": {
+   "head": {
+    "model": "MFYー01NF",
+    "name_jp": "インジケーション",
+    "data": [
+     21,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MFYー02NF",
+    "name_jp": "ブラックアウト",
+    "data": [
+     24,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MFYー03NF",
+    "name_jp": "ブラウンアウト",
+    "data": [
+     24,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MFYー04NF",
+    "name_jp": "ウェアイーブン",
+    "data": [
+     21,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "MFY",
+  "medapedia": 25,
+  "model_full": "MFY-0NF",
+  "name": "Lamplight",
+  "motif": "Mayfly",
+  "leg_type": "Hover",
+  "gender": "F"
+ },
+ {
+  "navi_id": 25,
+  "name_jp": "ローズバッド",
+  "parts": {
+   "head": {
+    "model": "ROSー01NF",
+    "name_jp": "ローズチーク",
+    "data": [
+     20,
+     0,
+     19,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ROSー02NF",
+    "name_jp": "ローズソーン",
+    "data": [
+     21,
+     0,
+     19,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ROSー03NF",
+    "name_jp": "ローズブライア",
+    "data": [
+     24,
+     0,
+     19,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ROSー04NF",
+    "name_jp": "ローズブッシュ",
+    "data": [
+     20,
+     0,
+     19,
+     0
+    ]
+   }
+  },
+  "model": "ROS",
+  "medapedia": 26,
+  "model_full": "ROS-0NF",
+  "name": "Rosebud",
+  "motif": "Rose",
+  "leg_type": "Hover",
+  "gender": "F"
+ },
+ {
+  "navi_id": 26,
+  "name_jp": "ララ",
+  "parts": {
+   "head": {
+    "model": "FDLー01NF",
+    "name_jp": "クリンチャー",
+    "data": [
+     24,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FDLー02NF",
+    "name_jp": "クレバー",
+    "data": [
+     24,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FDLー03NF",
+    "name_jp": "スマート",
+    "data": [
+     24,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FDLー04NF",
+    "name_jp": "オーメン",
+    "data": [
+     24,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "FDL",
+  "medapedia": 27,
+  "model_full": "FDL-0NF",
+  "name": "Lala",
+  "motif": "French doll",
+  "leg_type": "Hover",
+  "gender": "F"
+ },
+ {
+  "navi_id": 27,
+  "name_jp": "アクエリアス",
+  "parts": {
+   "head": {
+    "model": "AQRー01NF",
+    "name_jp": "スプレンダー",
+    "data": [
+     23,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "AQRー02NF",
+    "name_jp": "マグニフィス",
+    "data": [
+     20,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "AQRー03NF",
+    "name_jp": "ゴルジオス",
+    "data": [
+     20,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "AQRー04NF",
+    "name_jp": "ソリチュード",
+    "data": [
+     23,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "AQR",
+  "medapedia": 28,
+  "model_full": "AQR-0NF",
+  "name": "Aquarius",
+  "motif": "Aquarius",
+  "leg_type": "Hover",
+  "gender": "F"
+ },
+ {
+  "navi_id": 28,
+  "name_jp": "ライブラ",
+  "parts": {
+   "head": {
+    "model": "LBRー01NF",
+    "name_jp": "エターナリー",
+    "data": [
+     22,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LBRー02NF",
+    "name_jp": "ハーモニー",
+    "data": [
+     19,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LBRー03NF",
+    "name_jp": "アグリメント",
+    "data": [
+     19,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LBRー04NF",
+    "name_jp": "クールヘッド",
+    "data": [
+     22,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "LBR",
+  "medapedia": 29,
+  "model_full": "LBR-0NF",
+  "name": "Libra",
+  "motif": "Libra",
+  "leg_type": "Hover",
+  "gender": "F"
+ },
+ {
+  "navi_id": 29,
+  "name_jp": "ジラフチーフ",
+  "parts": {
+   "head": {
+    "model": "GRFー11NF",
+    "name_jp": "トライブリィ",
+    "data": [
+     7,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GRFー12NF",
+    "name_jp": "ヘッドアンガー",
+    "data": [
+     2,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GRFー13NF",
+    "name_jp": "ヘッドプライド",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GRFー14NF",
+    "name_jp": "ヘッドメロウ",
+    "data": [
+     7,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "GRF",
+  "medapedia": 30,
+  "model_full": "GRF-1NF",
+  "name": "Giraffe Chief",
+  "motif": "Giraffe",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 30,
+  "name_jp": "ゼロスーサイド",
+  "parts": {
+   "head": {
+    "model": "KOLー01NF",
+    "name_jp": "メイントライフ",
+    "data": [
+     5,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KOLー02NF",
+    "name_jp": "ライフフォース",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KOLー03NF",
+    "name_jp": "ライフブラッド",
+    "data": [
+     6,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KOLー04NF",
+    "name_jp": "ライフレス",
+    "data": [
+     5,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KOL",
+  "medapedia": 31,
+  "model_full": "KOL-0NF",
+  "name": "Zero-Suicide",
+  "motif": "Unknown",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 31,
+  "name_jp": "チーパー",
+  "parts": {
+   "head": {
+    "model": "CCDー01NF",
+    "name_jp": "ラットロング",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CCDー02NF",
+    "name_jp": "ショートライフ",
+    "data": [
+     8,
+     0,
+     9,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CCDー03NF",
+    "name_jp": "ショートライブ",
+    "data": [
+     8,
+     0,
+     9,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CCDー04NF",
+    "name_jp": "アーリーデス",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   }
+  },
+  "model": "CCD",
+  "medapedia": 32,
+  "model_full": "CCD-0NF",
+  "name": "Cheeper",
+  "motif": "Cicada",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 32,
+  "name_jp": "ラ・ア・ゲダマー",
+  "parts": {
+   "head": {
+    "model": "RCDー01NF",
+    "name_jp": "アンモディファイ",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "RCDー02NF",
+    "name_jp": "ラードハンマ",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "RCDー03NF",
+    "name_jp": "スエットハンマ",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "RCDー04NF",
+    "name_jp": "タマラン",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "RCD",
+  "medapedia": 33,
+  "model_full": "RCD-0NF",
+  "name": "La A-Gedama",
+  "motif": "Tanuki",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 33,
+  "name_jp": "サイドワイズ",
+  "parts": {
+   "head": {
+    "model": "LZDー21NF",
+    "name_jp": "シャープシュート",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LZDー22NF",
+    "name_jp": "ラジエートヒータ",
+    "data": [
+     7,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LZDー23NF",
+    "name_jp": "ギガアウトプット",
+    "data": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LZDー24NF",
+    "name_jp": "セットル",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "LZD",
+  "medapedia": 34,
+  "model_full": "LZD-2NF",
+  "name": "Sidewise",
+  "motif": "Lizard",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 34,
+  "name_jp": "イマジンカイザー",
+  "parts": {
+   "head": {
+    "model": "WEAー01NF",
+    "name_jp": "カイザーブレイク",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "WEAー02NF",
+    "name_jp": "カイザーミサイル",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "WEAー03NF",
+    "name_jp": "カイザーレーザー",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "legs": {
+    "model": "WEAー04NF",
+    "name_jp": "カイザーシート",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   }
+  },
+  "model": "WEA",
+  "medapedia": 35,
+  "model_full": "WEA-0NF",
+  "name": "Imagine Kaiser",
+  "motif": "Weapon",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 35,
+  "name_jp": "シックルカッター",
+  "parts": {
+   "head": {
+    "model": "WMSー01NF",
+    "name_jp": "シックルシェイプ",
+    "data": [
+     2,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "WMSー02NF",
+    "name_jp": "スムースベンド",
+    "data": [
+     2,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "WMSー03NF",
+    "name_jp": "スムースカーブ",
+    "data": [
+     2,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "WMSー04NF",
+    "name_jp": "ライトリィ",
+    "data": [
+     2,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "WMS",
+  "medapedia": 36,
+  "model_full": "WMS-0NF",
+  "name": "Sickle Cutter",
+  "motif": "Mantis",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 36,
+  "name_jp": "ミリペイド",
+  "parts": {
+   "head": {
+    "model": "MLPー01NF",
+    "name_jp": "スイープリオット",
+    "data": [
+     1,
+     0,
+     14,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MLPー02NF",
+    "name_jp": "サージリオット",
+    "data": [
+     1,
+     0,
+     14,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MLPー03NF",
+    "name_jp": "ポーラリオット",
+    "data": [
+     1,
+     0,
+     14,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MLPー04NF",
+    "name_jp": "リングリング",
+    "data": [
+     1,
+     0,
+     14,
+     0
+    ]
+   }
+  },
+  "model": "MLP",
+  "medapedia": 37,
+  "model_full": "MLP-0NF",
+  "name": "Millipade",
+  "motif": "Millipede",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 37,
+  "name_jp": "アリエス",
+  "parts": {
+   "head": {
+    "model": "ARSー01NF",
+    "name_jp": "フライト",
+    "data": [
+     4,
+     0,
+     15,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ARSー02NF",
+    "name_jp": "シャイン",
+    "data": [
+     0,
+     0,
+     15,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ARSー03NF",
+    "name_jp": "ライト",
+    "data": [
+     0,
+     0,
+     15,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ARSー04NF",
+    "name_jp": "ヘジテイション",
+    "data": [
+     4,
+     0,
+     15,
+     0
+    ]
+   }
+  },
+  "model": "ARS",
+  "medapedia": 38,
+  "model_full": "ARS-0NF",
+  "name": "Aries",
+  "motif": "Aries",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 38,
+  "name_jp": "キャンサー",
+  "parts": {
+   "head": {
+    "model": "CNCー01NF",
+    "name_jp": "アンセルフ",
+    "data": [
+     4,
+     0,
+     32,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CNCー02NF",
+    "name_jp": "ジャスティス",
+    "data": [
+     7,
+     0,
+     32,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CNCー03NF",
+    "name_jp": "ジャストコース",
+    "data": [
+     7,
+     0,
+     32,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CNCー04NF",
+    "name_jp": "レイジリィ",
+    "data": [
+     4,
+     0,
+     32,
+     0
+    ]
+   }
+  },
+  "model": "CNC",
+  "medapedia": 39,
+  "model_full": "CNC-0NF",
+  "name": "Cancer",
+  "motif": "Cancer",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 39,
+  "name_jp": "レオ",
+  "parts": {
+   "head": {
+    "model": "LEOー01NF",
+    "name_jp": "プライド",
+    "data": [
+     1,
+     0,
+     6,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LEOー02NF",
+    "name_jp": "ファイト",
+    "data": [
+     1,
+     0,
+     6,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LEOー03NF",
+    "name_jp": "バトル",
+    "data": [
+     1,
+     0,
+     6,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LEOー04NF",
+    "name_jp": "セットバック",
+    "data": [
+     1,
+     0,
+     6,
+     0
+    ]
+   }
+  },
+  "model": "LEO",
+  "medapedia": 40,
+  "model_full": "LEO-0NF",
+  "name": "Leo",
+  "motif": "Leo",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 40,
+  "name_jp": "サイズカッター",
+  "parts": {
+   "head": {
+    "model": "WMSー01NF",
+    "name_jp": "ストレートライン",
+    "data": [
+     2,
+     8,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "WMSー02NF",
+    "name_jp": "ウォータアポース",
+    "data": [
+     2,
+     8,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "WMSー03NF",
+    "name_jp": "ウォータレジスト",
+    "data": [
+     2,
+     8,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "WMSー04NF",
+    "name_jp": "スイミー",
+    "data": [
+     2,
+     8,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "WMS",
+  "medapedia": 41,
+  "model_full": "WMS-0NF",
+  "name": "Scythe Cutter",
+  "motif": "Mantis",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 41,
+  "name_jp": "モノクルジアナ",
+  "parts": {
+   "head": {
+    "model": "CSNー01NF",
+    "name_jp": "エクセルロブ",
+    "data": [
+     38,
+     39,
+     8,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CSNー02NF",
+    "name_jp": "ライトロブ",
+    "data": [
+     39,
+     39,
+     8,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CSNー03NF",
+    "name_jp": "レフトロブ",
+    "data": [
+     39,
+     39,
+     8,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CSNー04NF",
+    "name_jp": "エクセルスピン",
+    "data": [
+     38,
+     39,
+     8,
+     0
+    ]
+   }
+  },
+  "model": "CSN",
+  "medapedia": 42,
+  "model_full": "CSN-0NF",
+  "name": "Mono-Cruziana",
+  "motif": "Cruziana",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 42,
+  "name_jp": "フラワーチャージ",
+  "parts": {
+   "head": {
+    "model": "FLWー01NF",
+    "name_jp": "ワイルドフラワー",
+    "data": [
+     17,
+     0,
+     9,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FLWー02NF",
+    "name_jp": "ワイルドグロウ",
+    "data": [
+     23,
+     0,
+     9,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FLWー03NF",
+    "name_jp": "ワイルドヘルズ",
+    "data": [
+     23,
+     0,
+     9,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FLWー04NF",
+    "name_jp": "ルート",
+    "data": [
+     17,
+     0,
+     9,
+     0
+    ]
+   }
+  },
+  "model": "FLW",
+  "medapedia": 43,
+  "model_full": "FLW-0NF",
+  "name": "Flowercharge",
+  "motif": "Flower",
+  "leg_type": "Multi-leg",
+  "gender": "F"
+ },
+ {
+  "navi_id": 43,
+  "name_jp": "スコルピオ",
+  "parts": {
+   "head": {
+    "model": "SCPー01NF",
+    "name_jp": "ビハインド",
+    "data": [
+     23,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SCPー02NF",
+    "name_jp": "シークレット",
+    "data": [
+     18,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SCPー03NF",
+    "name_jp": "マニューバー",
+    "data": [
+     18,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SCPー04NF",
+    "name_jp": "リボルト",
+    "data": [
+     23,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "SCP",
+  "medapedia": 44,
+  "model_full": "SCP-0NF",
+  "name": "Scorpio",
+  "motif": "Scorpio",
+  "leg_type": "Multi-leg",
+  "gender": "F"
+ },
+ {
+  "navi_id": 44,
+  "name_jp": "カプリコン",
+  "parts": {
+   "head": {
+    "model": "CPCー01NF",
+    "name_jp": "チェリフル",
+    "data": [
+     52,
+     9,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CPCー02NF",
+    "name_jp": "ポエティック",
+    "data": [
+     48,
+     9,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CPCー03NF",
+    "name_jp": "センチメント",
+    "data": [
+     48,
+     9,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CPCー04NF",
+    "name_jp": "ソロウ",
+    "data": [
+     52,
+     9,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "CPC",
+  "medapedia": 45,
+  "model_full": "CPC-0NF",
+  "name": "Capricorn",
+  "motif": "Capricorn",
+  "leg_type": "Multi-leg",
+  "gender": "F"
+ },
+ {
+  "navi_id": 45,
+  "name_jp": "ホップホップ",
+  "parts": {
+   "head": {
+    "model": "GRGー01NF",
+    "name_jp": "フラットリング",
+    "data": [
+     2,
+     0,
+     8,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GRGー02NF",
+    "name_jp": "ハブハッチ",
+    "data": [
+     6,
+     0,
+     8,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GRGー03NF",
+    "name_jp": "ウエハッチ",
+    "data": [
+     6,
+     0,
+     8,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GRGー04NF",
+    "name_jp": "フロッグキック",
+    "data": [
+     2,
+     0,
+     8,
+     0
+    ]
+   }
+  },
+  "model": "GRG",
+  "medapedia": 46,
+  "model_full": "GRG-0NF",
+  "name": "Hophop",
+  "motif": "Frog",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 46,
+  "name_jp": "ガイサイズ",
+  "parts": {
+   "head": {
+    "model": "SKTー01NF",
+    "name_jp": "オステオ",
+    "data": [
+     6,
+     0,
+     5,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SKTー02NF",
+    "name_jp": "ボニーコッズ",
+    "data": [
+     2,
+     0,
+     5,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SKTー03NF",
+    "name_jp": "スケルトンコッズ",
+    "data": [
+     2,
+     0,
+     5,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SKTー04NF",
+    "name_jp": "フレームワーク",
+    "data": [
+     6,
+     0,
+     5,
+     0
+    ]
+   }
+  },
+  "model": "SKT",
+  "medapedia": 47,
+  "model_full": "SKT-0NF",
+  "name": "Gaiscythe",
+  "motif": "Skeleton",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 47,
+  "name_jp": "イエロークリック",
+  "parts": {
+   "head": {
+    "model": "CCCー01NF",
+    "name_jp": "キャメルホース",
+    "data": [
+     6,
+     0,
+     8,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CCCー02NF",
+    "name_jp": "クッキンストーブ",
+    "data": [
+     2,
+     0,
+     8,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CCCー03NF",
+    "name_jp": "キッチンレンジ",
+    "data": [
+     2,
+     0,
+     8,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CCCー04NF",
+    "name_jp": "プルンベリー",
+    "data": [
+     6,
+     0,
+     8,
+     0
+    ]
+   }
+  },
+  "model": "CCC",
+  "medapedia": 48,
+  "model_full": "CCC-0NF",
+  "name": "Yellow Crick",
+  "motif": "Camel cricket",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 48,
+  "name_jp": "ダックビル",
+  "parts": {
+   "head": {
+    "model": "DKBー01NF",
+    "name_jp": "サックル",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DKBー02NF",
+    "name_jp": "マッシブシュート",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DKBー03NF",
+    "name_jp": "ソリッドシュート",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DKBー04NF",
+    "name_jp": "リアリング",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   }
+  },
+  "model": "DKB",
+  "medapedia": 49,
+  "model_full": "DKB-0NF",
+  "name": "Duckbill",
+  "motif": "Platypus",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 49,
+  "name_jp": "ウィンドクラップ",
+  "parts": {
+   "head": {
+    "model": "GLFー01NF",
+    "name_jp": "ギガントビーク",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GLFー02NF",
+    "name_jp": "ガストクロー",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GLFー03NF",
+    "name_jp": "ブラストクロー",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GLFー04NF",
+    "name_jp": "グラッブネル",
+    "data": [
+     5,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "GLF",
+  "medapedia": 50,
+  "model_full": "GLF-0NF",
+  "name": "Windclap",
+  "motif": "Gryphon",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 50,
+  "name_jp": "クレイドール",
+  "parts": {
+   "head": {
+    "model": "GRLー01NF",
+    "name_jp": "マジェスティック",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GRLー02NF",
+    "name_jp": "フィジカルハンド",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GRLー03NF",
+    "name_jp": "ストロングアーム",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GRLー04NF",
+    "name_jp": "フォレストキーパ",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "GRL",
+  "medapedia": 51,
+  "model_full": "GRL-0NF",
+  "name": "Claydoll",
+  "motif": "Gorilla",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 51,
+  "name_jp": "メダキーパー",
+  "parts": {
+   "head": {
+    "model": "SCRー01NX",
+    "name_jp": "メチャスロー",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SCRー02NX",
+    "name_jp": "ガッチリゲット",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SCRー03NX",
+    "name_jp": "チャントキャッチ",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SCRー04NX",
+    "name_jp": "モットコーイ",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "SCR",
+  "medapedia": 52,
+  "model_full": "SCR-0NX",
+  "name": "Medakeeper",
+  "motif": "Goalkeeper",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 52,
+  "name_jp": "アシュトン",
+  "parts": {
+   "head": {
+    "model": "GWFー01NF",
+    "name_jp": "ブースターヘッド",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GWFー02NF",
+    "name_jp": "アシュブレイカー",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GWFー03NF",
+    "name_jp": "アシュバスター",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GWFー04NF",
+    "name_jp": "アシュレッグ",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "GWF",
+  "medapedia": 53,
+  "model_full": "GWF-0NF",
+  "name": "Ashton",
+  "motif": "Gray wolf",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 53,
+  "name_jp": "バハムート",
+  "parts": {
+   "head": {
+    "model": "DRAー01NX",
+    "name_jp": "リューノイカリ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DRAー02NX",
+    "name_jp": "ハカイノテ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DRAー03NX",
+    "name_jp": "ハメツノテ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DRAー04NX",
+    "name_jp": "オリターツ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "DRA",
+  "medapedia": 54,
+  "model_full": "DRA-0NX",
+  "name": "Bahamut",
+  "motif": "Dragon",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 54,
+  "name_jp": "バルチャー",
+  "parts": {
+   "head": {
+    "model": "CCVー41NF",
+    "name_jp": "シャトルコック",
+    "data": [
+     6,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CCVー42NF",
+    "name_jp": "フロントホイール",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CCVー43NF",
+    "name_jp": "ハチェット",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CCVー44NF",
+    "name_jp": "ドラフティ",
+    "data": [
+     6,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "CCV",
+  "medapedia": 55,
+  "model_full": "CCV-4NF",
+  "name": "Vulture",
+  "motif": "Vulture",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 55,
+  "name_jp": "スィート",
+  "parts": {
+   "head": {
+    "model": "GHPー11NF",
+    "name_jp": "ビッググレア",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GHPー12NF",
+    "name_jp": "カッパー",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GHPー13NF",
+    "name_jp": "リッピー",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GHPー14NF",
+    "name_jp": "ジャンピ",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "GHP",
+  "medapedia": 56,
+  "model_full": "GHP-1NF",
+  "name": "Sweet",
+  "motif": "Grasshopper",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 56,
+  "name_jp": "シーオッター",
+  "parts": {
+   "head": {
+    "model": "SOTー11NF",
+    "name_jp": "スカラップ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SOTー12NF",
+    "name_jp": "マッシブノック",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SOTー13NF",
+    "name_jp": "ソリッドブロウ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SOTー14NF",
+    "name_jp": "メイソンリー",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "SOT",
+  "medapedia": 57,
+  "model_full": "SOT-1NF",
+  "name": "Sea Otter",
+  "motif": "Sea otter",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 57,
+  "name_jp": "ドライシイスト",
+  "parts": {
+   "head": {
+    "model": "LHBー21NF",
+    "name_jp": "ファイナリホーン",
+    "data": [
+     8,
+     13,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LHBー22NF",
+    "name_jp": "ロングエッジ",
+    "data": [
+     2,
+     13,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LHBー23NF",
+    "name_jp": "ロングジャンピィ",
+    "data": [
+     2,
+     13,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LHBー24NF",
+    "name_jp": "ペディスタル",
+    "data": [
+     8,
+     13,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "LHB",
+  "medapedia": 58,
+  "model_full": "LHB-2NF",
+  "name": "Dreitheist",
+  "motif": "Longhorn beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 58,
+  "name_jp": "ソニックスタッグ",
+  "parts": {
+   "head": {
+    "model": "KWGー01NF",
+    "name_jp": "エクスレイ",
+    "data": [
+     0,
+     14,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー02NF",
+    "name_jp": "スライドソード",
+    "data": [
+     0,
+     14,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー03NF",
+    "name_jp": "ブラッキハンマー",
+    "data": [
+     0,
+     14,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー04NF",
+    "name_jp": "アウトストリップ",
+    "data": [
+     0,
+     14,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 59,
+  "model_full": "KWG-0NF",
+  "name": "Sonic Stag",
+  "motif": "Stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 59,
+  "name_jp": "ペガサスライダー",
+  "parts": {
+   "head": {
+    "model": "PGSー01NF",
+    "name_jp": "ハーティ",
+    "data": [
+     5,
+     16,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "PGSー02NF",
+    "name_jp": "キャンター",
+    "data": [
+     0,
+     16,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "PGSー03NF",
+    "name_jp": "ギャロップ",
+    "data": [
+     6,
+     16,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "PGSー04NF",
+    "name_jp": "ノウハウ",
+    "data": [
+     5,
+     16,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "PGS",
+  "medapedia": 60,
+  "model_full": "PGS-0NF",
+  "name": "Pegasus Rider",
+  "motif": "Pegasus",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 60,
+  "name_jp": "ベルゼバブラ",
+  "parts": {
+   "head": {
+    "model": "FLYー36NF",
+    "name_jp": "テイスティ",
+    "data": [
+     5,
+     17,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FLYー37NF",
+    "name_jp": "ジャムクロール",
+    "data": [
+     1,
+     17,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FLYー38NF",
+    "name_jp": "ジャムスウォーム",
+    "data": [
+     1,
+     17,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FLYー39NF",
+    "name_jp": "マゴット",
+    "data": [
+     5,
+     17,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "FLY",
+  "medapedia": 61,
+  "model_full": "FLY-3NF",
+  "name": "Beelzebubbler",
+  "motif": "Fly",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 61,
+  "name_jp": "タウルス",
+  "parts": {
+   "head": {
+    "model": "TRSー01NF",
+    "name_jp": "ランナウェイ",
+    "data": [
+     0,
+     18,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TRSー02NF",
+    "name_jp": "グリード",
+    "data": [
+     2,
+     18,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TRSー03NF",
+    "name_jp": "デザイア",
+    "data": [
+     2,
+     18,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TRSー04NF",
+    "name_jp": "パッション",
+    "data": [
+     0,
+     18,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "TRS",
+  "medapedia": 62,
+  "model_full": "TRS-0NF",
+  "name": "Taurus",
+  "motif": "Taurus",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 62,
+  "name_jp": "シルバリオン",
+  "parts": {
+   "head": {
+    "model": "GWFー01NF",
+    "name_jp": "スコープボディ",
+    "data": [
+     0,
+     19,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GWFー02NF",
+    "name_jp": "シルバブレイカー",
+    "data": [
+     0,
+     19,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GWFー03NF",
+    "name_jp": "シルババスター",
+    "data": [
+     0,
+     19,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GWFー04NF",
+    "name_jp": "シルバレッグ",
+    "data": [
+     0,
+     19,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "GWF",
+  "medapedia": 63,
+  "model_full": "GWF-0NF",
+  "name": "Silvarion",
+  "motif": "Silver wolf",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 63,
+  "name_jp": "グランビートル",
+  "parts": {
+   "head": {
+    "model": "KBTー01NF",
+    "name_jp": "プロジェクター",
+    "data": [
+     0,
+     11,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー02NF",
+    "name_jp": "サークルシュート",
+    "data": [
+     0,
+     11,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー03NF",
+    "name_jp": "ピボットシュート",
+    "data": [
+     0,
+     11,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー04NF",
+    "name_jp": "スラローム",
+    "data": [
+     0,
+     11,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 64,
+  "model_full": "KBT-0NF",
+  "name": "Granbeetle",
+  "motif": "Rhino beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 64,
+  "name_jp": "スーパーエクスペ",
+  "parts": {
+   "head": {
+    "model": "SKSー11NF",
+    "name_jp": "ホープスピード",
+    "data": [
+     0,
+     23,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SKSー12NF",
+    "name_jp": "ライトスピード",
+    "data": [
+     0,
+     23,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SKSー13NF",
+    "name_jp": "エコースピード",
+    "data": [
+     0,
+     23,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SKSー14NF",
+    "name_jp": "レイトラック",
+    "data": [
+     0,
+     23,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "SKS",
+  "medapedia": 65,
+  "model_full": "SKS-1NF",
+  "name": "Super Exp",
+  "motif": "Shinkansen",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 65,
+  "name_jp": "ドライギュアス",
+  "parts": {
+   "head": {
+    "model": "JBTー01NF",
+    "name_jp": "ラウンドジャム",
+    "data": [
+     8,
+     24,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "JBTー02NF",
+    "name_jp": "ミサイルレイン",
+    "data": [
+     1,
+     24,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "JBTー03NF",
+    "name_jp": "ミサイルシャワー",
+    "data": [
+     1,
+     24,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "JBTー04NF",
+    "name_jp": "ブロイラー",
+    "data": [
+     8,
+     24,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "JBT",
+  "medapedia": 66,
+  "model_full": "JBT-0NF",
+  "name": "Dreiguous",
+  "motif": "Jewel beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 66,
+  "name_jp": "ルミナススタッグ",
+  "parts": {
+   "head": {
+    "model": "KWGー11NF",
+    "name_jp": "オールオーバー",
+    "data": [
+     32,
+     15,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー12NF",
+    "name_jp": "メイクシフター",
+    "data": [
+     32,
+     15,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー13NF",
+    "name_jp": "ストップギャップ",
+    "data": [
+     32,
+     15,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー14NF",
+    "name_jp": "アウトドーン",
+    "data": [
+     32,
+     15,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 67,
+  "model_full": "KWG-1NF",
+  "name": "Luminous Stag",
+  "motif": "Stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 67,
+  "name_jp": "ドメスティック",
+  "parts": {
+   "head": {
+    "model": "GMFー01NF",
+    "name_jp": "アーミーチック",
+    "data": [
+     37,
+     21,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GMFー02NF",
+    "name_jp": "アーミーコック",
+    "data": [
+     34,
+     21,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GMFー03NF",
+    "name_jp": "アーミーヘン",
+    "data": [
+     34,
+     21,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GMFー04NF",
+    "name_jp": "クラックナッツ",
+    "data": [
+     37,
+     21,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "GMF",
+  "medapedia": 68,
+  "model_full": "GMF-0NF",
+  "name": "Domestic",
+  "motif": "Chicken",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 68,
+  "name_jp": "ゴルドラン",
+  "parts": {
+   "head": {
+    "model": "GWFー31NF",
+    "name_jp": "トライヘッド",
+    "data": [
+     32,
+     22,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GWFー32NF",
+    "name_jp": "ゴルドブレイカー",
+    "data": [
+     32,
+     22,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GWFー33NF",
+    "name_jp": "ゴルドバスター",
+    "data": [
+     32,
+     22,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GWFー34NF",
+    "name_jp": "ゴルドレッグ",
+    "data": [
+     32,
+     22,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "GWF",
+  "medapedia": 69,
+  "model_full": "GWF-3NF",
+  "name": "Goldoran",
+  "motif": "Gold wolf",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 69,
+  "name_jp": "カイゼルビートル",
+  "parts": {
+   "head": {
+    "model": "KBTー11NF",
+    "name_jp": "プロウセイル",
+    "data": [
+     32,
+     12,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー12NF",
+    "name_jp": "ロングガン",
+    "data": [
+     32,
+     12,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー13NF",
+    "name_jp": "ロングキャノン",
+    "data": [
+     32,
+     12,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー14NF",
+    "name_jp": "ドゥウォーク",
+    "data": [
+     32,
+     12,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 70,
+  "model_full": "KBT-1NF",
+  "name": "Kaiser Beetle",
+  "motif": "Rhino beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 70,
+  "name_jp": "ディティラノ",
+  "parts": {
+   "head": {
+    "model": "TLDー01NF",
+    "name_jp": "ボーンロック",
+    "data": [
+     38,
+     25,
+     27,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TLDー02NF",
+    "name_jp": "ビートロック",
+    "data": [
+     39,
+     25,
+     27,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TLDー03NF",
+    "name_jp": "ノックロック",
+    "data": [
+     39,
+     25,
+     27,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TLDー04NF",
+    "name_jp": "テイルロック",
+    "data": [
+     38,
+     25,
+     27,
+     0
+    ]
+   }
+  },
+  "model": "TLD",
+  "medapedia": 71,
+  "model_full": "TLD-0NF",
+  "name": "Di-Tyranno",
+  "motif": "Tyrannosaurus",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 71,
+  "name_jp": "サンニンジャ",
+  "parts": {
+   "head": {
+    "model": "NNGー31NF",
+    "name_jp": "ブラックフード",
+    "data": [
+     37,
+     10,
+     6,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "NNGー32NF",
+    "name_jp": "ライトレーン",
+    "data": [
+     34,
+     10,
+     6,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "NNGー33NF",
+    "name_jp": "レフトレーン",
+    "data": [
+     34,
+     10,
+     6,
+     0
+    ]
+   },
+   "legs": {
+    "model": "NNGー34NF",
+    "name_jp": "ストローサンダル",
+    "data": [
+     37,
+     10,
+     6,
+     0
+    ]
+   }
+  },
+  "model": "NNG",
+  "medapedia": 72,
+  "model_full": "NNG-3NF",
+  "name": "San-Ninja",
+  "motif": "Ninja",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 72,
+  "name_jp": "ブラックレスター",
+  "parts": {
+   "head": {
+    "model": "CCRー01NF",
+    "name_jp": "ブラインドアイ",
+    "data": [
+     22,
+     0,
+     19,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CCRー02NF",
+    "name_jp": "ナイトビジョン",
+    "data": [
+     17,
+     0,
+     19,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CCRー03NF",
+    "name_jp": "ノクトビジョン",
+    "data": [
+     17,
+     0,
+     19,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CCRー04NF",
+    "name_jp": "アステュート",
+    "data": [
+     22,
+     0,
+     19,
+     0
+    ]
+   }
+  },
+  "model": "CCR",
+  "medapedia": 73,
+  "model_full": "CCR-0NF",
+  "name": "Blacklester",
+  "motif": "Cockroach",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 73,
+  "name_jp": "ラ・ア・ブラーゲ",
+  "parts": {
+   "head": {
+    "model": "FOXー31NF",
+    "name_jp": "ホワイトマウス",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FOXー32NF",
+    "name_jp": "マフラーエッジ",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FOXー33NF",
+    "name_jp": "サイレンスエッジ",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FOXー34NF",
+    "name_jp": "ウァームウェア",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   }
+  },
+  "model": "FOX",
+  "medapedia": 74,
+  "model_full": "FOX-3NF",
+  "name": "La A-Burage",
+  "motif": "Fox",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 74,
+  "name_jp": "レディアウター",
+  "parts": {
+   "head": {
+    "model": "OSDー11NF",
+    "name_jp": "トゥースピック",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "OSDー12NF",
+    "name_jp": "サイダー",
+    "data": [
+     19,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "OSDー13NF",
+    "name_jp": "ソーダー",
+    "data": [
+     19,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "OSDー14NF",
+    "name_jp": "ジャーニー",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "OSD",
+  "medapedia": 75,
+  "model_full": "OSD-1NF",
+  "name": "Lady Outer",
+  "motif": "Female guard",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 75,
+  "name_jp": "トレミー",
+  "parts": {
+   "head": {
+    "model": "LDBー36NF",
+    "name_jp": "ライトアランプ",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LDBー37NF",
+    "name_jp": "グラインド",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LDBー38NF",
+    "name_jp": "スウォット",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LDBー39NF",
+    "name_jp": "ターンオーパー",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "LDB",
+  "medapedia": 76,
+  "model_full": "LDB-3NF",
+  "name": "Ptolemy",
+  "motif": "Ladybug",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 76,
+  "name_jp": "ブレザーメイツ",
+  "parts": {
+   "head": {
+    "model": "BLZー01NF",
+    "name_jp": "ベスト",
+    "data": [
+     19,
+     0,
+     5,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BLZー02NF",
+    "name_jp": "アシスタント",
+    "data": [
+     21,
+     0,
+     5,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BLZー03NF",
+    "name_jp": "スペアパーツ",
+    "data": [
+     21,
+     0,
+     5,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BLZー04NF",
+    "name_jp": "フレアスカート",
+    "data": [
+     19,
+     0,
+     5,
+     0
+    ]
+   }
+  },
+  "model": "BLZ",
+  "medapedia": 77,
+  "model_full": "BLZ-0NF",
+  "name": "Blazermate",
+  "motif": "Blazer",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 77,
+  "name_jp": "メダメイド",
+  "parts": {
+   "head": {
+    "model": "MIDー01NF",
+    "name_jp": "ダイレクター",
+    "data": [
+     22,
+     0,
+     6,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MIDー02NF",
+    "name_jp": "ダイスキン",
+    "data": [
+     24,
+     0,
+     6,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MIDー03NF",
+    "name_jp": "ティートレイ",
+    "data": [
+     24,
+     0,
+     6,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MIDー04NF",
+    "name_jp": "ゴーイング",
+    "data": [
+     22,
+     0,
+     6,
+     0
+    ]
+   }
+  },
+  "model": "MID",
+  "medapedia": 78,
+  "model_full": "MID-0NF",
+  "name": "Medamaid",
+  "motif": "Maid",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 78,
+  "name_jp": "サークレッド",
+  "parts": {
+   "head": {
+    "model": "SRNー01NF",
+    "name_jp": "エッセンス",
+    "data": [
+     23,
+     28,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SRNー02NF",
+    "name_jp": "ファシスネイト",
+    "data": [
+     23,
+     28,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SRNー03NF",
+    "name_jp": "アピィリング",
+    "data": [
+     23,
+     28,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SRNー04NF",
+    "name_jp": "コールミー",
+    "data": [
+     23,
+     28,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "SRN",
+  "medapedia": 79,
+  "model_full": "SRN-0NF",
+  "name": "Circred",
+  "motif": "Angel",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 79,
+  "name_jp": "パッショネイト",
+  "parts": {
+   "head": {
+    "model": "FLMー21NF",
+    "name_jp": "エンジュジウム",
+    "data": [
+     23,
+     29,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FLMー22NF",
+    "name_jp": "カスタネット",
+    "data": [
+     20,
+     29,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FLMー23NF",
+    "name_jp": "リズミカル",
+    "data": [
+     20,
+     29,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FLMー24NF",
+    "name_jp": "スレンダー",
+    "data": [
+     23,
+     29,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "FLM",
+  "medapedia": 80,
+  "model_full": "FLM-2NF",
+  "name": "Passionate",
+  "motif": "Flamingo",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 80,
+  "name_jp": "トレミック",
+  "parts": {
+   "head": {
+    "model": "LDBー01NF",
+    "name_jp": "フラッシュライト",
+    "data": [
+     16,
+     27,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LDBー02NF",
+    "name_jp": "シュートアロー",
+    "data": [
+     16,
+     27,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LDBー03NF",
+    "name_jp": "ファイアキャノン",
+    "data": [
+     16,
+     27,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LDBー04NF",
+    "name_jp": "スウェイ",
+    "data": [
+     16,
+     27,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "LDB",
+  "medapedia": 81,
+  "model_full": "LDB-0NF",
+  "name": "Ptolemic",
+  "motif": "Ladybug",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 81,
+  "name_jp": "ノエル",
+  "parts": {
+   "head": {
+    "model": "VALー01NF",
+    "name_jp": "セカンドサイト",
+    "data": [
+     51,
+     49,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "VALー02NF",
+    "name_jp": "ライジングソード",
+    "data": [
+     50,
+     49,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "VALー03NF",
+    "name_jp": "スケープシールド",
+    "data": [
+     51,
+     49,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "VALー04NF",
+    "name_jp": "ティップトゥ",
+    "data": [
+     51,
+     49,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "VAL",
+  "medapedia": 82,
+  "model_full": "VAL-0NF",
+  "name": "Noel",
+  "motif": "Valkyrie",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 82,
+  "name_jp": "ナビ・コミュン",
+  "parts": {
+   "head": {
+    "model": "NAVー01NF",
+    "name_jp": "リコレクト",
+    "data": [
+     53,
+     26,
+     171,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "NAVー02NF",
+    "name_jp": "メモライズ",
+    "data": [
+     55,
+     26,
+     171,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "NAVー03NF",
+    "name_jp": "リメンバー",
+    "data": [
+     55,
+     26,
+     171,
+     0
+    ]
+   },
+   "legs": {
+    "model": "NAVー04NF",
+    "name_jp": "フリーダム",
+    "data": [
+     53,
+     26,
+     171,
+     0
+    ]
+   }
+  },
+  "model": "NAV",
+  "medapedia": 83,
+  "model_full": "NAV-0NF",
+  "name": "Navi Commu",
+  "motif": "Navigator",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 83,
+  "name_jp": "オフィニクス",
+  "parts": {
+   "head": {
+    "model": "OPSー01NF",
+    "name_jp": "ファーデベロップ",
+    "data": [
+     54,
+     20,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "OPSー02NF",
+    "name_jp": "エンジン",
+    "data": [
+     50,
+     20,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "OPSー03NF",
+    "name_jp": "テクニック",
+    "data": [
+     48,
+     20,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "OPSー04NF",
+    "name_jp": "リリーフ",
+    "data": [
+     54,
+     20,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "OPS",
+  "medapedia": 84,
+  "model_full": "OPS-0NF",
+  "name": "Ophinichus",
+  "motif": "Ophiuchus",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 84,
+  "name_jp": "フラックライン",
+  "parts": {
+   "head": {
+    "model": "ANTー11NF",
+    "name_jp": "シュガーキューブ",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ANTー12NF",
+    "name_jp": "ヴァリアス",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ANTー13NF",
+    "name_jp": "デヴィアス",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ANTー14NF",
+    "name_jp": "ワークワーカー",
+    "data": [
+     7,
+     0,
+     15,
+     0
+    ]
+   }
+  },
+  "model": "ANT",
+  "medapedia": 85,
+  "model_full": "ANT-1NF",
+  "name": "Flackline",
+  "motif": "Ant",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 85,
+  "name_jp": "ブラックテイパー",
+  "parts": {
+   "head": {
+    "model": "TPRー01NF",
+    "name_jp": "フィードバック",
+    "data": [
+     5,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TPRー02NF",
+    "name_jp": "ドリームグリード",
+    "data": [
+     0,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TPRー03NF",
+    "name_jp": "ドリームクレイヴ",
+    "data": [
+     0,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TPRー04NF",
+    "name_jp": "トライポッド",
+    "data": [
+     5,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "TPR",
+  "medapedia": 86,
+  "model_full": "TPR-0NF",
+  "name": "Black Tapir",
+  "motif": "Tapir",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 86,
+  "name_jp": "テツワンパンダム",
+  "parts": {
+   "head": {
+    "model": "PNDー11NF",
+    "name_jp": "マンタイル",
+    "data": [
+     7,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "PNDー12NF",
+    "name_jp": "ピンタイル",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "PNDー13NF",
+    "name_jp": "ソータイル",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "PNDー14NF",
+    "name_jp": "ジャンパーラー",
+    "data": [
+     7,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "PND",
+  "medapedia": 87,
+  "model_full": "PND-1NF",
+  "name": "Tetsuwan Pandam",
+  "motif": "Panda",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 87,
+  "name_jp": "ファッティピッグ",
+  "parts": {
+   "head": {
+    "model": "PIGー01NF",
+    "name_jp": "タップンプットン",
+    "data": [
+     6,
+     0,
+     30,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "PIGー02NF",
+    "name_jp": "ホードップ",
+    "data": [
+     7,
+     0,
+     30,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "PIGー03NF",
+    "name_jp": "ストアップ",
+    "data": [
+     7,
+     0,
+     30,
+     0
+    ]
+   },
+   "legs": {
+    "model": "PIGー04NF",
+    "name_jp": "ロータリーチェア",
+    "data": [
+     6,
+     0,
+     30,
+     0
+    ]
+   }
+  },
+  "model": "PIG",
+  "medapedia": 88,
+  "model_full": "PIG-0NF",
+  "name": "Fatty Pig",
+  "motif": "Pig",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 88,
+  "name_jp": "ジェミニ",
+  "parts": {
+   "head": {
+    "model": "GMNー01NH",
+    "name_jp": "カプリシオス",
+    "data": [
+     6,
+     0,
+     10,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "GMNー02NH",
+    "name_jp": "チャンピオン",
+    "data": [
+     7,
+     0,
+     10,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "GMNー03NH",
+    "name_jp": "ミリタント",
+    "data": [
+     7,
+     0,
+     10,
+     0
+    ]
+   },
+   "legs": {
+    "model": "GMNー04NH",
+    "name_jp": "インテレクト",
+    "data": [
+     6,
+     0,
+     10,
+     0
+    ]
+   }
+  },
+  "model": "GMN",
+  "medapedia": 89,
+  "model_full": "GMN-0NH",
+  "name": "Gemini",
+  "motif": "Gemini",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 89,
+  "name_jp": "ランドレーサー",
+  "parts": {
+   "head": {
+    "model": "FM1ー01NF",
+    "name_jp": "ウィンドシールド",
+    "data": [
+     0,
+     32,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FM1ー02NF",
+    "name_jp": "エグザストファン",
+    "data": [
+     0,
+     32,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FM1ー03NF",
+    "name_jp": "エグザストバルブ",
+    "data": [
+     0,
+     32,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FM1ー04NF",
+    "name_jp": "カットアウト",
+    "data": [
+     0,
+     32,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "FM1",
+  "medapedia": 90,
+  "model_full": "FM1-0NF",
+  "name": "Landracer",
+  "motif": "F1 racer",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 90,
+  "name_jp": "ホームキャリー",
+  "parts": {
+   "head": {
+    "model": "HCBー01NF",
+    "name_jp": "リップルサウンド",
+    "data": [
+     8,
+     33,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "HCBー02NF",
+    "name_jp": "ランドロード",
+    "data": [
+     3,
+     33,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "HCBー03NF",
+    "name_jp": "ランドレディ",
+    "data": [
+     3,
+     33,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "HCBー04NF",
+    "name_jp": "インキーパー",
+    "data": [
+     8,
+     33,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "HCB",
+  "medapedia": 91,
+  "model_full": "HCB-0NF",
+  "name": "Home Carry",
+  "motif": "Hermit crab",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 91,
+  "name_jp": "ナッツクラッカー",
+  "parts": {
+   "head": {
+    "model": "CPMー01NF",
+    "name_jp": "ワルナッツ",
+    "data": [
+     18,
+     0,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CPMー02NF",
+    "name_jp": "ナッツメンド",
+    "data": [
+     21,
+     0,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CPMー03NF",
+    "name_jp": "ナッツドーン",
+    "data": [
+     21,
+     0,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CPMー04NF",
+    "name_jp": "フロントホールド",
+    "data": [
+     18,
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "CPM",
+  "medapedia": 92,
+  "model_full": "CPM-0NF",
+  "name": "Nuts Cracker",
+  "motif": "Chipmunk",
+  "leg_type": "Wheeled",
+  "gender": "F"
+ },
+ {
+  "navi_id": 92,
+  "name_jp": "ディップ",
+  "parts": {
+   "head": {
+    "model": "ICEー01NF",
+    "name_jp": "レイシュア",
+    "data": [
+     21,
+     42,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ICEー02NF",
+    "name_jp": "モアスローリー",
+    "data": [
+     18,
+     42,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ICEー03NF",
+    "name_jp": "ドンファスト",
+    "data": [
+     18,
+     42,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ICEー04NF",
+    "name_jp": "ウェイト",
+    "data": [
+     21,
+     42,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "ICE",
+  "medapedia": 93,
+  "model_full": "ICE-0NF",
+  "name": "Dip",
+  "motif": "Ice cream",
+  "leg_type": "Wheeled",
+  "gender": "F"
+ },
+ {
+  "navi_id": 93,
+  "name_jp": "ヴァルゴ",
+  "parts": {
+   "head": {
+    "model": "VRGー01NF",
+    "name_jp": "アフェクション",
+    "data": [
+     54,
+     34,
+     4,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "VRGー02NF",
+    "name_jp": "フルーツ",
+    "data": [
+     52,
+     34,
+     4,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "VRGー03NF",
+    "name_jp": "リザルト",
+    "data": [
+     52,
+     34,
+     4,
+     0
+    ]
+   },
+   "legs": {
+    "model": "VRGー04NF",
+    "name_jp": "アンガー",
+    "data": [
+     54,
+     34,
+     4,
+     0
+    ]
+   }
+  },
+  "model": "VRG",
+  "medapedia": 94,
+  "model_full": "VRG-0NF",
+  "name": "Virgo",
+  "motif": "Virgo",
+  "leg_type": "Wheeled",
+  "gender": "F"
+ },
+ {
+  "navi_id": 94,
+  "name_jp": "コニカル",
+  "parts": {
+   "head": {
+    "model": "DDBー01NF",
+    "name_jp": "カーヴ",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DDBー02NF",
+    "name_jp": "ディギング",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DDBー03NF",
+    "name_jp": "ボーリング",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DDBー04NF",
+    "name_jp": "インスクラブ",
+    "data": [
+     3,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "DDB",
+  "medapedia": 95,
+  "model_full": "DDB-0NF",
+  "name": "Conical",
+  "motif": "Antlion",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 95,
+  "name_jp": "ディスクラッチ",
+  "parts": {
+   "head": {
+    "model": "MCIー01NF",
+    "name_jp": "インストルメント",
+    "data": [
+     0,
+     0,
+     4,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MCIー02NF",
+    "name_jp": "ディスクチェンジ",
+    "data": [
+     7,
+     0,
+     4,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MCIー03NF",
+    "name_jp": "マイクロフォン",
+    "data": [
+     7,
+     0,
+     4,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MCIー04NF",
+    "name_jp": "ターンテーブル",
+    "data": [
+     0,
+     0,
+     4,
+     0
+    ]
+   }
+  },
+  "model": "MCI",
+  "medapedia": 96,
+  "model_full": "MCI-0NF",
+  "name": "Discratch",
+  "motif": "DJ",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 96,
+  "name_jp": "バグスティンク",
+  "parts": {
+   "head": {
+    "model": "STNー01NF",
+    "name_jp": "ハードヘッド",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "STNー02NF",
+    "name_jp": "スメルビーム",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "STNー03NF",
+    "name_jp": "リークビーム",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "STNー04NF",
+    "name_jp": "リグリィ",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "STN",
+  "medapedia": 97,
+  "model_full": "STN-0NF",
+  "name": "Bug Stink",
+  "motif": "Stink bug",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 97,
+  "name_jp": "スキンリーク",
+  "parts": {
+   "head": {
+    "model": "TICー01NF",
+    "name_jp": "プアー",
+    "data": [
+     4,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TICー02NF",
+    "name_jp": "オイルカップ",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TICー03NF",
+    "name_jp": "オイルクロース",
+    "data": [
+     2,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TICー04NF",
+    "name_jp": "ジェネラルチック",
+    "data": [
+     4,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "TIC",
+  "medapedia": 98,
+  "model_full": "TIC-0NF",
+  "name": "Skin Leak",
+  "motif": "Tick",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 98,
+  "name_jp": "ウォーヘッドリィ",
+  "parts": {
+   "head": {
+    "model": "PCPー01NF",
+    "name_jp": "ニードルジレンマ",
+    "data": [
+     6,
+     0,
+     4,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "PCPー02NF",
+    "name_jp": "ナパームレイン",
+    "data": [
+     1,
+     0,
+     4,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "PCPー03NF",
+    "name_jp": "ナパームシャワー",
+    "data": [
+     1,
+     0,
+     4,
+     0
+    ]
+   },
+   "legs": {
+    "model": "PCPー04NF",
+    "name_jp": "ドローアップ",
+    "data": [
+     6,
+     0,
+     4,
+     0
+    ]
+   }
+  },
+  "model": "PCP",
+  "medapedia": 99,
+  "model_full": "PCP-0NF",
+  "name": "Warheadly",
+  "motif": "Porcupine",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 99,
+  "name_jp": "ドリモゲラ",
+  "parts": {
+   "head": {
+    "model": "MOLー01NF",
+    "name_jp": "エルボープッシュ",
+    "data": [
+     3,
+     37,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MOLー02NF",
+    "name_jp": "ストンクラッシュ",
+    "data": [
+     5,
+     37,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MOLー03NF",
+    "name_jp": "ロックブレイク",
+    "data": [
+     5,
+     37,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MOLー04NF",
+    "name_jp": "スタンドタンク",
+    "data": [
+     3,
+     37,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "MOL",
+  "medapedia": 100,
+  "model_full": "MOL-0NF",
+  "name": "Drimogera",
+  "motif": "Mole",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 100,
+  "name_jp": "バグシールド",
+  "parts": {
+   "head": {
+    "model": "STNー01NF",
+    "name_jp": "ソリッドヘッド",
+    "data": [
+     3,
+     36,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "STNー02NF",
+    "name_jp": "スウェットビーム",
+    "data": [
+     3,
+     36,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "STNー03NF",
+    "name_jp": "パースピアビーム",
+    "data": [
+     3,
+     36,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "STNー04NF",
+    "name_jp": "エンバラス",
+    "data": [
+     3,
+     36,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "STN",
+  "medapedia": 101,
+  "model_full": "STN-0NF",
+  "name": "Bug Shield",
+  "motif": "Stink bug",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 101,
+  "name_jp": "ダンプスター",
+  "parts": {
+   "head": {
+    "model": "DNGー01NF",
+    "name_jp": "ダンプリィ",
+    "data": [
+     5,
+     35,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DNGー02NF",
+    "name_jp": "アームジョイント",
+    "data": [
+     3,
+     35,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DNGー03NF",
+    "name_jp": "アームスティック",
+    "data": [
+     3,
+     35,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DNGー04NF",
+    "name_jp": "アスリティス",
+    "data": [
+     5,
+     35,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "DNG",
+  "medapedia": 102,
+  "model_full": "DNG-0NF",
+  "name": "Dumpster",
+  "motif": "Dung beetle",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 102,
+  "name_jp": "ラクーン",
+  "parts": {
+   "head": {
+    "model": "RCNー01NH",
+    "name_jp": "プレーンウォータ",
+    "data": [
+     21,
+     38,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "RCNー02NH",
+    "name_jp": "アフターノーズ",
+    "data": [
+     20,
+     38,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "RCNー03NH",
+    "name_jp": "サクセッション",
+    "data": [
+     20,
+     38,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "RCNー04NH",
+    "name_jp": "ロールブラッシュ",
+    "data": [
+     21,
+     38,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "RCN",
+  "medapedia": 103,
+  "model_full": "RCN-0NH",
+  "name": "Raccoon",
+  "motif": "Raccoon",
+  "leg_type": "Tank",
+  "gender": "F"
+ },
+ {
+  "navi_id": 103,
+  "name_jp": "アイランドクロコ",
+  "parts": {
+   "head": {
+    "model": "SHKー01NH",
+    "name_jp": "スピードスキン",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SHKー02NH",
+    "name_jp": "ロウスキン",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SHKー03NH",
+    "name_jp": "コーズスキン",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SHKー04NH",
+    "name_jp": "ラクサリィ",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "SHK",
+  "medapedia": 104,
+  "model_full": "SHK-0NH",
+  "name": "Island Croco",
+  "motif": "Shark",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 104,
+  "name_jp": "キラーホエール",
+  "parts": {
+   "head": {
+    "model": "KLWー01NF",
+    "name_jp": "コーナープレス",
+    "data": [
+     5,
+     0,
+     10,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KLWー02NF",
+    "name_jp": "トライデント",
+    "data": [
+     2,
+     0,
+     10,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KLWー03NF",
+    "name_jp": "スリープロン",
+    "data": [
+     2,
+     0,
+     10,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KLWー04NF",
+    "name_jp": "ネプチューライド",
+    "data": [
+     5,
+     0,
+     10,
+     0
+    ]
+   }
+  },
+  "model": "KLW",
+  "medapedia": 105,
+  "model_full": "KLW-0NF",
+  "name": "Killerwhale",
+  "motif": "Orca",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 105,
+  "name_jp": "ミラースティック",
+  "parts": {
+   "head": {
+    "model": "PSKー01NF",
+    "name_jp": "サッカーベイト",
+    "data": [
+     6,
+     0,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "PSKー02NF",
+    "name_jp": "スティックト",
+    "data": [
+     2,
+     0,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "PSKー03NF",
+    "name_jp": "クリングト",
+    "data": [
+     2,
+     0,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "PSKー04NF",
+    "name_jp": "オニキス",
+    "data": [
+     6,
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "PSK",
+  "medapedia": 106,
+  "model_full": "PSK-0NF",
+  "name": "Mirror Stick",
+  "motif": "Pond skater",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 106,
+  "name_jp": "イカテン",
+  "parts": {
+   "head": {
+    "model": "SQDー01NF",
+    "name_jp": "インディアインク",
+    "data": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SQDー02NF",
+    "name_jp": "スクエアアーム",
+    "data": [
+     8,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SQDー03NF",
+    "name_jp": "フラットアーム",
+    "data": [
+     8,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SQDー04NF",
+    "name_jp": "シャープスノート",
+    "data": [
+     1,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "SQD",
+  "medapedia": 107,
+  "model_full": "SQD-0NF",
+  "name": "Ikaten",
+  "motif": "Squid",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 107,
+  "name_jp": "カネハチまーく3",
+  "parts": {
+   "head": {
+    "model": "OCTー01NF",
+    "name_jp": "チャイニィインク",
+    "data": [
+     1,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "OCTー02NF",
+    "name_jp": "ボールアーム",
+    "data": [
+     8,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "OCTー03NF",
+    "name_jp": "ラウンドアーム",
+    "data": [
+     8,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "OCTー04NF",
+    "name_jp": "シャープマズル",
+    "data": [
+     1,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "OCT",
+  "medapedia": 108,
+  "model_full": "OCT-0NF",
+  "name": "Kanehachi Mk3",
+  "motif": "Octopus",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 108,
+  "name_jp": "オールヘッド",
+  "parts": {
+   "head": {
+    "model": "HDFー01NF",
+    "name_jp": "カーミー",
+    "data": [
+     6,
+     40,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "HDFー02NF",
+    "name_jp": "ステイドン",
+    "data": [
+     0,
+     40,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "HDFー03NF",
+    "name_jp": "キープドン",
+    "data": [
+     0,
+     40,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "HDFー04NF",
+    "name_jp": "ルーズ",
+    "data": [
+     6,
+     40,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "HDF",
+  "medapedia": 109,
+  "model_full": "HDF-0NF",
+  "name": "All-Head",
+  "motif": "Ocean sunfish",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 109,
+  "name_jp": "カルブラキオ",
+  "parts": {
+   "head": {
+    "model": "LNDー01NF",
+    "name_jp": "ロングフロー",
+    "data": [
+     40,
+     31,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "LNDー02NF",
+    "name_jp": "ストリームフロー",
+    "data": [
+     39,
+     31,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "LNDー03NF",
+    "name_jp": "カレントフロー",
+    "data": [
+     39,
+     31,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "LNDー04NF",
+    "name_jp": "ダークフロー",
+    "data": [
+     40,
+     31,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "LND",
+  "medapedia": 110,
+  "model_full": "LND-0NF",
+  "name": "Quar-Brachio",
+  "motif": "Brachiosaurus",
+  "leg_type": "Aquatic",
+  "gender": "M"
+ },
+ {
+  "navi_id": 110,
+  "name_jp": "アクロシールズ",
+  "parts": {
+   "head": {
+    "model": "HRSー01NF",
+    "name_jp": "アクロバティック",
+    "data": [
+     22,
+     0,
+     44,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "HRSー02NF",
+    "name_jp": "アストニッシュ",
+    "data": [
+     17,
+     0,
+     44,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "HRSー03NF",
+    "name_jp": "パフォーマー",
+    "data": [
+     17,
+     0,
+     44,
+     0
+    ]
+   },
+   "legs": {
+    "model": "HRSー04NF",
+    "name_jp": "バランスボール",
+    "data": [
+     22,
+     0,
+     44,
+     0
+    ]
+   }
+  },
+  "model": "HRS",
+  "medapedia": 111,
+  "model_full": "HRS-0NF",
+  "name": "Acroseals",
+  "motif": "Sea lion",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 111,
+  "name_jp": "ラーヴァ",
+  "parts": {
+   "head": {
+    "model": "CLNー01NF",
+    "name_jp": "インデペンデント",
+    "data": [
+     21,
+     0,
+     5,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CLNー02NF",
+    "name_jp": "ディジェネイト",
+    "data": [
+     21,
+     0,
+     5,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CLNー03NF",
+    "name_jp": "レトログレース",
+    "data": [
+     21,
+     0,
+     5,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CLNー04NF",
+    "name_jp": "アトロフィ",
+    "data": [
+     21,
+     0,
+     5,
+     0
+    ]
+   }
+  },
+  "model": "CLN",
+  "medapedia": 112,
+  "model_full": "CLN-0NF",
+  "name": "Larva",
+  "motif": "Clione",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 112,
+  "name_jp": "フィッシュホーム",
+  "parts": {
+   "head": {
+    "model": "CRRー01NF",
+    "name_jp": "リビングルーム",
+    "data": [
+     19,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CRRー02NF",
+    "name_jp": "ドアーズアイ",
+    "data": [
+     19,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CRRー03NF",
+    "name_jp": "ウォールイヤー",
+    "data": [
+     19,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CRRー04NF",
+    "name_jp": "プラスター",
+    "data": [
+     19,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "CRR",
+  "medapedia": 113,
+  "model_full": "CRR-0NF",
+  "name": "Fish Home",
+  "motif": "Coral reef",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 113,
+  "name_jp": "マリンヒーラー",
+  "parts": {
+   "head": {
+    "model": "MIDー01NF",
+    "name_jp": "リフレッシュ",
+    "data": [
+     21,
+     0,
+     8,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "MIDー02NF",
+    "name_jp": "インフルエンス",
+    "data": [
+     21,
+     0,
+     8,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "MIDー03NF",
+    "name_jp": "ライブライン",
+    "data": [
+     21,
+     0,
+     8,
+     0
+    ]
+   },
+   "legs": {
+    "model": "MIDー04NF",
+    "name_jp": "ライブリー",
+    "data": [
+     21,
+     0,
+     8,
+     0
+    ]
+   }
+  },
+  "model": "MID",
+  "medapedia": 114,
+  "model_full": "MID-0NF",
+  "name": "Marine Healer",
+  "motif": "Mermaid",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 114,
+  "name_jp": "クレイドル",
+  "parts": {
+   "head": {
+    "model": "FDLー01NF",
+    "name_jp": "ジャクシー",
+    "data": [
+     24,
+     0,
+     10,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FDLー02NF",
+    "name_jp": "シークエイク",
+    "data": [
+     24,
+     0,
+     10,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FDLー03NF",
+    "name_jp": "シーダンス",
+    "data": [
+     24,
+     0,
+     10,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FDLー04NF",
+    "name_jp": "コープス",
+    "data": [
+     24,
+     0,
+     10,
+     0
+    ]
+   }
+  },
+  "model": "FDL",
+  "medapedia": 115,
+  "model_full": "FDL-0NF",
+  "name": "Cradle",
+  "motif": "French doll",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 115,
+  "name_jp": "ボトムグリストン",
+  "parts": {
+   "head": {
+    "model": "FLSー21NH",
+    "name_jp": "クーキデッポー",
+    "data": [
+     17,
+     0,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "FLSー22NH",
+    "name_jp": "トランサイエンス",
+    "data": [
+     19,
+     0,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "FLSー23NH",
+    "name_jp": "エヴァンシーン",
+    "data": [
+     19,
+     0,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "FLSー24NH",
+    "name_jp": "フワリン",
+    "data": [
+     17,
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "FLS",
+  "medapedia": 116,
+  "model_full": "FLS-2NH",
+  "name": "Bottom Glisten",
+  "motif": "Firefly",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 116,
+  "name_jp": "ピスケス",
+  "parts": {
+   "head": {
+    "model": "PSCー01NF",
+    "name_jp": "ファスン",
+    "data": [
+     20,
+     41,
+     19,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "PSCー02NF",
+    "name_jp": "ラブ",
+    "data": [
+     21,
+     41,
+     19,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "PSCー03NF",
+    "name_jp": "ラブリィ",
+    "data": [
+     21,
+     41,
+     19,
+     0
+    ]
+   },
+   "legs": {
+    "model": "PSCー04NF",
+    "name_jp": "ラスト",
+    "data": [
+     20,
+     41,
+     19,
+     0
+    ]
+   }
+  },
+  "model": "PSC",
+  "medapedia": 117,
+  "model_full": "PSC-0NF",
+  "name": "Pisces",
+  "motif": "Pisces",
+  "leg_type": "Aquatic",
+  "gender": "F"
+ },
+ {
+  "navi_id": 117,
+  "name_jp": "ドンドグー",
+  "parts": {
+   "head": {
+    "model": "DGUー01BH",
+    "name_jp": "ドグー",
+    "data": [
+     6,
+     0,
+     7,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DGUー02BH",
+    "name_jp": "ドウタクー",
+    "data": [
+     6,
+     0,
+     7,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DGUー03BH",
+    "name_jp": "ドウタタクー",
+    "data": [
+     6,
+     0,
+     7,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DGUー04BH",
+    "name_jp": "ドカーン",
+    "data": [
+     6,
+     0,
+     7,
+     0
+    ]
+   }
+  },
+  "model": "DGU",
+  "medapedia": 118,
+  "model_full": "DGU-0BH",
+  "name": "DonDoguu",
+  "motif": "Doguu",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 118,
+  "name_jp": "ベティベア",
+  "parts": {
+   "head": {
+    "model": "BERー01BH",
+    "name_jp": "メテオストライク",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BERー02BH",
+    "name_jp": "プレッシャー",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BERー03BH",
+    "name_jp": "マッシャー",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BERー04BH",
+    "name_jp": "フーユ",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   }
+  },
+  "model": "BER",
+  "medapedia": 119,
+  "model_full": "BER-0BH",
+  "name": "Betty Bear",
+  "motif": "Bear",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 119,
+  "name_jp": "サーチラット",
+  "parts": {
+   "head": {
+    "model": "RATー01BH",
+    "name_jp": "フルオティティス",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "RATー02BH",
+    "name_jp": "スカウト",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "RATー03BH",
+    "name_jp": "スポッター",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "RATー04BH",
+    "name_jp": "ムーバー",
+    "data": [
+     3,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "RAT",
+  "medapedia": 120,
+  "model_full": "RAT-0BH",
+  "name": "Searchrat",
+  "motif": "Rat",
+  "leg_type": "Hover",
+  "gender": "M"
+ },
+ {
+  "navi_id": 120,
+  "name_jp": "トラップスパイダ",
+  "parts": {
+   "head": {
+    "model": "SPDー01BH",
+    "name_jp": "ブービートラップ",
+    "data": [
+     4,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SPDー02BH",
+    "name_jp": "ホイホイトラップ",
+    "data": [
+     4,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SPDー03BH",
+    "name_jp": "ネバネバトラップ",
+    "data": [
+     4,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SPDー04BH",
+    "name_jp": "スパイダーネット",
+    "data": [
+     4,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "SPD",
+  "medapedia": 121,
+  "model_full": "SPD-0BH",
+  "name": "Trap Spider",
+  "motif": "Spider",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 121,
+  "name_jp": "ゴッドエンペラー",
+  "parts": {
+   "head": {
+    "model": "WEAー11BH",
+    "name_jp": "デスブレイク",
+    "data": [
+     1,
+     0,
+     10,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "WEAー12BH",
+    "name_jp": "デスミサイル",
+    "data": [
+     1,
+     0,
+     10,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "WEAー13BH",
+    "name_jp": "デスレーザー",
+    "data": [
+     1,
+     0,
+     10,
+     0
+    ]
+   },
+   "legs": {
+    "model": "WEAー14BH",
+    "name_jp": "デスクローラー",
+    "data": [
+     1,
+     0,
+     10,
+     0
+    ]
+   }
+  },
+  "model": "WEA",
+  "medapedia": 122,
+  "model_full": "WEA-1BH",
+  "name": "God Emperor",
+  "motif": "Weapon",
+  "leg_type": "Multi-leg",
+  "gender": "M"
+ },
+ {
+  "navi_id": 122,
+  "name_jp": "シアンドッグ",
+  "parts": {
+   "head": {
+    "model": "DOGー01BH",
+    "name_jp": "リニアカノン",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DOGー02BH",
+    "name_jp": "スナイプライフル",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DOGー03BH",
+    "name_jp": "アサルトライフル",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DOGー04BH",
+    "name_jp": "ジュウザー",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "DOG",
+  "medapedia": 123,
+  "model_full": "DOG-0BH",
+  "name": "Cyandog",
+  "motif": "Dog",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 123,
+  "name_jp": "コスモエイリアン",
+  "parts": {
+   "head": {
+    "model": "ALNー01BH",
+    "name_jp": "ミュートボディ",
+    "data": [
+     7,
+     0,
+     6,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ALNー02BH",
+    "name_jp": "ミュートハンド",
+    "data": [
+     7,
+     0,
+     6,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ALNー03BH",
+    "name_jp": "ミュートアーム",
+    "data": [
+     7,
+     0,
+     6,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ALNー04BH",
+    "name_jp": "ミュートレッグ",
+    "data": [
+     7,
+     0,
+     6,
+     0
+    ]
+   }
+  },
+  "model": "ALN",
+  "medapedia": 124,
+  "model_full": "ALN-0BH",
+  "name": "Cosmo-Alien",
+  "motif": "Alien",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 124,
+  "name_jp": "めたびー",
+  "parts": {
+   "head": {
+    "model": "KBTー01BH",
+    "name_jp": "みさいる",
+    "data": [
+     0,
+     0,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー02BH",
+    "name_jp": "リぼるばー",
+    "data": [
+     0,
+     0,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー03BH",
+    "name_jp": "さぶましんがん",
+    "data": [
+     0,
+     0,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー04BH",
+    "name_jp": "おちつかー",
+    "data": [
+     0,
+     0,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 125,
+  "model_full": "KBT-0BH",
+  "name": "Metabee",
+  "motif": "Rhino beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 125,
+  "name_jp": "ろくしょう",
+  "parts": {
+   "head": {
+    "model": "KWGー01BH",
+    "name_jp": "あんてな",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー02BH",
+    "name_jp": "ちゃんばらそーど",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー03BH",
+    "name_jp": "ぴこペこはんまー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー04BH",
+    "name_jp": "たたっかー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 126,
+  "model_full": "KWG-0BH",
+  "name": "Rokusho",
+  "motif": "Stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 126,
+  "name_jp": "カンタロス",
+  "parts": {
+   "head": {
+    "model": "KBTー31BF",
+    "name_jp": "ミサイルかい",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー32BF",
+    "name_jp": "リボルバーかい",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー33BF",
+    "name_jp": "マシンガンかい",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー34BF",
+    "name_jp": "オチツカーかい",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 127,
+  "model_full": "KBT-3BF",
+  "name": "Kantaros",
+  "motif": "Rhino beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 127,
+  "name_jp": "マッハマッシブ",
+  "parts": {
+   "head": {
+    "model": "KWGー31BF",
+    "name_jp": "マッハアンテナ",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー32BF",
+    "name_jp": "マッハソード",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー33BF",
+    "name_jp": "マッハハンマー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー34BF",
+    "name_jp": "マッハタタッカー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 128,
+  "model_full": "KWG-3BF",
+  "name": "Mach Massive",
+  "motif": "Stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 128,
+  "name_jp": "アークビートル",
+  "parts": {
+   "head": {
+    "model": "KBTー41BF",
+    "name_jp": "プロミネンス",
+    "data": [
+     0,
+     0,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー42BF",
+    "name_jp": "イグニッション",
+    "data": [
+     0,
+     0,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー43BF",
+    "name_jp": "エクスプロード",
+    "data": [
+     0,
+     0,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー44BF",
+    "name_jp": "ファイヤワーク",
+    "data": [
+     0,
+     0,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 129,
+  "model_full": "KBT-4BF",
+  "name": "Arcbeetle",
+  "motif": "Hercules beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 129,
+  "name_jp": "マスクドクワガタ",
+  "parts": {
+   "head": {
+    "model": "KWGー61BX",
+    "name_jp": "カンテナ",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー62BX",
+    "name_jp": "タンタンソード",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー63BX",
+    "name_jp": "タイタイソード",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー64BX",
+    "name_jp": "コトントン",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 130,
+  "model_full": "KWG-6BX",
+  "name": "Masked Kuwagata",
+  "motif": "Young swordsman",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 130,
+  "name_jp": "マスクドカブト",
+  "parts": {
+   "head": {
+    "model": "KBTー61BX",
+    "name_jp": "ユサイル",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー62BX",
+    "name_jp": "モデルガン",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー63BX",
+    "name_jp": "パリパリガン",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー64BX",
+    "name_jp": "ユカツキー",
+    "data": [
+     0,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 131,
+  "model_full": "KBT-6BX",
+  "name": "Masked Kabuto",
+  "motif": "Young gunslinger",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 131,
+  "name_jp": "ドークス",
+  "parts": {
+   "head": {
+    "model": "KWGー51BH",
+    "name_jp": "ツインインコム",
+    "data": [
+     0,
+     43,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー52BH",
+    "name_jp": "フォーバイス",
+    "data": [
+     0,
+     43,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー53BH",
+    "name_jp": "インテンスビート",
+    "data": [
+     0,
+     43,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー54BH",
+    "name_jp": "ウィンドフラック",
+    "data": [
+     0,
+     43,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 132,
+  "model_full": "KWG-5BH",
+  "name": "Dorcus",
+  "motif": "Stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 132,
+  "name_jp": "エクサイズ",
+  "parts": {
+   "head": {
+    "model": "STGー11BH",
+    "name_jp": "インサルト",
+    "data": [
+     4,
+     44,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "STGー12BH",
+    "name_jp": "シンソード",
+    "data": [
+     0,
+     44,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "STGー13BH",
+    "name_jp": "ソリッドハンマー",
+    "data": [
+     0,
+     44,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "STGー14BH",
+    "name_jp": "キーンエッジ",
+    "data": [
+     4,
+     44,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "STG",
+  "medapedia": 133,
+  "model_full": "STG-1BH",
+  "name": "Excise",
+  "motif": "Sabertooth tiger",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 133,
+  "name_jp": "ストレイウォルフ",
+  "parts": {
+   "head": {
+    "model": "WLFー01BH",
+    "name_jp": "シタデール",
+    "data": [
+     0,
+     45,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "WLFー02BH",
+    "name_jp": "サプリケット",
+    "data": [
+     0,
+     45,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "WLFー03BH",
+    "name_jp": "オーキシリィ",
+    "data": [
+     0,
+     45,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "WLFー04BH",
+    "name_jp": "ストームウォーク",
+    "data": [
+     0,
+     45,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "WLF",
+  "medapedia": 134,
+  "model_full": "WLF-0BH",
+  "name": "Straywolf",
+  "motif": "Wolf",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 134,
+  "name_jp": "サイカチス",
+  "parts": {
+   "head": {
+    "model": "KBTー51BH",
+    "name_jp": "バリスター",
+    "data": [
+     0,
+     46,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー52BH",
+    "name_jp": "ヒューザー",
+    "data": [
+     0,
+     46,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー53BH",
+    "name_jp": "ブラスター",
+    "data": [
+     0,
+     46,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー54BH",
+    "name_jp": "エンプレイス",
+    "data": [
+     0,
+     46,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 135,
+  "model_full": "KBT-5BH",
+  "name": "Saikachis",
+  "motif": "Rhino beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 135,
+  "name_jp": "ユニトリス",
+  "parts": {
+   "head": {
+    "model": "KLNー11BH",
+    "name_jp": "レインフォース",
+    "data": [
+     7,
+     47,
+     2,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KLNー12BH",
+    "name_jp": "シュートスフィア",
+    "data": [
+     0,
+     47,
+     2,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KLNー13BH",
+    "name_jp": "ダクトシューター",
+    "data": [
+     0,
+     47,
+     2,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KLNー14BH",
+    "name_jp": "ミグレイター",
+    "data": [
+     7,
+     47,
+     2,
+     0
+    ]
+   }
+  },
+  "model": "KLN",
+  "medapedia": 136,
+  "model_full": "KLN-1BH",
+  "name": "Unitris",
+  "motif": "Lion",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 136,
+  "name_jp": "ブラウンバイソン",
+  "parts": {
+   "head": {
+    "model": "BFLー01BH",
+    "name_jp": "アングラー",
+    "data": [
+     1,
+     48,
+     9,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BFLー02BH",
+    "name_jp": "フーフ",
+    "data": [
+     1,
+     48,
+     9,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BFLー03BH",
+    "name_jp": "アンガス",
+    "data": [
+     1,
+     48,
+     9,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BFLー04BH",
+    "name_jp": "ニーキャップ",
+    "data": [
+     1,
+     48,
+     9,
+     0
+    ]
+   }
+  },
+  "model": "BFL",
+  "medapedia": 137,
+  "model_full": "BFL-0BH",
+  "name": "Brownbison",
+  "motif": "Buffalo",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 137,
+  "name_jp": "ティレルビートル",
+  "parts": {
+   "head": {
+    "model": "KWGー71BX",
+    "name_jp": "スクワイア",
+    "data": [
+     32,
+     52,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー72BX",
+    "name_jp": "リッパー",
+    "data": [
+     32,
+     52,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー73BX",
+    "name_jp": "ハンガー",
+    "data": [
+     32,
+     52,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー74BX",
+    "name_jp": "デパーチャー",
+    "data": [
+     32,
+     52,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 138,
+  "model_full": "KWG-7BX",
+  "name": "Tyrrellbeetle",
+  "motif": "Giant stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 138,
+  "name_jp": "アークビートルD",
+  "parts": {
+   "head": {
+    "model": "KBTー71BX",
+    "name_jp": "アペンディクス",
+    "data": [
+     32,
+     53,
+     3,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー72BX",
+    "name_jp": "スカッター",
+    "data": [
+     32,
+     53,
+     3,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー73BX",
+    "name_jp": "スプリンク",
+    "data": [
+     32,
+     53,
+     3,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー74BX",
+    "name_jp": "ブレイザー",
+    "data": [
+     32,
+     53,
+     3,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 139,
+  "model_full": "KBT-7BX",
+  "name": "Arcbeetle-Dash",
+  "motif": "Hercules beetle",
+  "leg_type": "Bipedal",
+  "gender": "M"
+ },
+ {
+  "navi_id": 139,
+  "name_jp": "アンズドビートル",
+  "parts": {
+   "head": {
+    "model": "KBTー91BX",
+    "name_jp": "エンドワルツ",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KBTー92BX",
+    "name_jp": "ラストコンサート",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KBTー93BX",
+    "name_jp": "エンドリサイタル",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KBTー94BX",
+    "name_jp": "ミュージカル",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KBT",
+  "medapedia": 140,
+  "model_full": "KBT-9BX",
+  "name": "Anzudo Beetle",
+  "motif": "Rhino beetle",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 140,
+  "name_jp": "カメオスタッグ",
+  "parts": {
+   "head": {
+    "model": "KWGー91BX",
+    "name_jp": "ファイナルマーチ",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "KWGー92BX",
+    "name_jp": "ビートデス",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "KWGー93BX",
+    "name_jp": "ストライクデッド",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "KWGー94BX",
+    "name_jp": "トリックライド",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "KWG",
+  "medapedia": 141,
+  "model_full": "KWG-9BX",
+  "name": "Cameo Stag",
+  "motif": "Stag beetle",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 141,
+  "name_jp": "セーラーマルチ",
+  "parts": {
+   "head": {
+    "model": "SLRー11BH",
+    "name_jp": "バリアブルヘアー",
+    "data": [
+     19,
+     0,
+     1,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "SLRー12BH",
+    "name_jp": "パテリィバルカン",
+    "data": [
+     16,
+     0,
+     1,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "SLRー13BH",
+    "name_jp": "ショートショット",
+    "data": [
+     16,
+     0,
+     1,
+     0
+    ]
+   },
+   "legs": {
+    "model": "SLRー14BH",
+    "name_jp": "フレアギャザー",
+    "data": [
+     19,
+     0,
+     1,
+     0
+    ]
+   }
+  },
+  "model": "SLR",
+  "medapedia": 142,
+  "model_full": "SLR-1BH",
+  "name": "Sailor-Multi",
+  "motif": "Sailor-fuku",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 142,
+  "name_jp": "ブレイブナース",
+  "parts": {
+   "head": {
+    "model": "NUSー21BH",
+    "name_jp": "ホーリーグランド",
+    "data": [
+     19,
+     0,
+     4,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "NUSー22BH",
+    "name_jp": "ドナーカプセル",
+    "data": [
+     22,
+     0,
+     4,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "NUSー23BH",
+    "name_jp": "モバイルカプセル",
+    "data": [
+     22,
+     0,
+     4,
+     0
+    ]
+   },
+   "legs": {
+    "model": "NUSー24BH",
+    "name_jp": "エプロンドレス",
+    "data": [
+     19,
+     0,
+     4,
+     0
+    ]
+   }
+  },
+  "model": "NUS",
+  "medapedia": 143,
+  "model_full": "NUS-2BH",
+  "name": "Bravenurse",
+  "motif": "Nurse",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 143,
+  "name_jp": "マゼンタキャット",
+  "parts": {
+   "head": {
+    "model": "CATー01BH",
+    "name_jp": "テイザー",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "CATー02BH",
+    "name_jp": "スタンガン",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "CATー03BH",
+    "name_jp": "スタンスティック",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   },
+   "legs": {
+    "model": "CATー04BH",
+    "name_jp": "キャットウォーク",
+    "data": [
+     18,
+     0,
+     14,
+     0
+    ]
+   }
+  },
+  "model": "CAT",
+  "medapedia": 144,
+  "model_full": "CAT-0BH",
+  "name": "Magentacat",
+  "motif": "Cat",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 144,
+  "name_jp": "バニーハート",
+  "parts": {
+   "head": {
+    "model": "BNYー01BH",
+    "name_jp": "ボディコンシャス",
+    "data": [
+     19,
+     0,
+     6,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BNYー02BH",
+    "name_jp": "ハンドウィップ",
+    "data": [
+     23,
+     0,
+     6,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BNYー03BH",
+    "name_jp": "アームキャンディ",
+    "data": [
+     23,
+     0,
+     6,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BNYー04BH",
+    "name_jp": "レッグハイヒール",
+    "data": [
+     19,
+     0,
+     6,
+     0
+    ]
+   }
+  },
+  "model": "BNY",
+  "medapedia": 145,
+  "model_full": "BNY-0BH",
+  "name": "Bunnyheart",
+  "motif": "Bunny girl",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 145,
+  "name_jp": "ダークパンサー",
+  "parts": {
+   "head": {
+    "model": "DPTー01BH",
+    "name_jp": "ストロングホール",
+    "data": [
+     16,
+     50,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DPTー02BH",
+    "name_jp": "リプレイサー",
+    "data": [
+     16,
+     50,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DPTー03BH",
+    "name_jp": "エフェクティーン",
+    "data": [
+     16,
+     50,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DPTー04BH",
+    "name_jp": "レオパルス",
+    "data": [
+     16,
+     50,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "DPT",
+  "medapedia": 146,
+  "model_full": "DPT-0BH",
+  "name": "Darkpanther",
+  "motif": "Panther",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 146,
+  "name_jp": "ブロッソメイル",
+  "parts": {
+   "head": {
+    "model": "DVLー21BF",
+    "name_jp": "イービルボディ",
+    "data": [
+     50,
+     51,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "DVLー22BF",
+    "name_jp": "イービルハンド",
+    "data": [
+     49,
+     51,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "DVLー23BF",
+    "name_jp": "イービルアーム",
+    "data": [
+     49,
+     51,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "DVLー24BF",
+    "name_jp": "イービルレッグ",
+    "data": [
+     50,
+     51,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "DVL",
+  "medapedia": 147,
+  "model_full": "DVL-2BF",
+  "name": "Blossomail",
+  "motif": "Devil",
+  "leg_type": "Bipedal",
+  "gender": "F"
+ },
+ {
+  "navi_id": 147,
+  "name_jp": "ロールスター",
+  "parts": {
+   "head": {
+    "model": "RAYー01BH",
+    "name_jp": "プラズマレーザー",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "RAYー02BH",
+    "name_jp": "ついびレーザー",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "RAYー03BH",
+    "name_jp": "おっかけレーザー",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   },
+   "legs": {
+    "model": "RAYー04BH",
+    "name_jp": "ストーカー",
+    "data": [
+     1,
+     0,
+     15,
+     0
+    ]
+   }
+  },
+  "model": "RAY",
+  "medapedia": 148,
+  "model_full": "RAY-0BH",
+  "name": "Rollstar",
+  "motif": "Crayfish",
+  "leg_type": "Wheeled",
+  "gender": "M"
+ },
+ {
+  "navi_id": 148,
+  "name_jp": "イエロータートル",
+  "parts": {
+   "head": {
+    "model": "TOTー01BH",
+    "name_jp": "バッテリー",
+    "data": [
+     7,
+     0,
+     9,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "TOTー02BH",
+    "name_jp": "ノーマルレーザー",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "TOTー03BH",
+    "name_jp": "ハイパーレーザー",
+    "data": [
+     1,
+     0,
+     9,
+     0
+    ]
+   },
+   "legs": {
+    "model": "TOTー04BH",
+    "name_jp": "コーラタンク",
+    "data": [
+     7,
+     0,
+     9,
+     0
+    ]
+   }
+  },
+  "model": "TOT",
+  "medapedia": 149,
+  "model_full": "TOT-0BH",
+  "name": "Yellowturtle",
+  "motif": "Tortoise",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 149,
+  "name_jp": "メガファント",
+  "parts": {
+   "head": {
+    "model": "ELFー01BH",
+    "name_jp": "トランプル",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "ELFー02BH",
+    "name_jp": "ライトガード",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "ELFー03BH",
+    "name_jp": "グレートシールド",
+    "data": [
+     3,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "ELFー04BH",
+    "name_jp": "アッシー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "ELF",
+  "medapedia": 150,
+  "model_full": "ELF-0BH",
+  "name": "Megaphant",
+  "motif": "Elephant",
+  "leg_type": "Tank",
+  "gender": "M"
+ },
+ {
+  "navi_id": 150,
+  "name_jp": "おすティンペット",
+  "parts": {
+   "head": {
+    "model": "BASー01BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BASー02BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BASー03BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BASー04BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     0,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "BAS"
+ },
+ {
+  "navi_id": 151,
+  "name_jp": "めすティンペット",
+  "parts": {
+   "head": {
+    "model": "BASー05BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "right_arm": {
+    "model": "BASー06BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "left_arm": {
+    "model": "BASー07BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   },
+   "legs": {
+    "model": "BASー08BH",
+    "name_jp": "ーーーーーーーー",
+    "data": [
+     16,
+     0,
+     0,
+     0
+    ]
+   }
+  },
+  "model": "BAS"
+ }
+]

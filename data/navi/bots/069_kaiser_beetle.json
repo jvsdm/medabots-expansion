@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 69,
+ "slug": "kaiser_beetle",
+ "name": "Kaiser Beetle",
+ "name_full": "Kaiser Beetle",
+ "name_jp": "カイゼルビートル",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 69,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "KBT-11NF",
+   "name_jp": "プロウセイル",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 20,
+    "power": 32,
+    "chain_reaction": 1,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "KBT-12NF",
+   "name_jp": "ロングガン",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 15,
+    "power": 22,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 8,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KBT-13NF",
+   "name_jp": "ロングキャノン",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 4,
+    "power": 40,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 9,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KBT-14NF",
+   "name_jp": "ドゥウォーク",
+   "stats": {
+    "medal_compat": 1,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 28,
+    "evasion": 22,
+    "defense": 61,
+    "proximity": 5,
+    "remoteness": 19,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 104,
+   "propulsion": 48,
+   "evasion": 42,
+   "defense": 80,
+   "proximity": 22,
+   "remoteness": 29
+  },
+  "legs_navi": {
+   "propulsion": 76,
+   "evasion": 45,
+   "defense": 87,
+   "proximity": 30,
+   "remoteness": 70
+  },
+  "drives": {
+   "A": {
+    "technique": 3,
+    "speciality": 2,
+    "success": 68,
+    "power": 43,
+    "effect": "none",
+    "navi": {
+     "action": 5,
+     "success": 95,
+     "power": 62
+    },
+    "medal_compat": 1
+   },
+   "B": {
+    "technique": 51,
+    "speciality": 4,
+    "success": 35,
+    "power": 26,
+    "effect": "none",
+    "navi": {
+     "action": 37,
+     "success": 40,
+     "power": 31
+    },
+    "medal_compat": 23
+   },
+   "C": {
+    "technique": 52,
+    "speciality": 4,
+    "success": 13,
+    "power": 40,
+    "effect": "none",
+    "navi": {
+     "action": 38,
+     "success": 3,
+     "power": 55
+    },
+    "medal_compat": 23
+   }
+  }
+ }
+}

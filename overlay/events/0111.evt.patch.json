@@ -1,0 +1,12 @@
+{
+ "base_sha1": "565395bdff5827b438bac8b896c8bf478bb38ec7",
+ "ops": [
+  [
+   69,
+   70,
+   [
+    "Initiate_Actor packed_actor_id=1, sprite_id=97, x=6, y=2"
+   ]
+  ]
+ ]
+}

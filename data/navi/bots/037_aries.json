@@ -1,0 +1,108 @@
+{
+ "pack": "navi",
+ "navi_id": 37,
+ "slug": "aries",
+ "name": "Aries",
+ "name_full": "Aries",
+ "name_jp": "アリエス",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 37,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "ARS-01NF",
+   "name_jp": "フライト",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 33,
+    "speciality": 5,
+    "female": 0,
+    "armor": 35,
+    "success": 23,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ARS-02NF",
+   "name_jp": "シャイン",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 50,
+    "success": 13,
+    "power": 16,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 14,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "vacuum"
+  },
+  "left_arm": {
+   "name": "ARS-03NF",
+   "name_jp": "ライト",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 3,
+    "female": 0,
+    "armor": 50,
+    "success": 6,
+    "power": 25,
+    "chain_reaction": 0,
+    "uses_or_charge": 16,
+    "radiation": 13,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "vacuum"
+  },
+  "legs": {
+   "name": "ARS-04NF",
+   "name_jp": "ヘジテイション",
+   "stats": {
+    "medal_compat": 1,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "propulsion": 18,
+    "evasion": 38,
+    "defense": 42,
+    "proximity": 13,
+    "remoteness": 12,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

@@ -1,0 +1,19 @@
+{
+ "base_sha1": "64ff9cf7f443ffedf3f4562e1a71cd0b82d69e45",
+ "ops": [
+  [
+   3,
+   4,
+   [
+    "Start_Battle battle=123, battle_mode_flags=0x01, post_battle_mode_flags=0x00"
+   ]
+  ],
+  [
+   28,
+   28,
+   [
+    "Update_Overworld_Event_Mode_Flags mode_control=64"
+   ]
+  ]
+ ]
+}

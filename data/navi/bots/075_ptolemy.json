@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 75,
+ "slug": "ptolemy",
+ "name": "Ptolemy",
+ "name_full": "Ptolemy",
+ "name_jp": "トレミー",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 75,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "LDB-36NF",
+   "name_jp": "ライトアランプ",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 2,
+    "female": 0,
+    "armor": 45,
+    "success": 36,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "scope"
+  },
+  "right_arm": {
+   "name": "LDB-37NF",
+   "name_jp": "グラインド",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 20,
+    "success": 26,
+    "power": 15,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "LDB-38NF",
+   "name_jp": "スウォット",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 3,
+    "female": 0,
+    "armor": 20,
+    "success": 21,
+    "power": 25,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 10,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "LDB-39NF",
+   "name_jp": "ターンオーパー",
+   "stats": {
+    "medal_compat": 1,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 28,
+    "evasion": 27,
+    "defense": 36,
+    "proximity": 13,
+    "remoteness": 18,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

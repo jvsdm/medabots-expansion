@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 22,
+ "slug": "pupa_stag",
+ "name": "Pupa Stag",
+ "name_full": "Pupa Stag",
+ "name_jp": "プーパスタッグ",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 22,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "KWG-01NF",
+   "name_jp": "プチアンテナ",
+   "stats": {
+    "medal_compat": 18,
+    "technique": 37,
+    "speciality": 6,
+    "female": 0,
+    "armor": 40,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "KWG-02NF",
+   "name_jp": "プチソード",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 0,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 5,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KWG-03NF",
+   "name_jp": "プチハンマー",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 1,
+    "uses_or_charge": 1,
+    "radiation": 1,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KWG-04NF",
+   "name_jp": "プチタタカッター",
+   "stats": {
+    "medal_compat": 0,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 0,
+    "evasion": 0,
+    "defense": 0,
+    "proximity": 0,
+    "remoteness": 0,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 101,
+   "propulsion": 0,
+   "evasion": 22,
+   "defense": 61,
+   "proximity": 23,
+   "remoteness": 21
+  },
+  "legs_navi": {
+   "propulsion": 0,
+   "evasion": 22,
+   "defense": 53,
+   "proximity": 45,
+   "remoteness": 34
+  },
+  "drives": {
+   "A": {
+    "technique": 36,
+    "speciality": 6,
+    "success": 0,
+    "power": 26,
+    "effect": "booster",
+    "navi": {
+     "action": 3,
+     "success": 0,
+     "power": 33
+    },
+    "medal_compat": 17
+   },
+   "B": {
+    "technique": 0,
+    "speciality": 0,
+    "success": 70,
+    "power": 36,
+    "effect": "none",
+    "navi": {
+     "action": 0,
+     "success": 99,
+     "power": 49
+    },
+    "medal_compat": 0
+   },
+   "C": {
+    "technique": 1,
+    "speciality": 1,
+    "success": 10,
+    "power": 12,
+    "effect": "none",
+    "navi": {
+     "action": 1,
+     "success": 9,
+     "power": 9
+    },
+    "medal_compat": 0
+   }
+  }
+ }
+}

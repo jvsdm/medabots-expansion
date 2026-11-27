@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 60,
+ "slug": "beelzebubbler",
+ "name": "Beelzebubbler",
+ "name_full": "Beelzebubbler",
+ "name_jp": "ベルゼバブラ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 60,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "FLY-36NF",
+   "name_jp": "テイスティ",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 32,
+    "speciality": 5,
+    "female": 0,
+    "armor": 45,
+    "success": 26,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FLY-37NF",
+   "name_jp": "ジャムクロール",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 49,
+    "speciality": 3,
+    "female": 0,
+    "armor": 20,
+    "success": 11,
+    "power": 25,
+    "chain_reaction": 1,
+    "uses_or_charge": 21,
+    "radiation": 21,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "FLY-38NF",
+   "name_jp": "ジャムスウォーム",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 49,
+    "speciality": 3,
+    "female": 0,
+    "armor": 20,
+    "success": 8,
+    "power": 42,
+    "chain_reaction": 1,
+    "uses_or_charge": 21,
+    "radiation": 21,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "FLY-39NF",
+   "name_jp": "マゴット",
+   "stats": {
+    "medal_compat": 21,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "propulsion": 14,
+    "evasion": 13,
+    "defense": 30,
+    "proximity": 13,
+    "remoteness": 11,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 100,
+   "propulsion": 72,
+   "evasion": 32,
+   "defense": 67,
+   "proximity": 21,
+   "remoteness": 22
+  },
+  "legs_navi": {
+   "propulsion": 92,
+   "evasion": 34,
+   "defense": 62,
+   "proximity": 29,
+   "remoteness": 36
+  },
+  "drives": {
+   "A": {
+    "technique": 41,
+    "speciality": 6,
+    "success": 27,
+    "power": 8,
+    "effect": "none",
+    "navi": {
+     "action": 56,
+     "success": 21,
+     "power": 6
+    },
+    "medal_compat": 19
+   },
+   "B": {
+    "technique": 12,
+    "speciality": 4,
+    "success": 32,
+    "power": 6,
+    "effect": "none",
+    "navi": {
+     "action": 68,
+     "success": 33,
+     "power": 5
+    },
+    "medal_compat": 5
+   },
+   "C": {
+    "technique": 41,
+    "speciality": 6,
+    "success": 18,
+    "power": 14,
+    "effect": "level_drain",
+    "navi": {
+     "action": 46,
+     "success": 8,
+     "power": 13
+    },
+    "medal_compat": 19
+   }
+  }
+ }
+}

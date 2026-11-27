@@ -1,0 +1,114 @@
+{
+ "bot_id": 178,
+ "name": "PAFLEK",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 57 (KAP-0 パフレック).",
+ "palette_family": 0,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 57,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "PURATO",
+   "name_jp": "プラト",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 5,
+    "speciality": 2,
+    "female": 0,
+    "armor": 45,
+    "success": 5,
+    "power": 60,
+    "chain_reaction": 0,
+    "uses_or_charge": 3,
+    "radiation": 0,
+    "u10": 56,
+    "buy_price": 25,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "UEBBU",
+   "name_jp": "ウェッブ",
+   "stats": {
+    "medal_compat": 16,
+    "technique": 35,
+    "speciality": 2,
+    "female": 0,
+    "armor": 60,
+    "success": 8,
+    "power": 15,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 12,
+    "u10": 56,
+    "buy_price": 20,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "ARUKORE",
+   "name_jp": "アルコレ",
+   "stats": {
+    "medal_compat": 16,
+    "technique": 35,
+    "speciality": 2,
+    "female": 0,
+    "armor": 60,
+    "success": 4,
+    "power": 20,
+    "chain_reaction": 1,
+    "uses_or_charge": 23,
+    "radiation": 15,
+    "u10": 56,
+    "buy_price": 20,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KASUKARA",
+   "name_jp": "カスカーラ",
+   "stats": {
+    "medal_compat": 16,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 70,
+    "propulsion": 12,
+    "evasion": 78,
+    "defense": 60,
+    "proximity": 23,
+    "remoteness": 11,
+    "u10": 56,
+    "buy_price": 15,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

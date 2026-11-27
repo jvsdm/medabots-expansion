@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 128,
+ "slug": "arcbeetle",
+ "name": "Arcbeetle",
+ "name_full": "Arcbeetle",
+ "name_jp": "アークビートル",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 128,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "KBT-41BF",
+   "name_jp": "プロミネンス",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 5,
+    "speciality": 2,
+    "female": 0,
+    "armor": 45,
+    "success": 13,
+    "power": 41,
+    "chain_reaction": 1,
+    "uses_or_charge": 3,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "KBT-42BF",
+   "name_jp": "イグニッション",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 40,
+    "success": 19,
+    "power": 11,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KBT-43BF",
+   "name_jp": "エクスプロード",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 3,
+    "female": 0,
+    "armor": 40,
+    "success": 13,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 10,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KBT-44BF",
+   "name_jp": "ファイヤワーク",
+   "stats": {
+    "medal_compat": 1,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 60,
+    "propulsion": 33,
+    "evasion": 19,
+    "defense": 36,
+    "proximity": 10,
+    "remoteness": 17,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

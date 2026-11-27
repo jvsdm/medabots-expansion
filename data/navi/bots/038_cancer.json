@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 38,
+ "slug": "cancer",
+ "name": "Cancer",
+ "name_full": "Cancer",
+ "name_jp": "キャンサー",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 38,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "CNC-01NF",
+   "name_jp": "アンセルフ",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 12,
+    "speciality": 4,
+    "female": 0,
+    "armor": 24,
+    "success": 27,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "CNC-02NF",
+   "name_jp": "ジャスティス",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 57,
+    "speciality": 7,
+    "female": 0,
+    "armor": 30,
+    "success": 24,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 15,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "CNC-03NF",
+   "name_jp": "ジャストコース",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 57,
+    "speciality": 7,
+    "female": 0,
+    "armor": 30,
+    "success": 20,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 15,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "CNC-04NF",
+   "name_jp": "レイジリィ",
+   "stats": {
+    "medal_compat": 25,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 25,
+    "propulsion": 18,
+    "evasion": 37,
+    "defense": 36,
+    "proximity": 13,
+    "remoteness": 12,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

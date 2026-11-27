@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 90,
+ "slug": "home_carry",
+ "name": "Home Carry",
+ "name_full": "Home Carry",
+ "name_jp": "ホームキャリー",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 90,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "HCB-01NF",
+   "name_jp": "リップルサウンド",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 45,
+    "speciality": 7,
+    "female": 0,
+    "armor": 60,
+    "success": 31,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "HCB-02NF",
+   "name_jp": "ランドロード",
+   "stats": {
+    "medal_compat": 15,
+    "technique": 34,
+    "speciality": 2,
+    "female": 0,
+    "armor": 20,
+    "success": 16,
+    "power": 8,
+    "chain_reaction": 1,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "HCB-03NF",
+   "name_jp": "ランドレディ",
+   "stats": {
+    "medal_compat": 15,
+    "technique": 34,
+    "speciality": 2,
+    "female": 0,
+    "armor": 20,
+    "success": 14,
+    "power": 9,
+    "chain_reaction": 1,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "HCB-04NF",
+   "name_jp": "インキーパー",
+   "stats": {
+    "medal_compat": 15,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 70,
+    "propulsion": 48,
+    "evasion": 6,
+    "defense": 25,
+    "proximity": 13,
+    "remoteness": 5,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 106,
+   "propulsion": 38,
+   "evasion": 77,
+   "defense": 48,
+   "proximity": 23,
+   "remoteness": 20
+  },
+  "legs_navi": {
+   "propulsion": 38,
+   "evasion": 70,
+   "defense": 44,
+   "proximity": 45,
+   "remoteness": 27
+  },
+  "drives": {
+   "A": {
+    "technique": 23,
+    "speciality": 7,
+    "success": 24,
+    "power": 43,
+    "effect": "none",
+    "navi": {
+     "action": 42,
+     "success": 18,
+     "power": 59
+    },
+    "medal_compat": 10
+   },
+   "B": {
+    "technique": 18,
+    "speciality": 0,
+    "success": 24,
+    "power": 1,
+    "effect": "none",
+    "navi": {
+     "action": 75,
+     "success": 18,
+     "power": 4
+    },
+    "medal_compat": 8
+   },
+   "C": {
+    "technique": 18,
+    "speciality": 0,
+    "success": 12,
+    "power": 6,
+    "effect": "none",
+    "navi": {
+     "action": 76,
+     "success": 2,
+     "power": 5
+    },
+    "medal_compat": 8
+   }
+  }
+ }
+}

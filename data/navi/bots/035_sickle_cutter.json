@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 35,
+ "slug": "sickle_cutter",
+ "name": "Sickle Cutter",
+ "name_full": "Sickle Cutter",
+ "name_jp": "シックルカッター",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 35,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "WMS-01NF",
+   "name_jp": "シックルシェイプ",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "success": 0,
+    "power": 24,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "booster"
+  },
+  "right_arm": {
+   "name": "WMS-02NF",
+   "name_jp": "スムースベンド",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 22,
+    "power": 16,
+    "chain_reaction": 0,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "WMS-03NF",
+   "name_jp": "スムースカーブ",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 21,
+    "power": 31,
+    "chain_reaction": 1,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "WMS-04NF",
+   "name_jp": "ライトリィ",
+   "stats": {
+    "medal_compat": 6,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 23,
+    "evasion": 42,
+    "defense": 30,
+    "proximity": 18,
+    "remoteness": 0,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

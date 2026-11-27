@@ -1,0 +1,5 @@
+; roteiro 2288
+Get_Medal medal=2
+Remove_Event_Permanently event_id=2288
+Remove_Current_Event_Now
+End

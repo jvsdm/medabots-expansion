@@ -1,0 +1,114 @@
+{
+ "bot_id": 129,
+ "name": "BARROW",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 7 (BAL-0 バロウ).",
+ "palette_family": 2,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 7,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "OBATO",
+   "name_jp": "オバート",
+   "stats": {
+    "medal_compat": 11,
+    "technique": 24,
+    "speciality": 7,
+    "female": 0,
+    "armor": 70,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 0,
+    "radiation": 0,
+    "u10": 30,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ARUGIRE",
+   "name_jp": "アルギレ",
+   "stats": {
+    "medal_compat": 11,
+    "technique": 26,
+    "speciality": 7,
+    "female": 0,
+    "armor": 65,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 0,
+    "radiation": 0,
+    "u10": 30,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "RAPOSERA",
+   "name_jp": "ラポーセラ",
+   "stats": {
+    "medal_compat": 11,
+    "technique": 25,
+    "speciality": 7,
+    "female": 0,
+    "armor": 65,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 0,
+    "radiation": 0,
+    "u10": 30,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "POSURAIN",
+   "name_jp": "ポースライン",
+   "stats": {
+    "medal_compat": 11,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 75,
+    "propulsion": 8,
+    "evasion": 18,
+    "defense": 60,
+    "proximity": 19,
+    "remoteness": 1,
+    "u10": 30,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

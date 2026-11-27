@@ -1,0 +1,29 @@
+{
+ "_doc": "Personagens novos (adversarios) depois dos 96 do jogo: nome (gOpponentNames), fala de antes e de depois da luta (gOpponentPreBattleMessages / gOpponentAfterBattleMessages; mesmo formato do data/story/text, cabecalho <FB 00 RR 00> = retrato RR) e, opcional, o retrato (gPortraitTiles[id][0] em formato Le do jogo + paleta de 32 bytes). Montado por tools/characters_build.py.",
+ "characters": [
+  {
+   "id": 96,
+   "name": "Harvey",
+   "source": "Medarot 2 Core (J) personagem 96, luta 251",
+   "pre": "<FB 00 28 00>Harvey, at your service.|Show me the champion's power!",
+   "after": "<FB 00 28 00>Impressive... You truly|are the champion."
+  },
+  {
+   "id": 97,
+   "name": "Koishimaru",
+   "source": "Medarot 2 Core (J) personagem 97, luta 252; retrato e folha do campo 97 lidos da ROM Kuwagata na build",
+   "pre": "<FB 00 61 00>Your Medabots are mine|now. Can you beat them?",
+   "after": "<FB 00 61 00>Hmph... You beat your|own reflection.",
+   "portrait": {
+    "from": "core_kuwagata_j",
+    "char": 97,
+    "tiles_len": 882
+   },
+   "field_sheet": {
+    "id": 97,
+    "from": "core_kuwagata_j",
+    "sheet": 97
+   }
+  }
+ ]
+}

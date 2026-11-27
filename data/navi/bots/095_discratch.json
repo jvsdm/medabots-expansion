@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 95,
+ "slug": "discratch",
+ "name": "Discratch",
+ "name_full": "Discratch",
+ "name_jp": "ディスクラッチ",
+ "leg_type": "Tank",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 95,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "MCI-01NF",
+   "name_jp": "インストルメント",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 55,
+    "success": 0,
+    "power": 30,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "vacuum"
+  },
+  "right_arm": {
+   "name": "MCI-02NF",
+   "name_jp": "ディスクチェンジ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 0,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 16,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "MCI-03NF",
+   "name_jp": "マイクロフォン",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 0,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 16,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "MCI-04NF",
+   "name_jp": "ターンテーブル",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 110,
+    "propulsion": 7,
+    "evasion": 8,
+    "defense": 24,
+    "proximity": 8,
+    "remoteness": 17,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

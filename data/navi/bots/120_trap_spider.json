@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 120,
+ "slug": "trap_spider",
+ "name": "Trap Spider",
+ "name_full": "Trap Spider",
+ "name_jp": "トラップスパイダ",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 120,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "SPD-01BH",
+   "name_jp": "ブービートラップ",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 10,
+    "speciality": 4,
+    "female": 0,
+    "armor": 35,
+    "success": 18,
+    "power": 51,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "SPD-02BH",
+   "name_jp": "ホイホイトラップ",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 10,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 18,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 15,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "SPD-03BH",
+   "name_jp": "ネバネバトラップ",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 10,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 15,
+    "power": 30,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 15,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "SPD-04BH",
+   "name_jp": "スパイダーネット",
+   "stats": {
+    "medal_compat": 5,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 18,
+    "evasion": 42,
+    "defense": 37,
+    "proximity": 13,
+    "remoteness": 11,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

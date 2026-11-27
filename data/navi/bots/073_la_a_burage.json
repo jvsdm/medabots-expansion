@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 73,
+ "slug": "la_a_burage",
+ "name": "La A-Burage",
+ "name_full": "La A-Burage",
+ "name_jp": "ラ・ア・ブラーゲ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 73,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "FOX-31NF",
+   "name_jp": "ホワイトマウス",
+   "stats": {
+    "medal_compat": 7,
+    "technique": 16,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "success": 13,
+    "power": 40,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FOX-32NF",
+   "name_jp": "マフラーエッジ",
+   "stats": {
+    "medal_compat": 7,
+    "technique": 16,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 13,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 16,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "FOX-33NF",
+   "name_jp": "サイレンスエッジ",
+   "stats": {
+    "medal_compat": 7,
+    "technique": 16,
+    "speciality": 1,
+    "female": 0,
+    "armor": 40,
+    "success": 6,
+    "power": 36,
+    "chain_reaction": 1,
+    "uses_or_charge": 15,
+    "radiation": 13,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "FOX-34NF",
+   "name_jp": "ウァームウェア",
+   "stats": {
+    "medal_compat": 7,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 28,
+    "evasion": 37,
+    "defense": 13,
+    "proximity": 18,
+    "remoteness": 13,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

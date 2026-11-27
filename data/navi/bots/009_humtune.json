@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 9,
+ "slug": "humtune",
+ "name": "Humtune",
+ "name_full": "Humtune",
+ "name_jp": "ハムチューン",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 9,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "HMB-01NF",
+   "name_jp": "ハニーコーン",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 0,
+    "speciality": 1,
+    "female": 0,
+    "armor": 15,
+    "success": 32,
+    "power": 35,
+    "chain_reaction": 1,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "HMB-02NF",
+   "name_jp": "フラッパー",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 12,
+    "speciality": 4,
+    "female": 0,
+    "armor": 20,
+    "success": 23,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 13,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "HMB-03NF",
+   "name_jp": "フラッター",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 33,
+    "speciality": 5,
+    "female": 0,
+    "armor": 20,
+    "success": 21,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 13,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "HMB-04NF",
+   "name_jp": "ビーハイブ",
+   "stats": {
+    "medal_compat": 5,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 20,
+    "propulsion": 57,
+    "evasion": 42,
+    "defense": 42,
+    "proximity": 16,
+    "remoteness": 17,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

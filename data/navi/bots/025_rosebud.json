@@ -1,0 +1,108 @@
+{
+ "pack": "navi",
+ "navi_id": 25,
+ "slug": "rosebud",
+ "name": "Rosebud",
+ "name_full": "Rosebud",
+ "name_jp": "ローズバッド",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 25,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "ROS-01NF",
+   "name_jp": "ローズチーク",
+   "stats": {
+    "medal_compat": 18,
+    "technique": 37,
+    "speciality": 6,
+    "female": 0,
+    "armor": 35,
+    "success": 20,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ROS-02NF",
+   "name_jp": "ローズソーン",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 41,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 26,
+    "power": 10,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "level_drain",
+   "effect_amount": 7
+  },
+  "left_arm": {
+   "name": "ROS-03NF",
+   "name_jp": "ローズブライア",
+   "stats": {
+    "medal_compat": 22,
+    "technique": 50,
+    "speciality": 7,
+    "female": 0,
+    "armor": 30,
+    "success": 17,
+    "power": 26,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "ROS-04NF",
+   "name_jp": "ローズブッシュ",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 70,
+    "propulsion": 6,
+    "evasion": 13,
+    "defense": 36,
+    "proximity": 11,
+    "remoteness": 15,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

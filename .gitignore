@@ -1,0 +1,18 @@
+# your ROMs and saves (never commit game data)
+roms/
+*.gba
+*.sav
+# downloaded and built by tools/setup.py
+deps/
+build/
+medabots.config.json
+# game data generated from your ROM by tools/setup.py (tools/project_data.py)
+data/maps/
+data/events/
+data/anim/seq/
+data/anim/poses/
+data/anim/pose_anims.json
+data/bots/0[0-9][0-9]_*.json
+data/bots/1[01][0-9]_*.json
+__pycache__/
+*.pyc

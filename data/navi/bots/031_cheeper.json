@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 31,
+ "slug": "cheeper",
+ "name": "Cheeper",
+ "name_full": "Cheeper",
+ "name_jp": "チーパー",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 31,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "CCD-01NF",
+   "name_jp": "ラットロング",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 8,
+    "speciality": 2,
+    "female": 0,
+    "armor": 31,
+    "success": 47,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "CCD-02NF",
+   "name_jp": "ショートライフ",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 18,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 18,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 8,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "CCD-03NF",
+   "name_jp": "ショートライブ",
+   "stats": {
+    "medal_compat": 8,
+    "technique": 18,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 15,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 8,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "CCD-04NF",
+   "name_jp": "アーリーデス",
+   "stats": {
+    "medal_compat": 8,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "propulsion": 28,
+    "evasion": 32,
+    "defense": 36,
+    "proximity": 13,
+    "remoteness": 12,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

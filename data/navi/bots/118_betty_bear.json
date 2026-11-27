@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 118,
+ "slug": "betty_bear",
+ "name": "Betty Bear",
+ "name_full": "Betty Bear",
+ "name_jp": "ベティベア",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 118,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "BER-01BH",
+   "name_jp": "メテオストライク",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 9,
+    "speciality": 2,
+    "female": 0,
+    "armor": 48,
+    "success": 68,
+    "power": 8,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "BER-02BH",
+   "name_jp": "プレッシャー",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 9,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 28,
+    "power": 8,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 16,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "BER-03BH",
+   "name_jp": "マッシャー",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 9,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 33,
+    "power": 9,
+    "chain_reaction": 0,
+    "uses_or_charge": 15,
+    "radiation": 13,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "BER-04BH",
+   "name_jp": "フーユ",
+   "stats": {
+    "medal_compat": 4,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 80,
+    "propulsion": 12,
+    "evasion": 0,
+    "defense": 48,
+    "proximity": 8,
+    "remoteness": 13,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

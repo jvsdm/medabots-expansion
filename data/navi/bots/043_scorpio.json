@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 43,
+ "slug": "scorpio",
+ "name": "Scorpio",
+ "name_full": "Scorpio",
+ "name_jp": "スコルピオ",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 43,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "SCP-01NF",
+   "name_jp": "ビハインド",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 31,
+    "success": 36,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "SCP-02NF",
+   "name_jp": "シークレット",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 13,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 26,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "SCP-03NF",
+   "name_jp": "マニューバー",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 12,
+    "power": 47,
+    "chain_reaction": 1,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "SCP-04NF",
+   "name_jp": "リボルト",
+   "stats": {
+    "medal_compat": 6,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "propulsion": 23,
+    "evasion": 73,
+    "defense": 24,
+    "proximity": 19,
+    "remoteness": 9,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

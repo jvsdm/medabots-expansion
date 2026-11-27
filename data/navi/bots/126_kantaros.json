@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 126,
+ "slug": "kantaros",
+ "name": "Kantaros",
+ "name_full": "Kantaros",
+ "name_jp": "カンタロス",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 126,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "KBT-31BF",
+   "name_jp": "ミサイルかい",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 6,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 20,
+    "power": 20,
+    "chain_reaction": 1,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "KBT-32BF",
+   "name_jp": "リボルバーかい",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 19,
+    "power": 11,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KBT-33BF",
+   "name_jp": "マシンガンかい",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 13,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KBT-34BF",
+   "name_jp": "オチツカーかい",
+   "stats": {
+    "medal_compat": 1,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 38,
+    "evasion": 27,
+    "defense": 49,
+    "proximity": 10,
+    "remoteness": 17,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

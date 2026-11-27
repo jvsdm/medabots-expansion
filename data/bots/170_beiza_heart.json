@@ -1,0 +1,114 @@
+{
+ "bot_id": 170,
+ "name": "BEIZA HEART",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 49 (TUR-0 ベイザハート).",
+ "palette_family": 0,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 49,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "TERANOS",
+   "name_jp": "テラノス",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 55,
+    "success": 9,
+    "power": 33,
+    "chain_reaction": 0,
+    "uses_or_charge": 2,
+    "radiation": 0,
+    "u10": 57,
+    "buy_price": 36,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "MEGATOR",
+   "name_jp": "メガトル",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 2,
+    "female": 0,
+    "armor": 40,
+    "success": 12,
+    "power": 33,
+    "chain_reaction": 0,
+    "uses_or_charge": 17,
+    "radiation": 8,
+    "u10": 57,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "GIGANTO",
+   "name_jp": "ギガント",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 3,
+    "female": 0,
+    "armor": 40,
+    "success": 6,
+    "power": 50,
+    "chain_reaction": 0,
+    "uses_or_charge": 22,
+    "radiation": 10,
+    "u10": 57,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "RAPIDALARGO",
+   "name_jp": "ラビダラルガ",
+   "stats": {
+    "medal_compat": 2,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 120,
+    "propulsion": 13,
+    "evasion": 3,
+    "defense": 18,
+    "proximity": 2,
+    "remoteness": 25,
+    "u10": 57,
+    "buy_price": 21,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

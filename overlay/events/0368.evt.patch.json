@@ -1,0 +1,19 @@
+{
+ "base_sha1": "c6cb96f6ae95fadaff66ede17dd089b4fe31dca2",
+ "ops": [
+  [
+   32,
+   33,
+   [
+    "Start_Battle battle=10, battle_mode_flags=0x01, post_battle_mode_flags=0x00"
+   ]
+  ],
+  [
+   76,
+   76,
+   [
+    "Get_Medal medal=5"
+   ]
+  ]
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "bot_id": 166,
+ "name": "ADSOLDAT",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 45 (BMT-0 アドソルダ).",
+ "palette_family": 0,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 45,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "KANDEBATARU",
+   "name_jp": "カンデバタル",
+   "stats": {
+    "medal_compat": 10,
+    "technique": 22,
+    "speciality": 5,
+    "female": 0,
+    "armor": 75,
+    "success": 10,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 51,
+    "buy_price": 19,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "GERIRU",
+   "name_jp": "ゲリル",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 2,
+    "female": 0,
+    "armor": 45,
+    "success": 10,
+    "power": 29,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 5,
+    "u10": 51,
+    "buy_price": 15,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "YUNIDE",
+   "name_jp": "ユニデ",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 3,
+    "speciality": 3,
+    "female": 0,
+    "armor": 45,
+    "success": 4,
+    "power": 44,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 6,
+    "u10": 51,
+    "buy_price": 15,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "TANKE",
+   "name_jp": "タンケ",
+   "stats": {
+    "medal_compat": 1,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 65,
+    "propulsion": 33,
+    "evasion": 37,
+    "defense": 31,
+    "proximity": 7,
+    "remoteness": 16,
+    "u10": 51,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

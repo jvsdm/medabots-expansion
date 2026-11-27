@@ -1,0 +1,164 @@
+{
+ "pack": "navi",
+ "navi_id": 40,
+ "slug": "scythe_cutter",
+ "name": "Scythe Cutter",
+ "name_full": "Scythe Cutter",
+ "name_jp": "サイズカッター",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 40,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "WMS-01NF",
+   "name_jp": "ストレートライン",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "success": 0,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "booster"
+  },
+  "right_arm": {
+   "name": "WMS-02NF",
+   "name_jp": "ウォータアポース",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 15,
+    "power": 23,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 13,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "WMS-03NF",
+   "name_jp": "ウォータレジスト",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 14,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 10,
+    "power": 40,
+    "chain_reaction": 1,
+    "uses_or_charge": 12,
+    "radiation": 11,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "WMS-04NF",
+   "name_jp": "スイミー",
+   "stats": {
+    "medal_compat": 6,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 18,
+    "evasion": 32,
+    "defense": 19,
+    "proximity": 16,
+    "remoteness": 0,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 106,
+   "propulsion": 33,
+   "evasion": 83,
+   "defense": 61,
+   "proximity": 26,
+   "remoteness": 11
+  },
+  "legs_navi": {
+   "propulsion": 32,
+   "evasion": 84,
+   "defense": 56,
+   "proximity": 51,
+   "remoteness": 9
+  },
+  "drives": {
+   "A": {
+    "technique": 36,
+    "speciality": 6,
+    "success": 0,
+    "power": 34,
+    "effect": "booster",
+    "navi": {
+     "action": 3,
+     "success": 0,
+     "power": 42
+    },
+    "medal_compat": 17
+   },
+   "B": {
+    "technique": 18,
+    "speciality": 0,
+    "success": 19,
+    "power": 24,
+    "effect": "none",
+    "navi": {
+     "action": 18,
+     "success": 30,
+     "power": 26
+    },
+    "medal_compat": 8
+   },
+   "C": {
+    "technique": 18,
+    "speciality": 0,
+    "success": 14,
+    "power": 32,
+    "effect": "none",
+    "navi": {
+     "action": 18,
+     "success": 10,
+     "power": 41
+    },
+    "medal_compat": 8
+   }
+  }
+ }
+}

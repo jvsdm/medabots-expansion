@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 46,
+ "slug": "gaiscythe",
+ "name": "Gaiscythe",
+ "name_full": "Gaiscythe",
+ "name_jp": "ガイサイズ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 46,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "SKT-01NF",
+   "name_jp": "オステオ",
+   "stats": {
+    "medal_compat": 13,
+    "technique": 31,
+    "speciality": 5,
+    "female": 0,
+    "armor": 45,
+    "success": 15,
+    "power": 13,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "SKT-02NF",
+   "name_jp": "ボニーコッズ",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 20,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 15,
+    "power": 18,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 10,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "SKT-03NF",
+   "name_jp": "スケルトンコッズ",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 20,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 10,
+    "power": 32,
+    "chain_reaction": 1,
+    "uses_or_charge": 10,
+    "radiation": 10,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "SKT-04NF",
+   "name_jp": "フレームワーク",
+   "stats": {
+    "medal_compat": 9,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "propulsion": 28,
+    "evasion": 27,
+    "defense": 37,
+    "proximity": 13,
+    "remoteness": 9,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

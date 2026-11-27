@@ -1,0 +1,110 @@
+{
+ "pack": "navi",
+ "navi_id": 111,
+ "slug": "larva",
+ "name": "Larva",
+ "name_full": "Larva",
+ "name_jp": "ラーヴァ",
+ "leg_type": "Aquatic",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 111,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "CLN-01NF",
+   "name_jp": "インデペンデント",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 32,
+    "speciality": 5,
+    "female": 0,
+    "armor": 40,
+    "success": 59,
+    "power": 71,
+    "chain_reaction": 1,
+    "uses_or_charge": 3,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "CLN-02NF",
+   "name_jp": "ディジェネイト",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 41,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 30,
+    "power": 8,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "level_drain",
+   "effect_amount": 6
+  },
+  "left_arm": {
+   "name": "CLN-03NF",
+   "name_jp": "レトログレース",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 41,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 11,
+    "power": 15,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "level_drain",
+   "effect_amount": 14
+  },
+  "legs": {
+   "name": "CLN-04NF",
+   "name_jp": "アトロフィ",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "propulsion": 12,
+    "evasion": 53,
+    "defense": 48,
+    "proximity": 19,
+    "remoteness": 11,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

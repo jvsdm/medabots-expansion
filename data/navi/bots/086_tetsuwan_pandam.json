@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 86,
+ "slug": "tetsuwan_pandam",
+ "name": "T.Pandam",
+ "name_full": "Tetsuwan Pandam",
+ "name_jp": "テツワンパンダム",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 86,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "PND-11NF",
+   "name_jp": "マンタイル",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 45,
+    "success": 14,
+    "power": 23,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "force_up"
+  },
+  "right_arm": {
+   "name": "PND-12NF",
+   "name_jp": "ピンタイル",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "success": 20,
+    "power": 13,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 5,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "PND-13NF",
+   "name_jp": "ソータイル",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 1,
+    "female": 0,
+    "armor": 30,
+    "success": 14,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 6,
+    "radiation": 6,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "PND-14NF",
+   "name_jp": "ジャンパーラー",
+   "stats": {
+    "medal_compat": 0,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "propulsion": 43,
+    "evasion": 22,
+    "defense": 36,
+    "proximity": 13,
+    "remoteness": 8,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

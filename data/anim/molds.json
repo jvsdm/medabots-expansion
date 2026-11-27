@@ -1,0 +1,5 @@
+{
+  "_doc": "Skeleton edits (Skeleton Editor / tools/anim_molds.py): only the edited molds, absolute values. core = game table (molds 1..49; 3..6 = part layers, joint/depth only), navi = Navi records. Fields: joint [down, right], pivot [down, right], depth, sibling, child. pc/research/ANIMATION_GUIDE.en.md 6.3",
+  "core": {},
+  "navi": {}
+}

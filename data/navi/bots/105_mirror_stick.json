@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 105,
+ "slug": "mirror_stick",
+ "name": "Mirror Stick",
+ "name_full": "Mirror Stick",
+ "name_jp": "ミラースティック",
+ "leg_type": "Aquatic",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 105,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "PSK-01NF",
+   "name_jp": "サッカーベイト",
+   "stats": {
+    "medal_compat": 11,
+    "technique": 25,
+    "speciality": 7,
+    "female": 0,
+    "armor": 70,
+    "success": 13,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "PSK-02NF",
+   "name_jp": "スティックト",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 20,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 15,
+    "power": 18,
+    "chain_reaction": 0,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "PSK-03NF",
+   "name_jp": "クリングト",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 20,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 10,
+    "power": 32,
+    "chain_reaction": 1,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "PSK-04NF",
+   "name_jp": "オニキス",
+   "stats": {
+    "medal_compat": 9,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 75,
+    "propulsion": 14,
+    "evasion": 48,
+    "defense": 48,
+    "proximity": 19,
+    "remoteness": 7,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

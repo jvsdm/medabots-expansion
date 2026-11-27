@@ -1,0 +1,28 @@
+{
+ "base_sha1": "57014b1c1f70b901148a961795b579417c28d0ca",
+ "ops": [
+  [
+   62,
+   64,
+   [
+    "Show_Message_A bank=16, id=0",
+    "Initiate_Actor packed_actor_id=2, sprite_id=128, x=19, y=21",
+    "Initiate_Actor packed_actor_id=3, sprite_id=128, x=19, y=23"
+   ]
+  ],
+  [
+   66,
+   67,
+   [
+    "Show_Message_A bank=16, id=1"
+   ]
+  ],
+  [
+   118,
+   118,
+   [
+    "Get_Medal medal=1"
+   ]
+  ]
+ ]
+}

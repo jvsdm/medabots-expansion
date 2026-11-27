@@ -1,0 +1,4 @@
+; roteiro 2294 (novo) - porte do roteiro 2288 da Medarot 2 Core (J): gatilho em (10,7) da area 46 em todas as fases
+; que devolve o jogador um passo (a U deixa passar ali)
+Move_Player step1=south+1, step2=unused, step3=unused, step4=unused
+End

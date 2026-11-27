@@ -1,0 +1,124 @@
+{
+ "_doc": "Troca de retrato (FB 00 RR 00) em falas do jogo, igual a Medarot 2 Core (J). tools/characters_build.py aplica na copia do baserom da arvore.",
+ "portraits": [
+  {
+   "bank": 0,
+   "id": 48,
+   "from": 36,
+   "to": 84,
+   "why": "mae na area 0 (roteiro 12): sprite 0xB3 / folha 0x54 da J"
+  },
+  {
+   "bank": 2,
+   "id": 129,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 130,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 141,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 142,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 143,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 144,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 172,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 173,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 174,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 175,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 176,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 177,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 178,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 179,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 2,
+   "id": 244,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  },
+  {
+   "bank": 15,
+   "id": 264,
+   "from": 52,
+   "to": 53,
+   "why": "Medabot das areas 40/42/43: personagem 53 e folha 0x35 da J (luta 237 no roteiro 407)"
+  }
+ ]
+}

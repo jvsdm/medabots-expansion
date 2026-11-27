@@ -1,0 +1,164 @@
+{
+ "pack": "navi",
+ "navi_id": 70,
+ "slug": "di_tyranno",
+ "name": "Di-Tyranno",
+ "name_full": "Di-Tyranno",
+ "name_jp": "ディティラノ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 70,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "TLD-01NF",
+   "name_jp": "ボーンロック",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 6,
+    "female": 0,
+    "armor": 35,
+    "success": 26,
+    "power": 12,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "detect"
+  },
+  "right_arm": {
+   "name": "TLD-02NF",
+   "name_jp": "ビートロック",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 26,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "TLD-03NF",
+   "name_jp": "ノックロック",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 22,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "TLD-04NF",
+   "name_jp": "テイルロック",
+   "stats": {
+    "medal_compat": 25,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 18,
+    "evasion": 10,
+    "defense": 25,
+    "proximity": 16,
+    "remoteness": 12,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 104,
+   "propulsion": 48,
+   "evasion": 37,
+   "defense": 55,
+   "proximity": 25,
+   "remoteness": 22
+  },
+  "legs_navi": {
+   "propulsion": 76,
+   "evasion": 42,
+   "defense": 50,
+   "proximity": 49,
+   "remoteness": 36
+  },
+  "drives": {
+   "A": {
+    "technique": 1,
+    "speciality": 1,
+    "success": 32,
+    "power": 62,
+    "effect": "shock",
+    "navi": {
+     "action": 2,
+     "success": 58,
+     "power": 62
+    },
+    "medal_compat": 0
+   },
+   "B": {
+    "technique": 36,
+    "speciality": 6,
+    "success": 0,
+    "power": 13,
+    "effect": "booster",
+    "navi": {
+     "action": 3,
+     "success": 0,
+     "power": 10
+    },
+    "medal_compat": 17
+   },
+   "C": {
+    "technique": 36,
+    "speciality": 6,
+    "success": 0,
+    "power": 21,
+    "effect": "booster",
+    "navi": {
+     "action": 3,
+     "success": 0,
+     "power": 26
+    },
+    "medal_compat": 17
+   }
+  }
+ }
+}

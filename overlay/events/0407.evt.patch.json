@@ -1,0 +1,12 @@
+{
+ "base_sha1": "618bb5ed7bd99c404b8f32078c5d34927501aecc",
+ "ops": [
+  [
+   4,
+   5,
+   [
+    "Start_Battle battle=237, battle_mode_flags=0x00, post_battle_mode_flags=0x00"
+   ]
+  ]
+ ]
+}

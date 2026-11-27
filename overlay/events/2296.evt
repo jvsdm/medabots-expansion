@@ -1,0 +1,12 @@
+; roteiro 2296 (novo) - sala de medalhas da Nae no pos-jogo: gatilho em (1,4) da area 27 na fase 9 (logo depois da
+; porta) que deixa as 6 medalhas de novo escolhiveis (contador 1 dos roteiros 236-241). As ja pegas continuam fora
+; (Remove_Event_Permanently no roteiro de cada uma); pegar uma trava as outras como no jogo, e ao sair e entrar a sala
+; reabre (o gatilho sai so ate a proxima entrada na sala: sem isso ele dispara sem parar e trava o jogador): assim saem as 3 que ficaram para tras (a Nae deixa escolher 3 de 6 na historia: roteiros 43, 317 e 1005).
+Set_Event_Variable event_id=236, value=1
+Set_Event_Variable event_id=237, value=1
+Set_Event_Variable event_id=238, value=1
+Set_Event_Variable event_id=239, value=1
+Set_Event_Variable event_id=240, value=1
+Set_Event_Variable event_id=241, value=1
+Remove_Event_Now event_id=2296
+End

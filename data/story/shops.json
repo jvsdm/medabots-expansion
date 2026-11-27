@@ -1,0 +1,12 @@
+{
+ "_doc": "Mudancas de loja do projeto: aplicadas em gShopStockWide por tools/decomp_expand.py (shop = 0..14, slot = 0..3, bot_id = id do bot do Core).",
+ "stock": [
+  {
+   "shop": 14,
+   "slot": 3,
+   "bot_id": 53,
+   "name": "core/warbandit",
+   "why": "loja do Ninja Park; Warbandit ficou sem luta (Koji so com Sumilidon), provisorio"
+  }
+ ]
+}

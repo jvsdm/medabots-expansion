@@ -1,0 +1,15 @@
+{
+ "base_sha1": "97f302f1c3857634568384398b3d6b0acaca4a5d",
+ "ops": [
+  [
+   10,
+   10,
+   [
+    "Get_Part bot=43, part=head, amount=1",
+    "Get_Part bot=43, part=right, amount=1",
+    "Get_Part bot=43, part=left, amount=1",
+    "Get_Part bot=43, part=legs, amount=1"
+   ]
+  ]
+ ]
+}

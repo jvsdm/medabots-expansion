@@ -1,0 +1,29 @@
+{
+ "base_sha1": "e09cd225ba2e1a4dbebed52c4aa73ec60d77c653",
+ "ops": [
+  [
+   0,
+   2,
+   [
+    "; roteiro 1903 (banco 5, inicio 0x2841)  (+ luta do pós-jogo da versão japonesa)",
+    "Switch_Event_Counter @L_0003, @L_0014"
+   ]
+  ],
+  [
+   3,
+   4,
+   [
+    "Show_Message_A bank=16, id=34",
+    "Start_Battle battle=251, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Show_Message_A bank=16, id=35"
+   ]
+  ],
+  [
+   6,
+   7,
+   [
+    "L_0014:"
+   ]
+  ]
+ ]
+}

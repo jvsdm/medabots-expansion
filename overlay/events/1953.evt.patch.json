@@ -1,0 +1,42 @@
+{
+ "base_sha1": "9295d1a24c24a39357ccbddc381844e8f3f23471",
+ "ops": [
+  [
+   0,
+   1,
+   [
+    "; roteiro 1953 (banco 5, inicio 0x27E2)  (+ no pos-jogo, a medalha do caminho nao escolhido no Forte Fiyun)",
+    "; Na sala hexagonal o Koji pergunta se o Ikki vai atras do Dr. Meta-Evil (Penguin, roteiro 1823) ou para a sala de",
+    "; controle (Alien, roteiro 1928); so uma sai. Quem tem uma e nao a outra: cena 16/52, luta 253; vencendo, a outra.",
+    "Jump_If_Not_Has_Medal medal_id=14, jump=@SemPenguin",
+    "Jump_If_Not_Has_Medal medal_id=25, jump=@DaAlien",
+    "Normal:"
+   ]
+  ],
+  [
+   3,
+   3,
+   [
+    "SemPenguin:",
+    "Jump_If_Not_Has_Medal medal_id=25, jump=@VoltaNormal",
+    "Show_Message_A bank=16, id=52",
+    "Start_Battle battle=253, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Jump_If_Previous_Scene_Command_Failed jump=@Fim",
+    "Show_Message_A bank=16, id=53",
+    "Get_Medal medal=14",
+    "Fim:",
+    "End",
+    "VoltaNormal:",
+    "Relative_Long_Jump jump=@Normal",
+    "DaAlien:",
+    "Show_Message_A bank=16, id=52",
+    "Start_Battle battle=253, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Jump_If_Previous_Scene_Command_Failed jump=@Fim2",
+    "Show_Message_A bank=16, id=53",
+    "Get_Medal medal=25",
+    "Fim2:",
+    "End"
+   ]
+  ]
+ ]
+}

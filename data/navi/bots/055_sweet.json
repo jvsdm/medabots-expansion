@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 55,
+ "slug": "sweet",
+ "name": "Sweet",
+ "name_full": "Sweet",
+ "name_jp": "スィート",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 55,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "GHP-11NF",
+   "name_jp": "ビッググレア",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 60,
+    "success": 28,
+    "power": 11,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "GHP-12NF",
+   "name_jp": "カッパー",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 19,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 23,
+    "power": 11,
+    "chain_reaction": 0,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "GHP-13NF",
+   "name_jp": "リッピー",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 19,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 18,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 10,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "GHP-14NF",
+   "name_jp": "ジャンピ",
+   "stats": {
+    "medal_compat": 9,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 70,
+    "propulsion": 28,
+    "evasion": 22,
+    "defense": 42,
+    "proximity": 11,
+    "remoteness": 9,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

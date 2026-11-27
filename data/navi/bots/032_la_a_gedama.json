@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 32,
+ "slug": "la_a_gedama",
+ "name": "La A-Gedama",
+ "name_full": "La A-Gedama",
+ "name_jp": "ラ・ア・ゲダマー",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 32,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "RCD-01NF",
+   "name_jp": "アンモディファイ",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 29,
+    "speciality": 4,
+    "female": 0,
+    "armor": 45,
+    "success": 27,
+    "power": 51,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "RCD-02NF",
+   "name_jp": "ラードハンマ",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "success": 22,
+    "power": 13,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 6,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "RCD-03NF",
+   "name_jp": "スエットハンマ",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 1,
+    "female": 0,
+    "armor": 30,
+    "success": 16,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 7,
+    "radiation": 7,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "RCD-04NF",
+   "name_jp": "タマラン",
+   "stats": {
+    "medal_compat": 0,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 23,
+    "evasion": 32,
+    "defense": 31,
+    "proximity": 19,
+    "remoteness": 0,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

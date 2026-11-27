@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 140,
+ "slug": "cameo_stag",
+ "name": "Cameo Stag",
+ "name_full": "Cameo Stag",
+ "name_jp": "カメオスタッグ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 140,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "KWG-91BX",
+   "name_jp": "ファイナルマーチ",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "success": 0,
+    "power": 24,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "booster"
+  },
+  "right_arm": {
+   "name": "KWG-92BX",
+   "name_jp": "ビートデス",
+   "stats": {
+    "medal_compat": 7,
+    "technique": 15,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "success": 26,
+    "power": 15,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 14,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KWG-93BX",
+   "name_jp": "ストライクデッド",
+   "stats": {
+    "medal_compat": 7,
+    "technique": 16,
+    "speciality": 1,
+    "female": 0,
+    "armor": 40,
+    "success": 6,
+    "power": 42,
+    "chain_reaction": 1,
+    "uses_or_charge": 15,
+    "radiation": 13,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KWG-94BX",
+   "name_jp": "トリックライド",
+   "stats": {
+    "medal_compat": 7,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 28,
+    "evasion": 46,
+    "defense": 13,
+    "proximity": 22,
+    "remoteness": 6,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

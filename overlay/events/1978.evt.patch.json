@@ -1,0 +1,12 @@
+{
+ "base_sha1": "35eb42df315024b12ad0ebee284b6d4a65f1b9b9",
+ "ops": [
+  [
+   10,
+   10,
+   [
+    "Update_Overworld_Event_Mode_Flags mode_control=65"
+   ]
+  ]
+ ]
+}

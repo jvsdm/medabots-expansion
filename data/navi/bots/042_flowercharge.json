@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 42,
+ "slug": "flowercharge",
+ "name": "Flowercharge",
+ "name_full": "Flowercharge",
+ "name_jp": "フラワーチャージ",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 42,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "FLW-01NF",
+   "name_jp": "ワイルドフラワー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 2,
+    "female": 0,
+    "armor": 24,
+    "success": 17,
+    "power": 41,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FLW-02NF",
+   "name_jp": "ワイルドグロウ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 39,
+    "speciality": 6,
+    "female": 0,
+    "armor": 30,
+    "success": 0,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 1,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "FLW-03NF",
+   "name_jp": "ワイルドヘルズ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 39,
+    "speciality": 6,
+    "female": 0,
+    "armor": 30,
+    "success": 0,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 1,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "FLW-04NF",
+   "name_jp": "ルート",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 25,
+    "propulsion": 28,
+    "evasion": 43,
+    "defense": 25,
+    "proximity": 17,
+    "remoteness": 9,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

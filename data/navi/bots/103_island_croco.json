@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 103,
+ "slug": "island_croco",
+ "name": "Island Croco",
+ "name_full": "Island Croco",
+ "name_jp": "アイランドクロコ",
+ "leg_type": "Aquatic",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 103,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "SHK-01NH",
+   "name_jp": "スピードスキン",
+   "stats": {
+    "medal_compat": 16,
+    "technique": 35,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 20,
+    "power": 10,
+    "chain_reaction": 1,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "SHK-02NH",
+   "name_jp": "ロウスキン",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 20,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "SHK-03NH",
+   "name_jp": "コーズスキン",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 15,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "SHK-04NH",
+   "name_jp": "ラクサリィ",
+   "stats": {
+    "medal_compat": 12,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "propulsion": 33,
+    "evasion": 42,
+    "defense": 37,
+    "proximity": 19,
+    "remoteness": 7,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

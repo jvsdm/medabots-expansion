@@ -1,0 +1,41 @@
+; roteiro 2293 (novo) - luta do Koishimaru, portada do roteiro 2289 da Medarot 2 Core (J): pisar na entrada da area 69
+; (7,2) na fase 9 (ligado no fim do 1026, desligado no 157). Milky (sprite 19) traz o mascarado (sprite 179); a luta
+; 252 copia o time do jogador (koishimaru_copy_team). Falas no banco 16 ids 36-41 (J banco 15 ids 335-340).
+Move_Player step1=west+3, step2=south+2, step3=unused, step4=unused
+Wait_X_Frames frames=16
+Player_Face_Direction dir=west
+Wait_X_Frames frames=16
+Player_Face_Direction dir=east
+Wait_X_Frames frames=16
+Player_Face_Direction dir=west
+Wait_X_Frames frames=60
+Move_Player step1=north+1, step2=east+1, step3=unused, step4=unused
+Wait_X_Frames frames=60
+Player_Face_Direction dir=west
+Wait_X_Frames frames=16
+Show_Effect effect_id=5, x=3, y=3
+Initiate_Actor packed_actor_id=0, sprite_id=19, x=3, y=3
+Flicker_Actor tracked_object_slot=0, frames=60
+Player_Hop_In_Place
+Show_Message_A bank=16, id=36
+Player_Hop_In_Place
+Show_Message_A bank=16, id=37
+Hop_Actor tracked_object_slot=0
+Hop_Actor tracked_object_slot=0
+Show_Message_A bank=16, id=38
+Show_Effect effect_id=5, x=4, y=3
+Initiate_Actor packed_actor_id=1, sprite_id=179, x=4, y=3
+Flicker_Actor tracked_object_slot=1, frames=60
+Show_Message_A bank=16, id=39
+Start_Battle battle=252, battle_mode_flags=0x01, post_battle_mode_flags=0x11
+Show_Message_A bank=16, id=40
+Show_Effect effect_id=5, x=4, y=3
+Flicker_Actor tracked_object_slot=1, frames=60
+Unload_Actor packed_actor_id=1
+Show_Message_A bank=16, id=41
+Show_Effect effect_id=5, x=3, y=3
+Flicker_Actor tracked_object_slot=0, frames=60
+Unload_Actor packed_actor_id=0
+Remove_Event_Permanently event_id=2293
+Load_Entities
+End

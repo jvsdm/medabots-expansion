@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 91,
+ "slug": "nuts_cracker",
+ "name": "Nuts Cracker",
+ "name_full": "Nuts Cracker",
+ "name_jp": "ナッツクラッカー",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 91,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "CPM-01NF",
+   "name_jp": "ワルナッツ",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 48,
+    "speciality": 1,
+    "female": 0,
+    "armor": 31,
+    "success": 27,
+    "power": 30,
+    "chain_reaction": 1,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "CPM-02NF",
+   "name_jp": "ナッツメンド",
+   "stats": {
+    "medal_compat": 10,
+    "technique": 22,
+    "speciality": 5,
+    "female": 0,
+    "armor": 40,
+    "success": 24,
+    "power": 18,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "CPM-03NF",
+   "name_jp": "ナッツドーン",
+   "stats": {
+    "medal_compat": 10,
+    "technique": 22,
+    "speciality": 5,
+    "female": 0,
+    "armor": 40,
+    "success": 20,
+    "power": 23,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "CPM-04NF",
+   "name_jp": "フロントホールド",
+   "stats": {
+    "medal_compat": 10,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 43,
+    "evasion": 27,
+    "defense": 36,
+    "proximity": 8,
+    "remoteness": 15,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

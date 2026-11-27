@@ -1,0 +1,41 @@
+; roteiro 2289 (novo) - revanches do Medalink (terminal); contador 0 = fechado, 1 = aberto (ligado no fim do 1011)
+Switch_Event_Counter @L_FECHADO, @L_ABERTO
+L_FECHADO:
+Show_Message_A bank=4, id=69
+End
+L_ABERTO:
+Show_Message_A bank=16, id=6
+Show_Message_A bank=16, id=7
+Yes_or_No_Box jump=@L_N0
+Show_Message_A bank=4, id=66
+Play_Sound sound_id=10
+Start_Battle battle=27, battle_mode_flags=0x00, post_battle_mode_flags=0x00
+Show_Message_A bank=4, id=71
+End
+L_N0:
+Show_Message_A bank=16, id=8
+Yes_or_No_Box jump=@L_N1
+Show_Message_A bank=4, id=66
+Play_Sound sound_id=10
+Start_Battle battle=44, battle_mode_flags=0x00, post_battle_mode_flags=0x00
+Show_Message_A bank=4, id=71
+End
+L_N1:
+Show_Message_A bank=16, id=9
+Yes_or_No_Box jump=@L_N2
+Show_Message_A bank=4, id=66
+Play_Sound sound_id=10
+Start_Battle battle=140, battle_mode_flags=0x00, post_battle_mode_flags=0x00
+Show_Message_A bank=4, id=71
+End
+L_N2:
+Show_Message_A bank=16, id=10
+Yes_or_No_Box jump=@L_N3
+Show_Message_A bank=4, id=66
+Play_Sound sound_id=10
+Start_Battle battle=72, battle_mode_flags=0x00, post_battle_mode_flags=0x00
+Show_Message_A bank=4, id=71
+End
+L_N3:
+Show_Message_A bank=4, id=71
+End

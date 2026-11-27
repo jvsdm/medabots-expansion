@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 147,
+ "slug": "rollstar",
+ "name": "Rollstar",
+ "name_full": "Rollstar",
+ "name_jp": "ロールスター",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 147,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "RAY-01BH",
+   "name_jp": "プラズマレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 5,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 12,
+    "power": 44,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "RAY-02BH",
+   "name_jp": "ついびレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 5,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 12,
+    "power": 24,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 13,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "RAY-03BH",
+   "name_jp": "おっかけレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 5,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 5,
+    "power": 45,
+    "chain_reaction": 0,
+    "uses_or_charge": 12,
+    "radiation": 11,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "RAY-04BH",
+   "name_jp": "ストーカー",
+   "stats": {
+    "medal_compat": 2,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 63,
+    "evasion": 12,
+    "defense": 36,
+    "proximity": 0,
+    "remoteness": 15,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

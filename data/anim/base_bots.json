@@ -1,0 +1,3 @@
+{
+ "_doc": "Ajustes de animacao por peca dos bots do jogo base (ids 0..119), que nao tem JSON proprio. Chave = id do bot; pecas head/right_arm/left_arm/legs; anim = roteiro de golpe (data/anim/seq) que a peca toca no lugar do da sua tecnica; emit = [dx, dy] onde saem os tiros. Ex.: \"43\": {\"right_arm\": {\"anim\": 60, \"emit\": [0, 4]}}. Bots novos usam os mesmos campos no JSON da peca."
+}

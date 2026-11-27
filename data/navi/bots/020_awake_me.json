@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 20,
+ "slug": "awake_me",
+ "name": "Awake Me",
+ "name_full": "Awake Me",
+ "name_jp": "アウェイクミー",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 20,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "OWL-01NF",
+   "name_jp": "グッドスタディ",
+   "stats": {
+    "medal_compat": 10,
+    "technique": 23,
+    "speciality": 7,
+    "female": 0,
+    "armor": 48,
+    "success": 20,
+    "power": 40,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "OWL-02NF",
+   "name_jp": "インスペクト",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 40,
+    "success": 20,
+    "power": 15,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "force_up"
+  },
+  "left_arm": {
+   "name": "OWL-03NF",
+   "name_jp": "プローブ",
+   "stats": {
+    "medal_compat": 22,
+    "technique": 50,
+    "speciality": 7,
+    "female": 0,
+    "armor": 40,
+    "success": 17,
+    "power": 26,
+    "chain_reaction": 0,
+    "uses_or_charge": 9,
+    "radiation": 10,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "OWL-04NF",
+   "name_jp": "ルーズリー",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 80,
+    "propulsion": 8,
+    "evasion": 14,
+    "defense": 44,
+    "proximity": 8,
+    "remoteness": 9,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

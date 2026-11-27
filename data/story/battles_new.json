@@ -1,0 +1,51 @@
+{
+ "battles": [
+  {
+   "id": 246,
+   "name": "Rintaro (J, Medabot Island)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 247,
+   "name": "Pai do Ikki (J)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 248,
+   "name": "Mae do Ikki (J)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 249,
+   "name": "Cozinheiro (J, restaurante)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 250,
+   "name": "Salty (J)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 251,
+   "name": "Harvey (J, personagem 96)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 252,
+   "name": "Koishimaru (J, personagem 97; time copiado do jogador)",
+   "from": "core_kuwagata_j"
+  },
+  {
+   "id": 253,
+   "name": "Pesquisador do Forte Fiyun (pos-jogo, roteiro 1953): Penguin ou Alien que faltou; grupo 92 com personagem 27 e nivel 75/70/65",
+   "from": "rokusho_us",
+   "group": 92,
+   "char": 27,
+   "levels": [
+    75,
+    70,
+    65
+   ]
+  }
+ ]
+}

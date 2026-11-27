@@ -1,0 +1,12 @@
+{
+ "base_sha1": "1ca50d979f8032d8fd5075aeb0a4b5f20e43f449",
+ "ops": [
+  [
+   149,
+   149,
+   [
+    "Remove_Event_Permanently event_id=2293"
+   ]
+  ]
+ ]
+}

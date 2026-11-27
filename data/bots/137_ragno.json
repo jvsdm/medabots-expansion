@@ -1,0 +1,114 @@
+{
+ "bot_id": 137,
+ "name": "RAGNO",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 15 (RAG-0 ラグノー).",
+ "palette_family": 2,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 15,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "FARE",
+   "name_jp": "ファーレ",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 10,
+    "speciality": 4,
+    "female": 1,
+    "armor": 35,
+    "success": 21,
+    "power": 26,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FADEN",
+   "name_jp": "ファデン",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 10,
+    "speciality": 4,
+    "female": 1,
+    "armor": 45,
+    "success": 28,
+    "power": 13,
+    "chain_reaction": 0,
+    "uses_or_charge": 12,
+    "radiation": 6,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "NASUTO",
+   "name_jp": "ナスト",
+   "stats": {
+    "medal_compat": 5,
+    "technique": 10,
+    "speciality": 4,
+    "female": 1,
+    "armor": 45,
+    "success": 14,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 15,
+    "radiation": 8,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "ZOHA",
+   "name_jp": "ゾーハ",
+   "stats": {
+    "medal_compat": 5,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 1,
+    "armor": 20,
+    "propulsion": 23,
+    "evasion": 20,
+    "defense": 90,
+    "proximity": 19,
+    "remoteness": 6,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

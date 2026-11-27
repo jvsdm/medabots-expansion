@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 27,
+ "slug": "aquarius",
+ "name": "Aquarius",
+ "name_full": "Aquarius",
+ "name_jp": "アクエリアス",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 27,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "AQR-01NF",
+   "name_jp": "スプレンダー",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 39,
+    "speciality": 6,
+    "female": 0,
+    "armor": 70,
+    "success": 0,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "AQR-02NF",
+   "name_jp": "マグニフィス",
+   "stats": {
+    "medal_compat": 23,
+    "technique": 51,
+    "speciality": 4,
+    "female": 0,
+    "armor": 30,
+    "success": 15,
+    "power": 40,
+    "chain_reaction": 0,
+    "uses_or_charge": 16,
+    "radiation": 21,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "AQR-03NF",
+   "name_jp": "ゴルジオス",
+   "stats": {
+    "medal_compat": 23,
+    "technique": 52,
+    "speciality": 4,
+    "female": 0,
+    "armor": 30,
+    "success": 12,
+    "power": 44,
+    "chain_reaction": 1,
+    "uses_or_charge": 16,
+    "radiation": 21,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "AQR-04NF",
+   "name_jp": "ソリチュード",
+   "stats": {
+    "medal_compat": 23,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 120,
+    "propulsion": 7,
+    "evasion": 6,
+    "defense": 30,
+    "proximity": 13,
+    "remoteness": 17,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 149,
+ "slug": "megaphant",
+ "name": "Megaphant",
+ "name_full": "Megaphant",
+ "name_jp": "メガファント",
+ "leg_type": "Tank",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 149,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "ELF-01BH",
+   "name_jp": "トランプル",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 0,
+    "female": 0,
+    "armor": 55,
+    "success": 30,
+    "power": 30,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ELF-02BH",
+   "name_jp": "ライトガード",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 148,
+    "success": 24,
+    "power": 15,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 17,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "ELF-03BH",
+   "name_jp": "グレートシールド",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 148,
+    "success": 24,
+    "power": 18,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 17,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "ELF-04BH",
+   "name_jp": "アッシー",
+   "stats": {
+    "medal_compat": 12,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 110,
+    "propulsion": 0,
+    "evasion": 6,
+    "defense": 12,
+    "proximity": 11,
+    "remoteness": 15,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

@@ -1,0 +1,165 @@
+{
+ "pack": "navi",
+ "navi_id": 78,
+ "slug": "circred",
+ "name": "Circred",
+ "name_full": "Circred",
+ "name_jp": "サークレッド",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 78,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "SRN-01NF",
+   "name_jp": "エッセンス",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 45,
+    "success": 12,
+    "power": 8,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "SRN-02NF",
+   "name_jp": "ファシスネイト",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 30,
+    "success": 12,
+    "power": 14,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "force_up"
+  },
+  "left_arm": {
+   "name": "SRN-03NF",
+   "name_jp": "アピィリング",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 30,
+    "success": 0,
+    "power": 18,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "force_up"
+  },
+  "legs": {
+   "name": "SRN-04NF",
+   "name_jp": "コールミー",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 23,
+    "evasion": 27,
+    "defense": 12,
+    "proximity": 13,
+    "remoteness": 9,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 100,
+   "propulsion": 72,
+   "evasion": 43,
+   "defense": 61,
+   "proximity": 19,
+   "remoteness": 23
+  },
+  "legs_navi": {
+   "propulsion": 92,
+   "evasion": 49,
+   "defense": 58,
+   "proximity": 24,
+   "remoteness": 41
+  },
+  "drives": {
+   "A": {
+    "technique": 54,
+    "speciality": 4,
+    "success": 0,
+    "power": 14,
+    "effect": "none",
+    "navi": {
+     "action": 53,
+     "success": 0,
+     "power": 13
+    },
+    "medal_compat": 24
+   },
+   "B": {
+    "technique": 12,
+    "speciality": 4,
+    "success": 0,
+    "power": 0,
+    "effect": "none",
+    "navi": {
+     "action": 35,
+     "success": 0,
+     "power": 0
+    },
+    "medal_compat": 5
+   },
+   "C": {
+    "technique": 33,
+    "speciality": 5,
+    "success": 0,
+    "power": 0,
+    "effect": "none",
+    "navi": {
+     "action": 36,
+     "success": 0,
+     "power": 0
+    },
+    "medal_compat": 14
+   }
+  }
+ }
+}

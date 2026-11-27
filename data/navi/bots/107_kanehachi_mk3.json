@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 107,
+ "slug": "kanehachi_mk3",
+ "name": "Kanehachi Mk3",
+ "name_full": "Kanehachi Mk3",
+ "name_jp": "カネハチまーく3",
+ "leg_type": "Aquatic",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 107,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "OCT-01NF",
+   "name_jp": "チャイニィインク",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 3,
+    "female": 0,
+    "armor": 40,
+    "success": 14,
+    "power": 60,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "OCT-02NF",
+   "name_jp": "ボールアーム",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 46,
+    "speciality": 7,
+    "female": 0,
+    "armor": 65,
+    "success": 28,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 8,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "OCT-03NF",
+   "name_jp": "ラウンドアーム",
+   "stats": {
+    "medal_compat": 20,
+    "technique": 46,
+    "speciality": 7,
+    "female": 0,
+    "armor": 65,
+    "success": 23,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 8,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "OCT-04NF",
+   "name_jp": "シャープマズル",
+   "stats": {
+    "medal_compat": 20,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 60,
+    "propulsion": 12,
+    "evasion": 68,
+    "defense": 42,
+    "proximity": 16,
+    "remoteness": 15,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

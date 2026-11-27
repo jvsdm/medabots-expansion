@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 51,
+ "slug": "medakeeper",
+ "name": "Medakeeper",
+ "name_full": "Medakeeper",
+ "name_jp": "メダキーパー",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 51,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "SCR-01NX",
+   "name_jp": "メチャスロー",
+   "stats": {
+    "medal_compat": 1,
+    "technique": 2,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 13,
+    "power": 27,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "vacuum"
+  },
+  "right_arm": {
+   "name": "SCR-02NX",
+   "name_jp": "ガッチリゲット",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 29,
+    "speciality": 4,
+    "female": 0,
+    "armor": 50,
+    "success": 18,
+    "power": 27,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 18,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "SCR-03NX",
+   "name_jp": "チャントキャッチ",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 29,
+    "speciality": 4,
+    "female": 0,
+    "armor": 50,
+    "success": 13,
+    "power": 39,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 18,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "SCR-04NX",
+   "name_jp": "モットコーイ",
+   "stats": {
+    "medal_compat": 12,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 40,
+    "evasion": 19,
+    "defense": 36,
+    "proximity": 14,
+    "remoteness": 12,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

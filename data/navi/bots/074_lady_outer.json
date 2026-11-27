@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 74,
+ "slug": "lady_outer",
+ "name": "Lady Outer",
+ "name_full": "Lady Outer",
+ "name_jp": "レディアウター",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 74,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "OSD-11NF",
+   "name_jp": "トゥースピック",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 0,
+    "speciality": 0,
+    "female": 0,
+    "armor": 31,
+    "success": 43,
+    "power": 24,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "OSD-12NF",
+   "name_jp": "サイダー",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 85,
+    "success": 15,
+    "power": 16,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 13,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "OSD-13NF",
+   "name_jp": "ソーダー",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 29,
+    "speciality": 4,
+    "female": 0,
+    "armor": 40,
+    "success": 18,
+    "power": 36,
+    "chain_reaction": 0,
+    "uses_or_charge": 13,
+    "radiation": 17,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "OSD-14NF",
+   "name_jp": "ジャーニー",
+   "stats": {
+    "medal_compat": 12,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 28,
+    "evasion": 32,
+    "defense": 24,
+    "proximity": 16,
+    "remoteness": 13,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

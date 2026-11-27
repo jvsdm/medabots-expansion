@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 87,
+ "slug": "fatty_pig",
+ "name": "Fatty Pig",
+ "name_full": "Fatty Pig",
+ "name_jp": "ファッティピッグ",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 87,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "PIG-01NF",
+   "name_jp": "タップンプットン",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 41,
+    "speciality": 6,
+    "female": 0,
+    "armor": 60,
+    "success": 14,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "PIG-02NF",
+   "name_jp": "ホードップ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 14,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "PIG-03NF",
+   "name_jp": "ストアップ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 13,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "PIG-04NF",
+   "name_jp": "ロータリーチェア",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 70,
+    "propulsion": 43,
+    "evasion": 17,
+    "defense": 37,
+    "proximity": 8,
+    "remoteness": 11,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

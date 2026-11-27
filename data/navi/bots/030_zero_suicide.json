@@ -1,0 +1,108 @@
+{
+ "pack": "navi",
+ "navi_id": 30,
+ "slug": "zero_suicide",
+ "name": "Zero-Suicide",
+ "name_full": "Zero-Suicide",
+ "name_jp": "ゼロスーサイド",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 30,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "KOL-01NF",
+   "name_jp": "メイントライフ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 41,
+    "speciality": 6,
+    "female": 0,
+    "armor": 70,
+    "success": 11,
+    "power": 16,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "level_drain",
+   "effect_amount": 15
+  },
+  "right_arm": {
+   "name": "KOL-02NF",
+   "name_jp": "ライフフォース",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 0,
+    "speciality": 0,
+    "female": 0,
+    "armor": 80,
+    "success": 12,
+    "power": 33,
+    "chain_reaction": 1,
+    "uses_or_charge": 17,
+    "radiation": 16,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "KOL-03NF",
+   "name_jp": "ライフブラッド",
+   "stats": {
+    "medal_compat": 24,
+    "technique": 54,
+    "speciality": 4,
+    "female": 0,
+    "armor": 85,
+    "success": 11,
+    "power": 32,
+    "chain_reaction": 0,
+    "uses_or_charge": 20,
+    "radiation": 28,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "KOL-04NF",
+   "name_jp": "ライフレス",
+   "stats": {
+    "medal_compat": 0,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 75,
+    "propulsion": 23,
+    "evasion": 38,
+    "defense": 48,
+    "proximity": 17,
+    "remoteness": 9,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

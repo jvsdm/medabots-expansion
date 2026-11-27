@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 18,
+ "slug": "flying_of",
+ "name": "Flying Of",
+ "name_full": "Flying Of",
+ "name_jp": "フライング・オブ",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 18,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "TCN-01NF",
+   "name_jp": "サンカクヘッド",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 38,
+    "speciality": 6,
+    "female": 0,
+    "armor": 70,
+    "success": 20,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "TCN-02NF",
+   "name_jp": "スプレッドボディ",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 49,
+    "speciality": 3,
+    "female": 0,
+    "armor": 20,
+    "success": 28,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 19,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "TCN-03NF",
+   "name_jp": "フラットボディ",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 49,
+    "speciality": 3,
+    "female": 0,
+    "armor": 20,
+    "success": 23,
+    "power": 34,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 19,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "TCN-04NF",
+   "name_jp": "ショートテール",
+   "stats": {
+    "medal_compat": 21,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 101,
+    "propulsion": 8,
+    "evasion": 0,
+    "defense": 61,
+    "proximity": 8,
+    "remoteness": 12,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

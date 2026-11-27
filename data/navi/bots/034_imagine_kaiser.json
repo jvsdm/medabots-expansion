@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 34,
+ "slug": "imagine_kaiser",
+ "name": "Img.Kaiser",
+ "name_full": "Imagine Kaiser",
+ "name_jp": "イマジンカイザー",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 34,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "WEA-01NF",
+   "name_jp": "カイザーブレイク",
+   "stats": {
+    "medal_compat": 4,
+    "technique": 8,
+    "speciality": 3,
+    "female": 0,
+    "armor": 31,
+    "success": 33,
+    "power": 23,
+    "chain_reaction": 1,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "WEA-02NF",
+   "name_jp": "カイザーミサイル",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 6,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 20,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 13,
+    "radiation": 11,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "WEA-03NF",
+   "name_jp": "カイザーレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 12,
+    "power": 35,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 18,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "WEA-04NF",
+   "name_jp": "カイザーシート",
+   "stats": {
+    "medal_compat": 3,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "propulsion": 23,
+    "evasion": 32,
+    "defense": 37,
+    "proximity": 13,
+    "remoteness": 11,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

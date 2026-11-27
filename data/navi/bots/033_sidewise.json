@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 33,
+ "slug": "sidewise",
+ "name": "Sidewise",
+ "name_full": "Sidewise",
+ "name_jp": "サイドワイズ",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 33,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "LZD-21NF",
+   "name_jp": "シャープシュート",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 2,
+    "female": 0,
+    "armor": 45,
+    "success": 26,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "scope"
+  },
+  "right_arm": {
+   "name": "LZD-22NF",
+   "name_jp": "ラジエートヒータ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 39,
+    "speciality": 6,
+    "female": 0,
+    "armor": 40,
+    "success": 0,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 1,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "LZD-23NF",
+   "name_jp": "ギガアウトプット",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 12,
+    "power": 60,
+    "chain_reaction": 1,
+    "uses_or_charge": 28,
+    "radiation": 23,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "LZD-24NF",
+   "name_jp": "セットル",
+   "stats": {
+    "medal_compat": 19,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 23,
+    "evasion": 32,
+    "defense": 40,
+    "proximity": 14,
+    "remoteness": 8,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

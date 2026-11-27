@@ -1,0 +1,26 @@
+{
+ "base_sha1": "c6ecda4f5a99beb9feba402880d9e3c93af58851",
+ "ops": [
+  [
+   1,
+   3,
+   [
+    "; baú da QUEEN em Mt. Odori (lado direito): 1a vez a QUEEN; 2a vez a fala nova e a JELLYFISH; depois \"The box is empty.\"",
+    "Switch_Event_Counter @L_0004, @L_000B, @L_0016",
+    "L_0004:"
+   ]
+  ],
+  [
+   6,
+   7,
+   [
+    "L_000B:",
+    "Show_Message_A bank=16, id=2",
+    "Get_Medal medal=3",
+    "Set_Event_Variable event_id=2101, value=2",
+    "End",
+    "L_0016:"
+   ]
+  ]
+ ]
+}

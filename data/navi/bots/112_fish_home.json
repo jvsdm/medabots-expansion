@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 112,
+ "slug": "fish_home",
+ "name": "Fish Home",
+ "name_full": "Fish Home",
+ "name_jp": "フィッシュホーム",
+ "leg_type": "Aquatic",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 112,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "CRR-01NF",
+   "name_jp": "リビングルーム",
+   "stats": {
+    "medal_compat": 16,
+    "technique": 35,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 20,
+    "power": 13,
+    "chain_reaction": 1,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "CRR-02NF",
+   "name_jp": "ドアーズアイ",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 85,
+    "success": 13,
+    "power": 16,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "CRR-03NF",
+   "name_jp": "ウォールイヤー",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 85,
+    "success": 12,
+    "power": 20,
+    "chain_reaction": 0,
+    "uses_or_charge": 10,
+    "radiation": 11,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "CRR-04NF",
+   "name_jp": "プラスター",
+   "stats": {
+    "medal_compat": 12,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "propulsion": 23,
+    "evasion": 63,
+    "defense": 30,
+    "proximity": 20,
+    "remoteness": 11,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

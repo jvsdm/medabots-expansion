@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 58,
+ "slug": "sonic_stag",
+ "name": "Sonic Stag",
+ "name_full": "Sonic Stag",
+ "name_jp": "ソニックスタッグ",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 58,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "X-Ray",
+   "name_jp": "エクスレイ",
+   "stats": {
+    "medal_compat": 18,
+    "technique": 37,
+    "speciality": 6,
+    "female": 0,
+    "armor": 50,
+    "success": 32,
+    "power": 23,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "Slide Sword",
+   "name_jp": "スライドソード",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 0,
+    "speciality": 0,
+    "female": 0,
+    "armor": 30,
+    "success": 36,
+    "power": 11,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 6,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "Brachi Hammer",
+   "name_jp": "ブラッキハンマー",
+   "stats": {
+    "medal_compat": 0,
+    "technique": 1,
+    "speciality": 1,
+    "female": 0,
+    "armor": 30,
+    "success": 26,
+    "power": 20,
+    "chain_reaction": 1,
+    "uses_or_charge": 6,
+    "radiation": 6,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "Outstrip",
+   "name_jp": "アウトストリップ",
+   "stats": {
+    "medal_compat": 0,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 60,
+    "propulsion": 28,
+    "evasion": 38,
+    "defense": 30,
+    "proximity": 19,
+    "remoteness": 6,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 100,
+   "propulsion": 96,
+   "evasion": 68,
+   "defense": 72,
+   "proximity": 22,
+   "remoteness": 20
+  },
+  "legs_navi": {
+   "propulsion": 99,
+   "evasion": 60,
+   "defense": 68,
+   "proximity": 39,
+   "remoteness": 29
+  },
+  "drives": {
+   "A": {
+    "technique": 0,
+    "speciality": 0,
+    "success": 54,
+    "power": 27,
+    "effect": "none",
+    "navi": {
+     "action": 0,
+     "success": 75,
+     "power": 30
+    },
+    "medal_compat": 0
+   },
+   "B": {
+    "technique": 34,
+    "speciality": 2,
+    "success": 22,
+    "power": 10,
+    "effect": "none",
+    "navi": {
+     "action": 26,
+     "success": 41,
+     "power": 6
+    },
+    "medal_compat": 15
+   },
+   "C": {
+    "technique": 35,
+    "speciality": 2,
+    "success": 22,
+    "power": 10,
+    "effect": "none",
+    "navi": {
+     "action": 27,
+     "success": 41,
+     "power": 6
+    },
+    "medal_compat": 16
+   }
+  }
+ }
+}

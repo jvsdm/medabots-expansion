@@ -1,0 +1,30 @@
+{
+ "base_sha1": "5cebb6b55ec854391be855aa323b4fba4cf04c3b",
+ "ops": [
+  [
+   0,
+   1,
+   [
+    "; roteiro 444 (banco 5, inicio 0x1E30)  (+ luta do pós-jogo da versão japonesa)",
+    "Switch_Event_Counter @L_0003, @L_0008",
+    "L_0003:"
+   ]
+  ],
+  [
+   3,
+   3,
+   [
+    "L_0008:",
+    "Show_Message_A bank=16, id=22",
+    "Start_Battle battle=246, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Hop_Event_NPC",
+    "Wait_X_Frames frames=5",
+    "Hop_Event_NPC",
+    "Wait_X_Frames frames=5",
+    "Show_Message_A bank=16, id=23",
+    "Set_Event_Variable event_id=444, value=0",
+    "End"
+   ]
+  ]
+ ]
+}

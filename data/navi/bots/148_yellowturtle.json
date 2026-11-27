@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 148,
+ "slug": "yellowturtle",
+ "name": "Yellowturtle",
+ "name_full": "Yellowturtle",
+ "name_jp": "イエロータートル",
+ "leg_type": "Tank",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 148,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "TOT-01BH",
+   "name_jp": "バッテリー",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 39,
+    "speciality": 6,
+    "female": 0,
+    "armor": 70,
+    "success": 0,
+    "power": 10,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "TOT-02BH",
+   "name_jp": "ノーマルレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 2,
+    "female": 0,
+    "armor": 30,
+    "success": 14,
+    "power": 29,
+    "chain_reaction": 0,
+    "uses_or_charge": 22,
+    "radiation": 18,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "TOT-03BH",
+   "name_jp": "ハイパーレーザー",
+   "stats": {
+    "medal_compat": 2,
+    "technique": 4,
+    "speciality": 3,
+    "female": 0,
+    "armor": 30,
+    "success": 9,
+    "power": 50,
+    "chain_reaction": 0,
+    "uses_or_charge": 23,
+    "radiation": 23,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "TOT-04BH",
+   "name_jp": "コーラタンク",
+   "stats": {
+    "medal_compat": 2,
+    "leg_type": 105,
+    "speciality": 0,
+    "female": 0,
+    "armor": 120,
+    "propulsion": 8,
+    "evasion": 6,
+    "defense": 24,
+    "proximity": 4,
+    "remoteness": 18,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

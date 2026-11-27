@@ -1,0 +1,114 @@
+{
+ "bot_id": 158,
+ "name": "RINEL",
+ "notes": "Portado do Shingata Medarot (J) Kabuto, bot 37 (MED-0 リネル).",
+ "palette_family": 1,
+ "graphics_source": {
+  "rom": "1844 - Shingata Medarot - Kabuto Version (J)(Caravan).gba",
+  "bot": 37,
+  "tables": {
+   "part_stats": 4616760,
+   "bot_names": 4620996,
+   "part_names": 4622780,
+   "battle_sprites": 4591976,
+   "palette_family": 4630316,
+   "preview_head": 596632,
+   "preview_right_arm": 597624,
+   "preview_left_arm": 598616,
+   "preview_legs": 599608,
+   "preview_descriptors": 4696380,
+   "move_style": 4671700,
+   "mini_palettes": 5824672
+  }
+ },
+ "parts": {
+  "head": {
+   "name": "SAPENTE",
+   "name_jp": "サーペンテ",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 48,
+    "speciality": 1,
+    "female": 1,
+    "armor": 45,
+    "success": 14,
+    "power": 94,
+    "chain_reaction": 1,
+    "uses_or_charge": 2,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 33,
+    "u12": 32,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "PETEROKEMISERU",
+   "name_jp": "ペテロケミセルト",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 48,
+    "speciality": 1,
+    "female": 1,
+    "armor": 40,
+    "success": 10,
+    "power": 46,
+    "chain_reaction": 1,
+    "uses_or_charge": 7,
+    "radiation": 13,
+    "u10": 67,
+    "buy_price": 27,
+    "u12": 32,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "PETEROKEMIESUK",
+   "name_jp": "ペテロケミエスク",
+   "stats": {
+    "medal_compat": 21,
+    "technique": 48,
+    "speciality": 1,
+    "female": 1,
+    "armor": 40,
+    "success": 5,
+    "power": 72,
+    "chain_reaction": 1,
+    "uses_or_charge": 9,
+    "radiation": 16,
+    "u10": 67,
+    "buy_price": 27,
+    "u12": 32,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "PERUNAFEA",
+   "name_jp": "ペルーナフェア",
+   "stats": {
+    "medal_compat": 21,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 1,
+    "armor": 40,
+    "propulsion": 28,
+    "evasion": 32,
+    "defense": 35,
+    "proximity": 16,
+    "remoteness": 15,
+    "u10": 67,
+    "buy_price": 20,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ }
+}

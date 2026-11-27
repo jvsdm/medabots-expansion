@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 1,
+ "slug": "umbrebat",
+ "name": "Umbrebat",
+ "name_full": "Umbrebat",
+ "name_jp": "アンブルバット",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 1,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "BAT-11NX",
+   "name_jp": "アンブルヘッド",
+   "stats": {
+    "medal_compat": 18,
+    "technique": 37,
+    "speciality": 6,
+    "female": 0,
+    "armor": 15,
+    "success": 15,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "BAT-12NX",
+   "name_jp": "アンブルハンド",
+   "stats": {
+    "medal_compat": 15,
+    "technique": 34,
+    "speciality": 2,
+    "female": 0,
+    "armor": 20,
+    "success": 17,
+    "power": 10,
+    "chain_reaction": 1,
+    "uses_or_charge": 14,
+    "radiation": 14,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "BAT-13NX",
+   "name_jp": "アンブルアーム",
+   "stats": {
+    "medal_compat": 15,
+    "technique": 34,
+    "speciality": 2,
+    "female": 0,
+    "armor": 20,
+    "success": 15,
+    "power": 12,
+    "chain_reaction": 1,
+    "uses_or_charge": 14,
+    "radiation": 14,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "BAT-14NX",
+   "name_jp": "アンブルレッグ",
+   "stats": {
+    "medal_compat": 15,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 25,
+    "propulsion": 52,
+    "evasion": 27,
+    "defense": 48,
+    "proximity": 11,
+    "remoteness": 15,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

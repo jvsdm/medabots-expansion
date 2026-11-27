@@ -1,0 +1,107 @@
+{
+ "pack": "navi",
+ "navi_id": 47,
+ "slug": "yellow_crick",
+ "name": "Yellow Crick",
+ "name_full": "Yellow Crick",
+ "name_jp": "イエロークリック",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 47,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "CCC-01NF",
+   "name_jp": "キャメルホース",
+   "stats": {
+    "medal_compat": 17,
+    "technique": 36,
+    "speciality": 6,
+    "female": 0,
+    "armor": 31,
+    "success": 0,
+    "power": 1,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   },
+   "effect": "speed"
+  },
+  "right_arm": {
+   "name": "CCC-02NF",
+   "name_jp": "クッキンストーブ",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 13,
+    "speciality": 0,
+    "female": 0,
+    "armor": 50,
+    "success": 23,
+    "power": 11,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 8,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "CCC-03NF",
+   "name_jp": "キッチンレンジ",
+   "stats": {
+    "medal_compat": 6,
+    "technique": 13,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 18,
+    "power": 18,
+    "chain_reaction": 1,
+    "uses_or_charge": 9,
+    "radiation": 8,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "CCC-04NF",
+   "name_jp": "プルンベリー",
+   "stats": {
+    "medal_compat": 6,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 40,
+    "propulsion": 40,
+    "evasion": 19,
+    "defense": 42,
+    "proximity": 16,
+    "remoteness": 9,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 11,
+ "slug": "sweet_nectar",
+ "name": "Sweet Nectar",
+ "name_full": "Sweet Nectar",
+ "name_jp": "スイートネクター",
+ "leg_type": "Flying",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 11,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "HBE-11NF",
+   "name_jp": "アロマシロップ",
+   "stats": {
+    "medal_compat": 23,
+    "technique": 51,
+    "speciality": 4,
+    "female": 0,
+    "armor": 15,
+    "success": 15,
+    "power": 54,
+    "chain_reaction": 0,
+    "uses_or_charge": 4,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "HBE-12NF",
+   "name_jp": "ギャザーハニー",
+   "stats": {
+    "medal_compat": 23,
+    "technique": 51,
+    "speciality": 4,
+    "female": 0,
+    "armor": 20,
+    "success": 15,
+    "power": 28,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 18,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "HBE-13NF",
+   "name_jp": "コレクトハニー",
+   "stats": {
+    "medal_compat": 23,
+    "technique": 51,
+    "speciality": 4,
+    "female": 0,
+    "armor": 20,
+    "success": 14,
+    "power": 40,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 18,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "HBE-14NF",
+   "name_jp": "ストライプ",
+   "stats": {
+    "medal_compat": 23,
+    "leg_type": 100,
+    "speciality": 0,
+    "female": 0,
+    "armor": 20,
+    "propulsion": 46,
+    "evasion": 32,
+    "defense": 36,
+    "proximity": 11,
+    "remoteness": 21,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

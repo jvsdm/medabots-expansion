@@ -1,0 +1,47 @@
+{
+ "base_sha1": "d45409c03a525819267102b12808961ec748f297",
+ "ops": [
+  [
+   0,
+   3,
+   [
+    "; roteiro 137 (banco 5, inicio 0x0BD7)  (+ luta do pós-jogo da versão japonesa)",
+    "Switch_Event_Counter @L_0006, @L_000B, @L_0014, @L_0019, @L_001E",
+    "L_0006:"
+   ]
+  ],
+  [
+   5,
+   6,
+   [
+    "L_000B:"
+   ]
+  ],
+  [
+   9,
+   10,
+   [
+    "L_0014:"
+   ]
+  ],
+  [
+   12,
+   13,
+   [
+    "L_0019:"
+   ]
+  ],
+  [
+   15,
+   15,
+   [
+    "L_001E:",
+    "Show_Message_A bank=16, id=24",
+    "Start_Battle battle=247, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Show_Message_A bank=16, id=25",
+    "Set_Event_Variable event_id=137, value=3",
+    "End"
+   ]
+  ]
+ ]
+}

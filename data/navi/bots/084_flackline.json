@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 84,
+ "slug": "flackline",
+ "name": "Flackline",
+ "name_full": "Flackline",
+ "name_jp": "フラックライン",
+ "leg_type": "Wheeled",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 84,
+  "clone_for_missing_graphics": 77
+ },
+ "parts": {
+  "head": {
+   "name": "ANT-11NF",
+   "name_jp": "シュガーキューブ",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 35,
+    "success": 24,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 0,
+    "u10": 67,
+    "buy_price": 28,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ANT-12NF",
+   "name_jp": "ヴァリアス",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 57,
+    "speciality": 7,
+    "female": 0,
+    "armor": 30,
+    "success": 22,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "ANT-13NF",
+   "name_jp": "デヴィアス",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 56,
+    "speciality": 7,
+    "female": 0,
+    "armor": 30,
+    "success": 17,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 7,
+    "radiation": 8,
+    "u10": 67,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "ANT-14NF",
+   "name_jp": "ワークワーカー",
+   "stats": {
+    "medal_compat": 25,
+    "leg_type": 104,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 43,
+    "evasion": 13,
+    "defense": 36,
+    "proximity": 10,
+    "remoteness": 12,
+    "u10": 67,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

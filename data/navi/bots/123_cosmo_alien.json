@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 123,
+ "slug": "cosmo_alien",
+ "name": "Cosmo-Alien",
+ "name_full": "Cosmo-Alien",
+ "name_jp": "コスモエイリアン",
+ "leg_type": "Bipedal",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 123,
+  "clone_for_missing_graphics": 42
+ },
+ "parts": {
+  "head": {
+   "name": "ALN-01BH",
+   "name_jp": "ミュートボディ",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 47,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 69,
+    "buy_price": 54,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "ALN-02BH",
+   "name_jp": "ミュートハンド",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 36,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "ALN-03BH",
+   "name_jp": "ミュートアーム",
+   "stats": {
+    "medal_compat": 25,
+    "technique": 55,
+    "speciality": 7,
+    "female": 0,
+    "armor": 50,
+    "success": 30,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 8,
+    "radiation": 9,
+    "u10": 69,
+    "buy_price": 43,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "ALN-04BH",
+   "name_jp": "ミュートレッグ",
+   "stats": {
+    "medal_compat": 25,
+    "leg_type": 103,
+    "speciality": 0,
+    "female": 0,
+    "armor": 70,
+    "propulsion": 28,
+    "evasion": 17,
+    "defense": 25,
+    "proximity": 14,
+    "remoteness": 15,
+    "u10": 69,
+    "buy_price": 33,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

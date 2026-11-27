@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 29,
+ "slug": "giraffe_chief",
+ "name": "Giraffe Chief",
+ "name_full": "Giraffe Chief",
+ "name_jp": "ジラフチーフ",
+ "leg_type": "Multi-leg",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 29,
+  "clone_for_missing_graphics": 28
+ },
+ "parts": {
+  "head": {
+   "name": "GRF-11NF",
+   "name_jp": "トライブリィ",
+   "stats": {
+    "medal_compat": 19,
+    "technique": 39,
+    "speciality": 6,
+    "female": 0,
+    "armor": 35,
+    "success": 0,
+    "power": 6,
+    "chain_reaction": 0,
+    "uses_or_charge": 1,
+    "radiation": 0,
+    "u10": 43,
+    "buy_price": 22,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "GRF-12NF",
+   "name_jp": "ヘッドアンガー",
+   "stats": {
+    "medal_compat": 9,
+    "technique": 20,
+    "speciality": 1,
+    "female": 0,
+    "armor": 50,
+    "success": 14,
+    "power": 33,
+    "chain_reaction": 1,
+    "uses_or_charge": 18,
+    "radiation": 15,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "GRF-13NF",
+   "name_jp": "ヘッドプライド",
+   "stats": {
+    "medal_compat": 12,
+    "technique": 27,
+    "speciality": 4,
+    "female": 0,
+    "armor": 148,
+    "success": 15,
+    "power": 23,
+    "chain_reaction": 0,
+    "uses_or_charge": 14,
+    "radiation": 18,
+    "u10": 43,
+    "buy_price": 17,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "GRF-14NF",
+   "name_jp": "ヘッドメロウ",
+   "stats": {
+    "medal_compat": 9,
+    "leg_type": 102,
+    "speciality": 0,
+    "female": 0,
+    "armor": 35,
+    "propulsion": 43,
+    "evasion": 22,
+    "defense": 12,
+    "proximity": 16,
+    "remoteness": 0,
+    "u10": 43,
+    "buy_price": 13,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

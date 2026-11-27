@@ -1,0 +1,45 @@
+{
+ "base_sha1": "a29a4b02347f55ee05e401fa0e720e89d26acb0b",
+ "ops": [
+  [
+   0,
+   1,
+   [
+    "; roteiro 1372 (banco 5, inicio 0x3941)  (+ medalha \"?\" no pos-jogo para quem nao fez a rota da Karin)",
+    "; Ja tem a \"?\": fala e revanche de sempre. Sem a \"?\":",
+    ";   rota da Erika (afinidade dela >= 26, como no final 1026) e ja com a Cat: cena 16/42, luta 107; vencendo, a \"?\"",
+    ";   rota da propria Karin (afinidade dela >= 26): fala de sempre (a \"?\" vem pela lanchonete, roteiros 1480-1482/1371)",
+    ";   nenhuma rota: cena 16/48 e a \"?\" sem luta",
+    "Jump_If_Not_Has_Medal medal_id=27, jump=@SemQuestion",
+    "Normal:"
+   ]
+  ],
+  [
+   7,
+   7,
+   [
+    "SemQuestion:",
+    "Jump_If_Affinity_Below who=0, value=26, jump=@NaoErika",
+    "Jump_If_Not_Has_Medal medal_id=26, jump=@VoltaNormal",
+    "Show_Message_A bank=16, id=42",
+    "Start_Battle battle=107, battle_mode_flags=0x00, post_battle_mode_flags=0x00",
+    "Jump_If_Previous_Scene_Command_Failed jump=@Fim",
+    "Show_Message_A bank=16, id=43",
+    "Get_Medal medal=27",
+    "Show_Message_A bank=16, id=44",
+    "Fim:",
+    "End",
+    "VoltaNormal:",
+    "Relative_Long_Jump jump=@Normal",
+    "NaoErika:",
+    "Jump_If_Affinity_Below who=1, value=26, jump=@Nenhuma",
+    "Relative_Long_Jump jump=@Normal",
+    "Nenhuma:",
+    "Show_Message_A bank=16, id=48",
+    "Get_Medal medal=27",
+    "Show_Message_A bank=16, id=49",
+    "End"
+   ]
+  ]
+ ]
+}

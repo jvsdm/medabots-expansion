@@ -1,0 +1,163 @@
+{
+ "pack": "navi",
+ "navi_id": 23,
+ "slug": "mistral",
+ "name": "Mistral",
+ "name_full": "Mistral",
+ "name_jp": "ミストラル",
+ "leg_type": "Hover",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 23,
+  "clone_for_missing_graphics": 13
+ },
+ "parts": {
+  "head": {
+   "name": "MST-01NF",
+   "name_jp": "コンデンス",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 33,
+    "speciality": 5,
+    "female": 0,
+    "armor": 70,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 6,
+    "radiation": 0,
+    "u10": 52,
+    "buy_price": 29,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "MST-02NF",
+   "name_jp": "ヘイズ",
+   "stats": {
+    "medal_compat": 13,
+    "technique": 30,
+    "speciality": 5,
+    "female": 0,
+    "armor": 80,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 6,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "MST-03NF",
+   "name_jp": "フォグ",
+   "stats": {
+    "medal_compat": 14,
+    "technique": 32,
+    "speciality": 5,
+    "female": 0,
+    "armor": 80,
+    "success": 0,
+    "power": 0,
+    "chain_reaction": 0,
+    "uses_or_charge": 5,
+    "radiation": 6,
+    "u10": 52,
+    "buy_price": 23,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "MST-04NF",
+   "name_jp": "ファーティリー",
+   "stats": {
+    "medal_compat": 13,
+    "leg_type": 101,
+    "speciality": 0,
+    "female": 0,
+    "armor": 80,
+    "propulsion": 0,
+    "evasion": 0,
+    "defense": 0,
+    "proximity": 0,
+    "remoteness": 0,
+    "u10": 52,
+    "buy_price": 18,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": {
+  "legs": {
+   "leg_type": 101,
+   "propulsion": 8,
+   "evasion": 27,
+   "defense": 67,
+   "proximity": 22,
+   "remoteness": 21
+  },
+  "legs_navi": {
+   "propulsion": 6,
+   "evasion": 26,
+   "defense": 61,
+   "proximity": 34,
+   "remoteness": 34
+  },
+  "drives": {
+   "A": {
+    "technique": 33,
+    "speciality": 5,
+    "success": 0,
+    "power": 71,
+    "effect": "none",
+    "navi": {
+     "action": 45,
+     "success": 0,
+     "power": 99
+    },
+    "medal_compat": 14
+   },
+   "B": {
+    "technique": 30,
+    "speciality": 5,
+    "success": 0,
+    "power": 71,
+    "effect": "none",
+    "navi": {
+     "action": 43,
+     "success": 0,
+     "power": 99
+    },
+    "medal_compat": 13
+   },
+   "C": {
+    "technique": 32,
+    "speciality": 5,
+    "success": 0,
+    "power": 71,
+    "effect": "none",
+    "navi": {
+     "action": 44,
+     "success": 0,
+     "power": 99
+    },
+    "medal_compat": 14
+   }
+  }
+ }
+}

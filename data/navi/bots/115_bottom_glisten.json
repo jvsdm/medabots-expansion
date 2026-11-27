@@ -1,0 +1,106 @@
+{
+ "pack": "navi",
+ "navi_id": 115,
+ "slug": "bottom_glisten",
+ "name": "B.Glisten",
+ "name_full": "Bottom Glisten",
+ "name_jp": "ボトムグリストン",
+ "leg_type": "Aquatic",
+ "notes": "Gerado por tools/decomp_navi.py --export (stats do Navi na escala do Medabots). Editavel: o gerador le este arquivo. Campos 'navi' / 'legs_navi' sao so referencia (valores originais).",
+ "graphics_source": {
+  "rom": "0100 - Medarot Navi - Kuwagata Version (J)(Eurasia).gba",
+  "navi_id": 115,
+  "clone_for_missing_graphics": 0
+ },
+ "parts": {
+  "head": {
+   "name": "FLS-21NH",
+   "name_jp": "クーキデッポー",
+   "stats": {
+    "medal_compat": 3,
+    "technique": 7,
+    "speciality": 2,
+    "female": 0,
+    "armor": 35,
+    "success": 11,
+    "power": 40,
+    "chain_reaction": 1,
+    "uses_or_charge": 5,
+    "radiation": 0,
+    "u10": 32,
+    "buy_price": 14,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "right_arm": {
+   "name": "FLS-22NH",
+   "name_jp": "トランサイエンス",
+   "stats": {
+    "medal_compat": 16,
+    "technique": 35,
+    "speciality": 2,
+    "female": 0,
+    "armor": 10,
+    "success": 16,
+    "power": 12,
+    "chain_reaction": 1,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "left_arm": {
+   "name": "FLS-23NH",
+   "name_jp": "エヴァンシーン",
+   "stats": {
+    "medal_compat": 16,
+    "technique": 35,
+    "speciality": 2,
+    "female": 0,
+    "armor": 10,
+    "success": 15,
+    "power": 13,
+    "chain_reaction": 1,
+    "uses_or_charge": 11,
+    "radiation": 10,
+    "u10": 32,
+    "buy_price": 11,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  },
+  "legs": {
+   "name": "FLS-24NH",
+   "name_jp": "フワリン",
+   "stats": {
+    "medal_compat": 16,
+    "leg_type": 106,
+    "speciality": 0,
+    "female": 0,
+    "armor": 45,
+    "propulsion": 33,
+    "evasion": 75,
+    "defense": 31,
+    "proximity": 22,
+    "remoteness": 12,
+    "u10": 32,
+    "buy_price": 8,
+    "u12": 1,
+    "u13": 0,
+    "u14": 0,
+    "u15": 0
+   }
+  }
+ },
+ "medachange": null
+}

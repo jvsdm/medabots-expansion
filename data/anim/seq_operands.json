@@ -1,0 +1,273 @@
+{
+ "_doc": "Operand names of the move script commands (from src/battle/battle_sequence.c)",
+ "goto": [
+  "label"
+ ],
+ "branch": [
+  "label if 0",
+  "label if 1",
+  "?",
+  "?"
+ ],
+ "actor_pose": [
+  "delay",
+  "L head line",
+  "L right arm line",
+  "L left arm line",
+  "R head line",
+  "R right arm line",
+  "R left arm line"
+ ],
+ "target_pose": [
+  "delay",
+  "L head line",
+  "L right arm line",
+  "L left arm line",
+  "R head line",
+  "R right arm line",
+  "R left arm line"
+ ],
+ "actor_pose_loop": [
+  "delay",
+  "L head line",
+  "L right arm line",
+  "L left arm line",
+  "R head line",
+  "R right arm line",
+  "R left arm line"
+ ],
+ "target_pose_loop": [
+  "delay",
+  "L head line",
+  "L right arm line",
+  "L left arm line",
+  "R head line",
+  "R right arm line",
+  "R left arm line"
+ ],
+ "actor_dash": [
+  "speed"
+ ],
+ "wait_pose": [
+  "wait for"
+ ],
+ "bg_effect": [
+  "width (tiles)",
+  "height (tiles)",
+  "x tile",
+  "y tile",
+  "palette",
+  "delay",
+  "tile anim",
+  "tilemap"
+ ],
+ "bg_effect_fixed": [
+  "width (tiles)",
+  "height (tiles)",
+  "x tile",
+  "y tile",
+  "palette",
+  "delay",
+  "tile anim",
+  "tilemap"
+ ],
+ "bg_effect_noflip": [
+  "width (tiles)",
+  "height (tiles)",
+  "x tile",
+  "y tile",
+  "palette",
+  "delay",
+  "tile anim",
+  "tilemap"
+ ],
+ "bg_sweep": [
+  "width (tiles)",
+  "height (tiles)",
+  "x tile",
+  "y tile",
+  "palette",
+  "delay",
+  "tile anim",
+  "tilemap"
+ ],
+ "bg_effect_at": [
+  "width (tiles)",
+  "height (tiles)",
+  "x left",
+  "x right",
+  "palette",
+  "delay",
+  "tile anim",
+  "tilemap"
+ ],
+ "bg_effect_keep": [
+  "width (tiles)",
+  "height (tiles)",
+  "x left",
+  "x right",
+  "palette",
+  "delay",
+  "tile anim",
+  "tilemap"
+ ],
+ "wait_frames": [
+  "frames"
+ ],
+ "sound": [
+  "sound slot",
+  "delay",
+  "sound id",
+  "interval",
+  "count"
+ ],
+ "leg_sound": [
+  "sound slot",
+  "delay",
+  "leg sound set",
+  "interval",
+  "count"
+ ],
+ "actor_move": [
+  "motion table",
+  "motion row",
+  "frames"
+ ],
+ "camera_track": [
+  "delay",
+  "x",
+  "y",
+  "motion row",
+  "motion table"
+ ],
+ "camera_track_all": [
+  "delay",
+  "x",
+  "y",
+  "motion row",
+  "motion table"
+ ],
+ "load_effect_gfx": [
+  "gfx"
+ ],
+ "load_effect_gfx_ewram": [
+  "gfx"
+ ],
+ "load_effect_gfx_at": [
+  "gfx",
+  "OBJ tile"
+ ],
+ "spawn_effect": [
+  "move delay",
+  "x",
+  "y",
+  "motion row",
+  "motion table",
+  "show delay",
+  "priority",
+  "sprite anim"
+ ],
+ "spawn_effect_wave": [
+  "move delay",
+  "x",
+  "y",
+  "motion row",
+  "motion table",
+  "show delay",
+  "priority",
+  "sprite anim"
+ ],
+ "spawn_effect_tiles": [
+  "move delay",
+  "x",
+  "y",
+  "motion row",
+  "motion table",
+  "show delay",
+  "priority",
+  "sprite anim"
+ ],
+ "spawn_orbit": [
+  "move delay",
+  "x",
+  "y",
+  "motion row",
+  "motion table",
+  "show delay",
+  "priority",
+  "sprite anim"
+ ],
+ "spawn_effect_set": [
+  "delay",
+  "motion row",
+  "motion table",
+  "sprite anim"
+ ],
+ "wait_sprite_x": [
+  "x",
+  "sprite"
+ ],
+ "clear_sprites": [
+  "first slot",
+  "slot count"
+ ],
+ "play_anim": [
+  "delay",
+  "sprite anim",
+  "sprite slot",
+  "play slot",
+  "palette"
+ ],
+ "trail": [
+  "delay",
+  "source sprite",
+  "offset x",
+  "offset y",
+  "interval",
+  "puff anim",
+  "palette"
+ ],
+ "sprite_motion": [
+  "sprite",
+  "motion row",
+  "motion table"
+ ],
+ "sprite_flip": [
+  "sprite",
+  "flip h",
+  "flip v"
+ ],
+ "palette_fade": [
+  "mode",
+  "delay",
+  "red",
+  "green",
+  "blue"
+ ],
+ "backup_palette": [
+  "layer",
+  "palette"
+ ],
+ "set_tile_anim": [
+  "tile anim",
+  "sprite"
+ ],
+ "scale_sprite": [
+  "sprite",
+  "grow",
+  "sprite anim",
+  "scale step",
+  "scale x",
+  "scale y"
+ ],
+ "spawn_ring": [
+  "sprite",
+  "expand",
+  "sprite anim",
+  "radius"
+ ],
+ "armor_panel": [
+  "armor delay",
+  "drain delay"
+ ]
+}
